@@ -78,13 +78,13 @@ Ser la app líder en el cuidado digital de la glucosa a nivel global.
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/JairCoraje,jpg" height="100" width="100">
+            <br>Jair Andreé Coraje Bayona - U202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy estudiante de 8vo ciclo de Ingeniería de Software con experiencia en el desarrollo backend. Me considero una persona proactiva, responsable y listo para el trabajo en equipo. Puedo aportar a mi equipo de manera eficaz, por medio de la couminación. </td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>He trabajado en el desarrollo backend con tecnologías como Springboot, Flask y Express,js. Además tengo conocimientos en desarrollo en aplicaciones C++, Python y Java.</td>
         </tr>
     </body>
 </table>
