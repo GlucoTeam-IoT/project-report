@@ -56,13 +56,13 @@ Ser la app líder en el cuidado digital de la glucosa a nivel global.
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/JeremiAntonio.jpg" height="100" width="100"" height="100" width="100">
+            <br>Jeremi Jose Antonio Fretel - U202219022
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software en la UPC. Me considero una persona disciplinada y comprometida con mis objetivos académicos. Tengo interés en especializarme en desarrollo backend y bases de datos. </td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo conocimientos en: C++, Python, Java, HTML/CSS, React y SQL. He desarrollado proyectos académicos principalmente en C++. Soy organizado, metódico y me adapto bien al trabajo en equipo, aportando soluciones técnicas y cumpliendo con los plazos establecidos.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
