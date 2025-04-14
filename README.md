@@ -2,7 +2,7 @@
 
 # Universidad Peruana De Ciencas Aplicadas
 ## 1ASI0572 Desarrollo de Soluciones IoT
-### INGENIERÍA DE SISTEMAS DE SOFTWARE
+### INGENIERÍA DE SOFTWARE
 
 </center>
 
@@ -19,7 +19,7 @@
  </center> 
 
 * **Nombre Apellido    CODIGO**
-* **Maria Alejandra Díaz Villacrez  CODIGO**
+* **Maria Alejandra Díaz Villacrez  U202118315**
 * **Nombre Apellido    CODIGO**
 * **Nombre Apellido    CODIGO** 
 * **Nombre Apellido    CODIGO**
@@ -60,12 +60,6 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 
 - main
 - develop
-- chapter-I
-- chapter-II
-- chapter-III
-- chapter-IV
-- chapter-V
-- chapter-VI
 
 * #### Entregable TB1
 
