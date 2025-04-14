@@ -35,13 +35,15 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 2-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/StefanoValenzuela.jpeg" height="100" width="80">
+            <br>Stefano Alessandro Valenzuela Vallejos - U202214695
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy Alessandro Valenzuela Vallejos, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi formación se orienta a las áreas de Ciberseguridad, Auditoria y Arquitectura de Software, donde busco aplicar mis conocimientos para crear entornos digitales más seguros y eficientes.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Conocimientos en
+            Python, C++, HTML, SQL, ACL Analytics, Web Scraping, Power BI, NumPy, matplotlib, socket, redes TCP/IP, auditoría TI (COSO y COBIT), SOC 1
+            </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->

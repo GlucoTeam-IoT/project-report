@@ -15,10 +15,29 @@
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+Este diagrama ofrece una visión general de alto nivel de todos los actores y sistemas involucrados en el ecosistema de Glucova. Incluye a los usuarios clave (Supervisor y Especialista Encargado), el sistema principal Glucova, y sistemas externos como Stripe. Permite comprender cómo interactúan estos elementos entre sí, proporcionando una perspectiva global de la arquitectura del sistema.​
+
+
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/SystemLandscape.png" width="1000">
+</p>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+Este diagrama detalla cómo el sistema Glucova se relaciona con sus usuarios (Supervisor, Especialista Encargado y Paciente) y con sistemas externos como Azure IoT Hub, el Dispositivo IoT y Stripe. Proporciona una comprensión clara del entorno en el que opera Glucova y las interacciones clave que tiene con otros sistemas y actores.​
+
+
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/ContextDiagram.png" width="1000">
+</p>
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+Este diagrama descompone el sistema Glucova en sus principales contenedores o componentes, como la Aplicación Web, Aplicación Móvil, API REST, Base de Datos, Servicio de Autenticación, Aplicación Embebida (IoT), Servicio de Notificaciones y Servicio de Logs. Muestra cómo estos contenedores interactúan entre sí y con sistemas externos, proporcionando una visión detallada de la arquitectura interna de Glucova.​
+
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/Container Diagram.png" width="1000">
+</p>
+
+
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 
