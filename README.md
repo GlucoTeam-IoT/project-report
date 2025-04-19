@@ -22,7 +22,7 @@
 * **Maria Alejandra Díaz Villacrez  CODIGO**
 * **Nombre Apellido    CODIGO**
 * **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
+* **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
 <center>
 
@@ -54,7 +54,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -328,8 +328,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1:</b><br>
+        Durante el desarrollo del proyecto en el curso de IoT, trabajé de manera colaborativa con el equipo, proporcionando liderazgo en la elaboración de los diagramas C4 y el diseño de la estrategia de implementación del software. Me encargué de la creación de los diagramas que detallan la arquitectura del sistema y su despliegue, asegurando que todos los componentes estuvieran bien estructurados y fueran fácilmente comprensibles. Además, contribuyó a la arquitectura del software, analizando y proponiendo soluciones que optimizaran la comunicación entre los dispositivos y garantizaran un rendimiento eficiente. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y liderazgo, al coordinar y guiar las decisiones técnicas para lograr una solución IoT robusta y escalable.
       </td>   
     </tr>
     <tbody>
@@ -375,8 +375,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1</b><br>
+        En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
       </td>   
     </tr>
 </table>
