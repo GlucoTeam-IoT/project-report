@@ -13,7 +13,7 @@
 # Informe Trabajo Final
 ## Docente: Marco Antonio León Baca
 ## Startup: GlucoTeam
-## Producto: 
+## Producto: Glucova
 ## Integrantes 
 
  </center> 
@@ -292,11 +292,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo GlucoTeam demostró un efectivo liderazgo colaborativo durante el desarrollo del primer entregable, donde cada integrante asumió responsabilidades específicas según sus fortalezas: investigación con usuarios médicos, diseño y análisis de entrevistas, elaboración de user personas, análisis competitivo y diseño de arquitectura tecnológica. Esta distribución de liderazgos permitió abordar aspectos críticos del proyecto desde múltiples perspectivas, combinando habilidades técnicas y de investigación. El trabajo coordinado facilitó la integración coherente de los hallazgos, estableciendo una base sólida para el desarrollo de la solución IoT orientada al monitoreo de pacientes con diabetes, alineada con necesidades reales identificadas tanto en profesionales médicos como en pacientes.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -339,11 +339,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
