@@ -465,8 +465,8 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
     <table>
         <tr>
             <th rowspan="2">User Task</th>
-            <th colspan="2">Usuario 1</th>
-            <th colspan="2">Usuario 2</th>
+            <th colspan="2">Juan Luis Molina</th>
+            <th colspan="2">Fernando Montoya</th>
         </tr>
         <tr>
             <th>Frecuencia</th>
@@ -475,66 +475,74 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
             <th>Importancia</th>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Revisar niveles de glucosa del paciente</td>
+            <td>Often</td>
+            <td>High</td>
+            <td>Occasionally</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Registrar niveles de glucosa</td>
+            <td>Rarely</td>
+            <td>Medium</td>
+            <td>Often</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Interpretar resultados de glucosa</td>
+            <td>Very Often</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Compartir datos con el médico</td>
+            <td>Sometimes</td>
+            <td>High</td>
+            <td>Sometimes</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Recibir alertas por niveles fuera de rango</td>
+            <td>Sometimes</td>
+            <td>High</td>
+            <td>Often</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Consultar recomendaciones automáticas</td>
+            <td>Rarely</td>
+            <td>Medium</td>
+            <td>Often</td>
+            <td>High</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Generar o recibir reportes clínicos</td>
+            <td>Often</td>
+            <td>High</td>
+            <td>Rarely</td>
+            <td>Medium</td>
         </tr>
         <tr>
-            <td>Texto</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
-            <td>Val</td>
+            <td>Recibir recordatorios de medicación/control</td>
+            <td>Rarely</td>
+            <td>Low</td>
+            <td>Very Often</td>
+            <td>High</td>
         </tr>
     </table>
 </body>
 
 
+
 ### 2.3.3. User Journey Mapping.
+
+<strong>User Journey Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-II/Journey Maps/Journey-Paciente.png" width = "1000">
+<br><br><strong>User Journey Mapping - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-II/Journey Maps/Journey-Medico.png" width = "1000">
+
+### 2.3.4. Empathy Mapping.
 
 
 ### 2.3.5. As-is Scenario Mapping.
