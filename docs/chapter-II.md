@@ -571,3 +571,20 @@ El **lenguaje ubicuo** es una parte fundamental de la estrategia de UX. Se refie
 
 **Glosario:**
 
+- **Nivel de glucosa**: Valor numérico que indica la cantidad de glucosa en sangre.
+- **Medición**: Acción de registrar el nivel de glucosa mediante un dispositivo.
+- **Historial**: Registro cronológico de todas las mediciones realizadas por el usuario.
+- **Gráfica de evolución**: Visualización de la tendencia de glucosa en un periodo determinado.
+- **Rango normal**: Intervalo de valores saludables determinado clínicamente.
+- **Alerta**: Notificación automática generada cuando el nivel de glucosa está fuera del rango normal.
+- **Emergencia**: Evento crítico activado por niveles extremos de glucosa (muy bajos o muy altos).
+- **Recordatorio**: Notificación que avisa al usuario sobre la toma de medicamentos o la medición de glucosa.
+- **Seguimiento clínico**: Observación remota y análisis del progreso del paciente por parte del médico.
+- **Reporte de salud**: Documento visual que resume la evolución y alertas del paciente.
+- **Panel del paciente**: Sección de la app en la que el médico accede a la información del paciente.
+- **Dispositivo conectado**: Sensor IoT que registra los niveles de glucosa y los sincroniza automáticamente.
+- **Contacto de emergencia**: Persona designada para recibir notificaciones automáticas ante una emergencia.
+- **Tendencia**: Comportamiento continuo o patrón de variación de los niveles de glucosa a lo largo del tiempo.
+- **Modo de asistencia**: Funcionalidad que se activa ante emergencias para ejecutar protocolos automáticos.
+- **Registro manual**: Opción para que el usuario ingrese sus niveles cuando no cuenta con un sensor conectado.
+- **Indicador de riesgo**: Sello visual que advierte sobre comportamientos inusuales o riesgos clínicos potenciales.
