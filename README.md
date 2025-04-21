@@ -21,7 +21,7 @@
 * **Nombre Apellido    CODIGO**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Nombre Apellido    CODIGO**
-* **Nombre Apellido    CODIGO** 
+* **Jair Andreé Coraje Bayona    U202118775** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
 <center>
@@ -53,7 +53,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Jair Andreé Coraje Bayona (Jair365)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
@@ -316,8 +316,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Coraje Bayona, Jair TB1:</b><br>
+       Durante el desarrollo del proyecto, tuve una comunicación activa con mi equipo para fomentar el trabajo de cada uno, apoyando en la elaboracion del diseño de las entrevistas, y el analisis de estas, gracias a esto pudimos desarrollar a los user personas por cada uno de los sectores objetivos junto a sus journey maps y empathy maps, lo que nos permitio avanzar hacia el as-is scenario, además se aporto en el desarrollo del analisis competitivo, donde verificamos las foortalezas y debilidades frente a nuestros competidores. Este primer entregable me ayudo en fortalecer el trabajo en equipo y la colaboración continua.</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
@@ -363,8 +363,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Coraje Bayona, Jair TB1:</b><br>
+       Durante el desarrollo de este primer entregable, me enfoque en mantener el ambiente colaborativo de cada miembro del equipo, donde cada uno expreso sus aportes de manera verbal, asi como aportar el proyecto por medio de las entrevistas. Estableci metas concisas y tareas para el desarrollo de este entregable, lo que permitio que el equipo avance con tiempo cada parte del proyecto, logrando cumplir las tareas a tiempo y por ende el objetivo principal también.</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
