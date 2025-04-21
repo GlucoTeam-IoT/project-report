@@ -80,7 +80,7 @@ Ser la app líder en el cuidado digital de la glucosa a nivel global.
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="../assets/img/chapter-I/JairCoraje,jpg" height="100" width="100">
+            <img src="../assets/img/chapter-I/JairCoraje.jpg" height="120" width="100">
             <br>Jair Andreé Coraje Bayona - U202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
