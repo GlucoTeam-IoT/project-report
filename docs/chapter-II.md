@@ -238,31 +238,31 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 
 ### 2.2.2. Registro de entrevistas.
 
-## Entrevistas a segmento objetivo 1
+## Entrevistas a segmento objetivo 1: Pacientes con diabetes Tipo 2
 
 <table>
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Nombre</th>
+                <th>Matias Munives</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Jair Coraje</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>30</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Carabayllo</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/Entrevista Matias.png" width="400" ></td>
+                <td><strong>Resumen:</strong> Matías Joan Munieves, paciente de 30 años diagnosticado con diabetes tipo 2 hace cinco años, se mide la glucosa diariamente con un glucómetro proporcionado por el centro de salud, pero no utiliza ninguna aplicación. Expresó dificultad para interpretar los resultados y desea una app que le brinde explicaciones claras, alertas visuales, consejos personalizados, recordatorios automáticos y registro sin intervención manual, valorando una experiencia educativa y organizada.<br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
@@ -273,7 +273,7 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
                 <td></td>
             </tr>
         </tbody>
-                <thead>
+            <thead>
             <tr>
                 <th>Entrevistado 2</th>
                 <th>Nombre</th>
@@ -339,31 +339,31 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
         </tbody>
 </table>
 
-## Entrevista a segmento objetivo 2
+## Entrevista a segmento objetivo 2: Médicos especializados
 
 <table>
-        <thead>
+               <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Nombre</th>
+                <th>Fabian Reyes</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Estefano Valenzuela</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Lima</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/Entrevista Fabian Reyes.png" width="400" ></td>
+                <td><strong>Resumen:</strong> Fabian Reyes, interno de medicina con experiencia en endocrinología, atiende mensualmente a 20-25 pacientes con diabetes tipo 2 y utiliza glucómetros tradicionales en su práctica. Considera muy útil una aplicación como GlucoBA para recibir datos de monitoreo de glucosa, especialmente si ofrece gráficas de evolución, alertas por valores anormales y la posibilidad de compartir información con el médico. Destaca LibreLink como referente por su facilidad de uso y registro automático. <br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
@@ -374,7 +374,7 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
                 <td></td>
             </tr>
         </tbody>
-                <thead>
+            <thead>
             <tr>
                 <th>Entrevistado 2</th>
                 <th>Nombre</th>
