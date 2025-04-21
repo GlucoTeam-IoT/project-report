@@ -269,5 +269,10 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+A continuación, presentamos el diagrama de clases del dominio considerado para el **DeviceAlertSystem**
+<img src="../assets/img/chapter-IV/Diagramas IoT Software - Class Diagrams.png" width="1000">
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
+A continuación, presentamos el diagrama de base de datos para el sistema, considerado el **DeviceAlertSystem**
+
+<img src="../assets/img/chapter-IV/Diagramas IoT Software - Database Design Diagram..png" width="1000">
