@@ -546,10 +546,15 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 <strong>Empathy Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
 <img src="../assets/img/chapter-II/Empathy Maps/Empathy-Paciente.png" width = "1000">
-<br><br><strong>UEmpathy Mapping - Medico Especializado:</strong><br><br>
+<br><br><strong>Empathy Mapping - Medico Especializado:</strong><br><br>
 <img src="../assets/img/chapter-II/Empathy Maps/Empathy-Medico.png" width = "1000">
 
 ### 2.3.5. As-is Scenario Mapping.
+
+<strong>As-is Scenario Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-II/As-Is Scenario/Scenario Mapping-Paciente.jpg" >
+<br><br><strong>As-is Scenario Mapping - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-II/As-Is Scenario/Scenario Mapping-Medico.jpg" >
 
 
 ## 2.4. Ubiquitous Language.
