@@ -544,6 +544,10 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ### 2.3.4. Empathy Mapping.
 
+<strong>Empathy Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-II/Empathy Maps/Empathy-Paciente.png" width = "1000">
+<br><br><strong>UEmpathy Mapping - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-II/Empathy Maps/Empathy-Medico.png" width = "1000">
 
 ### 2.3.5. As-is Scenario Mapping.
 
