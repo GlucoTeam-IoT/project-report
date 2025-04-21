@@ -450,6 +450,12 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 
 ### 2.3.1. User Personas.
 
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas.
+
+<strong>User Persona - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-II/User Persona/User Persona-Paciente.png" width = "500">
+<br><br><strong>User Persona - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-II/User Persona/UserPersona-Medico.png" width = "500">
 
 ### 2.3.2. User Task Matrix.
 
