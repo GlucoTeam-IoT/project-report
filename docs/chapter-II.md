@@ -377,25 +377,25 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>Nombre</th>
+                <th>Jacqueline Samanez</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Maria Alejandra Diaz Villacrez</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>53</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/JacquelineS.png"></td>
+                <td><strong>Resumen:</strong> Jacqueline Samanez, endocrinóloga con 18 años de experiencia, atiende aproximadamente 45 pacientes con diabetes tipo 2 mensualmente en el Hospital Nacional Arzobispo Loayza. Indica que la mayoría de sus pacientes utilizan glucómetros tradicionales y registran los resultados manualmente en cuadernos. Considera extremadamente útil una aplicación que permita recibir datos digitales, ya que actualmente pierde tiempo valioso en consulta revisando anotaciones incompletas. Resalta la importancia de visualizar patrones mediante gráficas semanales (especialmente pre y postprandiales) y alertas de valores extremos. Ha recomendado la app Diabetes:M a algunos pacientes, pero señala que su interfaz es complicada para adultos mayores. Enfatiza que una aplicación ideal debe priorizar la simplicidad, ofrecer reportes exportables, alertas personalizables, diferenciación entre mediciones según las comidas y un sistema efectivo de recordatorios.<br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
