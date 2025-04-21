@@ -86,9 +86,100 @@ Esta identificación nos proporcionó una base sólida para continuar con el mod
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
+
+
 #### 4.1.1.3. Bounded Context Canvases
 
+
+
 ### 4.1.2. Context Mapping
+
+Después de identificar nuestros bounded contexts a través del EventStorming, procedimos a analizar las relaciones entre ellos para desarrollar un context mapping efectivo. Este proceso fue crucial para entender cómo los diferentes contextos interactúan entre sí y para definir claramente sus responsabilidades y límites.
+
+**Exploración de Alternativas de Diseño**
+
+Durante nuestras sesiones de trabajo, analizamos múltiples alternativas de diseño planteándonos las siguientes preguntas:
+
+- Primera alternativa: Context Map Inicial
+
+Nuestra primera aproximación fue un context map sencillo basado directamente en los bounded contexts identificados en el EventStorming:
+
+<p align="center"> <img src="../assets/img/chapter-IV/context-mapping-1.png" width="800"> </p>
+
+En este modelo inicial, identificamos las siguientes relaciones entre contextos:
+
+1. Access → Todos los demás contexts: Patrón Shared Kernel, ya que la información de autenticación y usuarios es fundamental para todos los demás contextos.
+
+2. Records → Alerts: Patrón Customer/Supplier, donde Records (Supplier) proporciona los datos de glucosa que Alerts (Customer) utiliza para evaluar condiciones y generar alertas.
+
+3. Configurations → Alerts y Schedules: Patrón Customer/Supplier, donde Configurations (Supplier) proporciona parámetros de configuración que afectan el comportamiento de Alerts y Schedules (Customers).
+
+4. Alerts → Emergencies: Patrón Upstream/Downstream, donde Alerts (Upstream) detecta situaciones anómalas que pueden desencadenar acciones en Emergencies (Downstream).
+
+5. Schedules → Records: Patrón Conformist, donde los registros deben ajustarse a los horarios establecidos para la toma de medicamentos y mediciones.
+
+- Segunda alternativa: Consolidación de Emergencies y Alerts
+
+Nos planteamos: "¿Qué pasaría si tomamos capabilities de Emergencies y Alerts para formar un nuevo context más cohesivo?"
+
+<p align="center"> <img src="../assets/img/chapter-IV/context-mapping-2.png" width="800"> </p>
+
+En esta alternativa:
+
+1. Fusionamos Emergencies y Alerts en un nuevo context llamado "Notification System"
+2. Esto simplificaría la lógica de escalación de alertas y reduciría la comunicación entre contextos
+3. Sin embargo, identificamos que las responsabilidades son conceptualmente distintas: Alerts se enfoca en la detección de condiciones anómalas, mientras que Emergencies gestiona protocolos de emergencia específicos
+
+- Tercera alternativa: Introducción de un Anti-corruption Layer
+
+Nos preguntamos: "¿Qué pasaría si aislamos los core capabilities y protegemos la integridad del modelo de dominio?"
+
+<p align="center"> <img src="../assets/img/chapter-IV/context-mapping-3.png" width="800"> </p>
+En esta alternativa:
+
+1. Introdujimos un patrón Anti-corruption Layer entre Records y Alerts para garantizar que los cambios en el modelo de datos de Records no afecten la lógica de Alerts
+2. También aplicamos este patrón entre Configurations y los demás contextos que dependen de la configuración
+3. Esto proporciona mayor flexibilidad para la evolución independiente de cada contexto
+
+- Cuarta alternativa: Shared Service para Notificaciones
+
+Nos planteamos: "¿Qué pasaría si creamos un shared service para reducir la duplicación entre múltiples bounded contexts?"
+
+<p align="center"> <img src="../assets/img/chapter-IV/context-mapping-4.png" width="800"> </p>
+En esta alternativa:
+
+1. Extraemos la funcionalidad de envío de notificaciones (común en Alerts, Schedules y Emergencies) a un nuevo context "Notification Service"
+2. Esto eliminaría la duplicación de código relacionado con el envío de notificaciones
+3. Los tres contextos originales se convierten en consumidores de este servicio compartido
+
+**Evaluación de Alternativas**
+
+Tras analizar las diferentes alternativas, evaluamos cada una considerando los siguientes criterios:
+
+1. Cohesión y acoplamiento: ¿Qué tan cohesivos son los contextos resultantes y qué nivel de acoplamiento existe entre ellos?
+2. Alineación con el negocio: ¿Cómo se alinean los contextos con las necesidades del negocio y los usuarios?
+3. Facilidad de evolución: ¿Qué tan fácil será evolucionar los contextos de manera independiente?
+4. Complejidad técnica: ¿Cuánta complejidad técnica implica cada alternativa?
+
+**Context Map Final**
+
+Después de evaluar las alternativas, seleccionamos una combinación de elementos de la tercera y cuarta alternativa como nuestra solución óptima:
+
+<p align="center"> <img src="../assets/img/chapter-IV/context-mapping-final.png" width="800"> </p>
+
+Nuestro context map final incluye:
+
+1. Shared Kernel para Access: Mantuvimos Access como un componente compartido que proporciona servicios de autenticación y autorización a todos los demás contextos.
+
+2. Records como Upstream Provider: Records se mantiene como el proveedor principal de datos de glucosa, con un Anti-corruption Layer que protege a los consumidores de los cambios en su modelo interno.
+
+3. Notification Service como Shared Service: Implementamos un servicio compartido de notificaciones para eliminar duplicación entre Alerts, Schedules y Emergencies.
+
+4. Configurations con Customer/Supplier: Configurations mantiene una relación clara de Customer/Supplier con los contextos que dependen de sus configuraciones.
+
+5. Emergencies con Conformist: Emergencies adopta un enfoque Conformist hacia Alerts, adaptándose a su modelo para simplificar la integración.
+
+Esta estructura final nos proporciona un equilibrio entre cohesión, bajo acoplamiento y flexibilidad para evolucionar cada contexto de manera independiente, mientras mantenemos claridad en las responsabilidades y relaciones entre ellos.
 
 ### 4.1.3. Software Architecture
 
