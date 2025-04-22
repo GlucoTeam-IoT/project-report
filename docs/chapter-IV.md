@@ -86,11 +86,43 @@ Esta identificación nos proporcionó una base sólida para continuar con el mod
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
+Los Domain Message Flows modelan las interacciones entre los diferentes bounded contexts, mostrando cómo se comunican entre sí mediante comandos, eventos y consultas. A continuación, presentamos los flujos de mensaje para cuatro escenarios clave de nuestra aplicación:
 
+**Scenario 1: Access platform as a new user**
+
+<img src="../assets/img/chapter-IV/domainMessage1.jpg"> 
+
+**Scenario 2: Add a glucose registry to history**
+
+<img src="../assets/img/chapter-IV/domainMessage2.jpg"> 
+
+**Scenario 3: Add medication schedule**
+
+<img src="../assets/img/chapter-IV/domainMessage3.jpg"> 
+
+**Scenario 4: Call an emergency contact**
+
+<img src="../assets/img/chapter-IV/domainMessage4.jpg"> 
+
+Estos flujos de mensaje son fundamentales para entender cómo los diferentes componentes de nuestro sistema interactúan entre sí, permitiéndonos identificar posibles cuellos de botella, optimizar la comunicación y garantizar que la arquitectura responda adecuadamente a los casos de uso principales.
 
 #### 4.1.1.3. Bounded Context Canvases
 
+Los Bounded Context Canvases son herramientas visuales que nos permiten documentar las características fundamentales de cada contexto delimitado, capturando su propósito estratégico, modelo de dominio, lenguaje ubicuo, políticas y relaciones con otros contextos. A continuación, presentamos los canvases para nuestros cuatro bounded contexts identificados, que nos ayudaron a definir claramente las responsabilidades y límites de cada uno.
 
+<img src="../assets/img/chapter-IV/contextCanvas1.jpg"> 
+
+<img src="../assets/img/chapter-IV/contextCanvas2.jpg"> 
+
+<img src="../assets/img/chapter-IV/contextCanvas3.jpg"> 
+
+<img src="../assets/img/chapter-IV/contextCanvas4.jpg"> 
+
+<img src="../assets/img/chapter-IV/contextCanvas5.jpg"> 
+
+<img src="../assets/img/chapter-IV/contextCanvas6.jpg"> 
+
+Estos canvases fueron herramientas fundamentales para definir la arquitectura de nuestra solución, permitiéndonos visualizar cada contexto como una unidad coherente con responsabilidades claras y bien definidas. Además, nos ayudaron a identificar los puntos de integración entre contextos que luego refinamos en el Context Mapping.
 
 ### 4.1.2. Context Mapping
 
