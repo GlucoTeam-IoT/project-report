@@ -18,11 +18,11 @@
 
  </center> 
 
-* **Nombre Apellido    CODIGO**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Jose Daniel Mario Calderon Huaman    U202213076**
 * **Jair Andreé Coraje Bayona    U202118775** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
+* **Jeremi Jose Antonio Fretel   U202219022**
 
 <center>
 
@@ -52,7 +52,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Jose Daniel Mario Calderon Huaman (drkdevv1)
-- Nombre Apellido (usuarioGithub)
+- Jeremi Jose Antonio Fretel (JeremiJose)
 - Jair Andreé Coraje Bayona (Jair365)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
@@ -302,8 +302,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
+      Durante el desarrollo del proyecto, me encargué de realizar la entrevista clave que sirvió de base para varios entregables posteriores. A partir de esta información, participé activamente en la elaboración del To-Be Scenario, proyectando cómo debería ser la experiencia del usuario en el futuro. Además, colaboré en la redacción de las User Stories, asegurando que se reflejaran correctamente las necesidades identificadas. También contribuí en la creación del Impact Mapping, conectando objetivos de negocio con funcionalidades específicas para priorizar mejor los esfuerzos del equipo. Finalmente, participé en la definición del Product Backlog, organizando y jerarquizando las tareas de acuerdo a su valor para el usuario y el proyecto. Esta experiencia me permitió fortalecer mis habilidades de análisis y estructuración de requerimientos, así como trabajar de forma alineada con el equipo.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -349,8 +349,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
+      Durante el desarrollo del proyecto, fomenté un entorno colaborativo e inclusivo al compartir los hallazgos obtenidos en la entrevista que realicé, lo cual permitió al equipo tener una base sólida para avanzar en los siguientes entregables. Junto a mis compañeros, establecimos metas claras para construir el To-Be Scenario, alineando nuestras ideas sobre la experiencia futura del usuario. A partir de ahí, planificamos las tareas para la elaboración de las User Stories, donde me aseguré de que reflejaran diversas perspectivas y necesidades identificadas. También colaboré activamente en el Impact Mapping, conectando los objetivos del proyecto con acciones concretas, lo que nos ayudó a definir prioridades de forma estratégica. Finalmente, participé en la estructuración del Product Backlog, garantizando una planificación clara que nos permitió cumplir con los objetivos establecidos en tiempo y forma. Esta experiencia reforzó mi capacidad para organizar el trabajo en equipo de manera efectiva y empática.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->

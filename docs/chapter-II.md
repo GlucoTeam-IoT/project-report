@@ -276,25 +276,25 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>Nombre</th>
+                <th>Diego Valdivia</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Jeremi Antonio</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Bellavista</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/Entrevista Diego.png"></td>
+                <td><strong>Resumen:</strong>Diego, practicante de Ingeniería de Sistemas de 20 años, fue diagnosticado con diabetes tipo 2 hace un par de años. Monitorea su glucosa diariamente con un glucómetro Accu-Chek y registra sus datos en Excel para visualizar su evolución. Encuentra útil una app que brinde alertas por niveles anormales, consejos personalizados y resúmenes automáticos. Destaca la necesidad de una interfaz clara que le indique si sus niveles están dentro de lo normal y le ayude a tomar decisiones rápidas.<br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
