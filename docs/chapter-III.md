@@ -2,7 +2,10 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-En esta sección se describe el mapeo de escenarios futuros.
+<strong>To-Be Scenario Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-III/To-Be Scenario/To Be Scenario Mapping-Paciente.png" >
+<br><br><strong>To-Be Scenario Mapping - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-III/To-Be Scenario/To Be Scenario Mapping-Medico.png" >
 
 ## 3.2. User Stories
 
@@ -630,7 +633,10 @@ En esta sección se describe el mapeo de escenarios futuros.
 
 ## 3.3. Impact Mapping
 
-En esta sección se detalla el mapa de impacto.
+<strong>Impact Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
+<img src="../assets/img/chapter-III/Impact Mapping/Impact Mapping-Paciente.png" >
+<br><br><strong>To-Be Scenario Mapping - Medico Especializado:</strong><br><br>
+<img src="../assets/img/chapter-III/Impact Mapping/Impact Mapping-Medico.png" >
 
 ## 3.4. Product Backlog
 
