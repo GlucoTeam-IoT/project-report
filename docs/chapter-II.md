@@ -409,25 +409,25 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
                 <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>Nombre</th>
+                <th>Maricielo Valdivia</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Jose Calderon</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>24</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Lima Cercado</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/ValdiviaS.png"></td>
+                <td><strong>Resumen: </strong> Marcielo Valdivia, endocrinóloga de 24 años con 4 años de experiencia, atiende entre 10 y 20 pacientes con diabetes tipo 2 mensualmente en la Clínica Internacional. Señala que la mayoría de sus pacientes utilizan glucómetros tradicionales con tiras reactivas, aunque algunos acceden a sensores continuos de glucosa, limitados por su costo. Considera muy útil recibir los datos de monitoreo a través de una app, ya que esto optimizaría el seguimiento clínico y permitiría detectar patrones con mayor precisión. Valora especialmente la visualización de gráficas de tendencias, registros diarios pre y postprandiales, alertas por valores fuera de rango y notas sobre contexto como alimentación o ejercicio. Ha recomendado el uso del sistema Freestyle Libre por su facilidad de uso y capacidad de compartir datos en tiempo real. Destaca que una app ideal debe tener una interfaz intuitiva, integración con dispositivos, registro automático, alertas configurables, herramientas educativas personalizadas y opciones para compartir la información con el médico.<br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
