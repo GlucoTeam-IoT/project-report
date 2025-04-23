@@ -20,7 +20,7 @@
 
 * **Nombre Apellido    CODIGO**
 * **Maria Alejandra Díaz Villacrez  U202118315**
-* **Nombre Apellido    CODIGO**
+* **Jose Daniel Mario Calderon Huaman    U202213076**
 * **Jair Andreé Coraje Bayona    U202118775** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
@@ -51,7 +51,7 @@ URL del repositorio para el reporte del proyecto: https://github.com/GlucoTeam-I
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
-- Nombre Apellido (usuarioGithub)
+- Jose Daniel Mario Calderon Huaman (drkdevv1)
 - Nombre Apellido (usuarioGithub)
 - Jair Andreé Coraje Bayona (Jair365)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
