@@ -309,8 +309,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
+        Durante el primer entregable, realicé un trabajo activo en equipo liderando la elaboración del Capítulo I del proyecto, el cual abarcó desde la descripción inicial de la startup hasta la definición de los segmentos objetivo. Asumí un rol propositivo y de liderazgo compartido al desarrollar secciones clave como la problemática, los perfiles del equipo, el perfil de la solución y los elementos del proceso Lean UX, como las problem statements, assumptions, hipótesis y el Lean UX Canvas. Además, promoví la colaboración entre los integrantes para alinear criterios y asegurar coherencia en el enfoque del proyecto. Esta experiencia me permitió ejercer liderazgo de forma conjunta, contribuyendo al desarrollo estratégico de la propuesta y facilitando la organización efectiva del equipo en las etapas iniciales.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
@@ -356,8 +356,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
+        Durante el primer entregable, realicé un trabajo centrado en fomentar un entorno colaborativo e inclusivo dentro del equipo, participando activamente en la definición de metas y la planificación de tareas relacionadas con el Capítulo I del proyecto. Coordiné la elaboración de secciones fundamentales como la descripción de la startup, los perfiles de los integrantes, el perfil de la solución, y los distintos elementos del proceso Lean UX. A través de una comunicación clara y abierta, promoví la participación de todos los miembros, asegurando que cada aporte fuera considerado y valorado. Gracias a una planificación estructurada, logramos cumplir con los objetivos planteados en el cronograma, manteniendo la coherencia y calidad del entregable.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
