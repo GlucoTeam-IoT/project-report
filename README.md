@@ -2,7 +2,7 @@
 
 # Universidad Peruana De Ciencas Aplicadas
 ## 1ASI0572 Desarrollo de Soluciones IoT
-### INGENIERÍA DE SISTEMAS DE SOFTWARE
+### INGENIERÍA DE SOFTWARE
 
 </center>
 
@@ -13,16 +13,16 @@
 # Informe Trabajo Final
 ## Docente: Marco Antonio León Baca
 ## Startup: GlucoTeam
-## Producto: 
+## Producto: Glucova
 ## Integrantes 
 
  </center> 
 
 * **Nombre Apellido    CODIGO**
-* **Maria Alejandra Díaz Villacrez  CODIGO**
-* **Nombre Apellido    CODIGO**
-* **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
+* **Maria Alejandra Díaz Villacrez  U202118315**
+* **Jose Daniel Mario Calderon Huaman    U202213076**
+* **Jair Andreé Coraje Bayona    U202118775** 
+* **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
 <center>
 
@@ -51,21 +51,15 @@ URL del repositorio para el reporte del proyecto: https://github.com/GlucoTeam-I
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
+- Jose Daniel Mario Calderon Huaman (drkdevv1)
 - Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Jair Andreé Coraje Bayona (Jair365)
+- Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
 - main
 - develop
-- chapter-I
-- chapter-II
-- chapter-III
-- chapter-IV
-- chapter-V
-- chapter-VI
 
 * #### Entregable TB1
 
@@ -298,11 +292,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo GlucoTeam demostró un efectivo liderazgo colaborativo durante el desarrollo del primer entregable, donde cada integrante asumió responsabilidades específicas según sus fortalezas: investigación con usuarios médicos, diseño y análisis de entrevistas, elaboración de user personas, análisis competitivo y diseño de arquitectura tecnológica. Esta distribución de liderazgos permitió abordar aspectos críticos del proyecto desde múltiples perspectivas, combinando habilidades técnicas y de investigación. El trabajo coordinado facilitó la integración coherente de los hallazgos, estableciendo una base sólida para el desarrollo de la solución IoT orientada al monitoreo de pacientes con diabetes, alineada con necesidades reales identificadas tanto en profesionales médicos como en pacientes.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -322,14 +316,14 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Coraje Bayona, Jair TB1:</b><br>
+       Durante el desarrollo del proyecto, tuve una comunicación activa con mi equipo para fomentar el trabajo de cada uno, apoyando en la elaboracion del diseño de las entrevistas, y el analisis de estas, gracias a esto pudimos desarrollar a los user personas por cada uno de los sectores objetivos junto a sus journey maps y empathy maps, lo que nos permitio avanzar hacia el as-is scenario, además se aporto en el desarrollo del analisis competitivo, donde verificamos las foortalezas y debilidades frente a nuestros competidores. Este primer entregable me ayudo en fortalecer el trabajo en equipo y la colaboración continua.</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1:</b><br>
+        Durante el desarrollo del proyecto en el curso de IoT, trabajé de manera colaborativa con el equipo, proporcionando liderazgo en la elaboración de los diagramas C4 y el diseño de la estrategia de implementación del software. Me encargué de la creación de los diagramas que detallan la arquitectura del sistema y su despliegue, asegurando que todos los componentes estuvieran bien estructurados y fueran fácilmente comprensibles. Además, contribuyó a la arquitectura del software, analizando y proponiendo soluciones que optimizaran la comunicación entre los dispositivos y garantizaran un rendimiento eficiente. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y liderazgo, al coordinar y guiar las decisiones técnicas para lograr una solución IoT robusta y escalable.
       </td>   
     </tr>
     <tbody>
@@ -345,11 +339,11 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -369,14 +363,14 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Coraje Bayona, Jair TB1:</b><br>
+       Durante el desarrollo de este primer entregable, me enfoque en mantener el ambiente colaborativo de cada miembro del equipo, donde cada uno expreso sus aportes de manera verbal, asi como aportar el proyecto por medio de las entrevistas. Estableci metas concisas y tareas para el desarrollo de este entregable, lo que permitio que el equipo avance con tiempo cada parte del proyecto, logrando cumplir las tareas a tiempo y por ende el objetivo principal también.</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1</b><br>
+        En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
       </td>   
     </tr>
 </table>

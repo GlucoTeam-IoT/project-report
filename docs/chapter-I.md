@@ -6,7 +6,7 @@ En esta sección describimos el perfil de nuestra Startup.
 
 ### 1.1.1. Descripción de la Startup
 
-Glucoteam es una startup tecnológica peruana dedicada al diseño y desarrollo de soluciones digitales innovadoras para el monitoreo y control de enfermedades crónicas, en especial aquellas relacionadas con los niveles de glucosa en sangre. Nuestra empresa nace con la convicción de que la tecnología puede ser una herramienta poderosa para transformar el cuidado de la salud, brindando autonomía, prevención y acompañamiento continuo a los pacientes.
+Glucoteam es una startup tecnológica peruana dedicada al diseño y desarrollo de soluciones digitales innovadoras para el monitoreo y control de la diabetes y otras condiciones asociadas a la glucosa alta. Nuestra empresa nace con la convicción de que la tecnología puede ser una herramienta poderosa para transformar el cuidado de la salud, brindando autonomía, prevención y acompañamiento continuo a los pacientes.
 
 Creemos en una atención médica más proactiva y personalizada. Por ello, en Glucoteam trabajamos con un enfoque centrado en el usuario, combinando herramientas digitales intuitivas, datos en tiempo real y soporte accesible, para ayudar a quienes viven con prediabetes, diabetes tipo 2 u otras condiciones relacionadas, a tomar decisiones informadas sobre su bienestar diario.
 
@@ -45,24 +45,26 @@ Ser la app líder en el cuidado digital de la glucosa a nivel global.
         <tr>
             <!-- DATOS del integrante 2-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/StefanoValenzuela.jpeg" height="100" width="80">
+            <br>Stefano Alessandro Valenzuela Vallejos - U202214695
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy Alessandro Valenzuela Vallejos, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi formación se orienta a las áreas de Ciberseguridad, Auditoria y Arquitectura de Software, donde busco aplicar mis conocimientos para crear entornos digitales más seguros y eficientes.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Conocimientos en
+            Python, C++, HTML, SQL, ACL Analytics, Web Scraping, Power BI, NumPy, matplotlib, socket, redes TCP/IP, auditoría TI (COSO y COBIT), SOC 1
+            </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/JeremiAntonio.jpg" height="100" width="100"" height="100" width="100">
+            <br>Jeremi Jose Antonio Fretel - U202219022
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software en la UPC. Me considero una persona disciplinada y comprometida con mis objetivos académicos. Tengo interés en especializarme en desarrollo backend y bases de datos. </td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo conocimientos en: C++, Python, Java, HTML/CSS, React y SQL. He desarrollado proyectos académicos principalmente en C++. Soy organizado, metódico y me adapto bien al trabajo en equipo, aportando soluciones técnicas y cumpliendo con los plazos establecidos.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
@@ -78,7 +80,7 @@ Ser la app líder en el cuidado digital de la glucosa a nivel global.
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="../assets/img/chapter-I/JairCoraje,jpg" height="100" width="100">
+            <img src="../assets/img/chapter-I/JairCoraje.jpg" height="120" width="100">
             <br>Jair Andreé Coraje Bayona - U202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
@@ -97,16 +99,14 @@ En esta sección se detallan los segmentos de descripición de nuestra solución
 Glucova
 
 **Product Description:**
-Glucova es una aplicación diseñada para asistir a personas con glucosa alta en el control de su salud diaria. Ofrece recordatorios para medicamentos y comidas, alertas cuando los niveles de glucosa son anormales, y un sistema de emergencia que notifica a contactos de confianza o servicios médicos en caso necesario. Además, permite registrar datos, generar reportes de salud y recibir recomendaciones personalizadas.
+Glucova es una aplicación diseñada para asistir a personas con diabetes y otras condiciones asociadas a la glucosa alta en el control de su salud diaria. Ofrece recordatorios para medicamentos y comidas, alertas cuando los niveles de glucosa son anormales, y un sistema de emergencia que notifica a contactos de confianza o servicios médicos en caso necesario. Además, permite registrar datos, generar reportes de salud y recibir recomendaciones personalizadas.
 
 **Monetización:**
-La app seguirá un modelo freemium.
+La estrategia de monetización se centrará en la venta directa del dispositivo IoT de monitoreo de glucosa desarrollado por Glucoteam.
 
-* **Versión gratuita:** acceso a funciones básicas como recordatorios, registro de niveles de glucosa y alertas simples.
+* **Compra única del dispositivo:** los usuarios adquirirán el dispositivo IoT que permite el monitoreo continuo y preciso de los niveles de glucosa en sangre, con conectividad directa a la aplicación móvil de Glucoteam.
 
-* **Versión premium:** suscripción mensual o anual que incluye alertas avanzadas, integración con dispositivos médicos, reportes detallados, personalización de alertas y asistencia prioritaria.
-
-Se contempla también alianzas con centros de salud y aseguradoras para ofrecer planes especiales a sus pacientes.
+* **Acceso gratuito a la app:** con la compra del dispositivo, los usuarios obtendrán acceso completo a todas las funcionalidades de la app, sin necesidad de suscripciones adicionales.
 
 
 ### 1.2.1. Antecedentes y problemática
@@ -214,7 +214,7 @@ Sabremos que tenemos éxito cuando veamos una respuesta oportuna ante emergencia
  
 #### 1.2.2.2. Lean UX Assumptions.
 
-- **Users:** Pacientes con diabetes tipo 2, prediabetes, o personas preocupadas por el control de sus niveles de glucosa en sangre. Esto incluye a personas de diversas edades, pero con un enfoque inicial en adultos de entre 30 y 60 años. Además, Personal Médico que necesita monitorear a los pacientes de manera remota y reaccionar ante situaciones de emergencia.
+- **Users:** Personas con diabetes tipo 1, tipo 2, prediabetes, o aquellas con niveles elevados de glucosa en sangre que buscan mejorar el control de su salud. Esto incluye a usuarios de diversas edades, con un enfoque inicial en adultos de entre 30 y 60 años. También incluye a profesionales de la salud que necesitan monitorear remotamente a sus pacientes y responder ante posibles emergencias.
 
 - **User Outcomes:** Los usuarios, tanto pacientes como personal médico, serán capaces de realizar un seguimiento de los niveles de glucosa de manera eficiente, recibir alertas personalizadas y estar mejor preparados ante emergencias relacionadas con la glucosa. Esto se traducirá en una mejor calidad de vida y un control más efectivo de la salud.
 
@@ -275,8 +275,8 @@ We will have demonstrated this when superemos la meta de usuarios activos dentro
   <tr>
     <td style="vertical-align: top;">
       <strong>Users & Customers</strong><br>
-      - Usuarios principales: Pacientes con diabetes tipo 2 o prediabetes que buscan mejorar el control de su salud.<br>
-      - Clientes secundarios: Personal médico, que se beneficiará de los datos de monitoreo de glucosa y las alertas de emergencia.
+      - Usuarios principales: Personas con diabetes (tipo 1, tipo 2) o niveles elevados de glucosa, incluyendo casos de prediabetes, que buscan mejorar el control de su salud mediante el monitoreo continuo.<br>
+      - Clientes secundarios: Profesionales de la salud (médicos generales, endocrinólogos, nutricionistas, enfermeros), quienes se beneficiarán del acceso a datos de monitoreo en tiempo real y alertas críticas para una atención más precisa y oportuna.
     </td>
     <td style="vertical-align: top;">
       <strong>User Benefits</strong><br>
@@ -311,19 +311,19 @@ We will have demonstrated this when superemos la meta de usuarios activos dentro
 
 ## 1.3. Segmentos Objetivos
 
-### Pacientes con Diabetes Tipo 2
+### Personas con Diabetes o Niveles Elevados de Glucosa
 
-Este segmento está compuesto por personas diagnosticadas con diabetes tipo 2, una enfermedad crónica que afecta la forma en que el cuerpo procesa la glucosa. Los pacientes con esta condición requieren monitoreos regulares, mantenimiento de una dieta saludable, adherencia a tratamientos farmacológicos y, en algunos casos, modificaciones en su estilo de vida. El principal desafío es lograr un control efectivo de los niveles de glucosa para prevenir complicaciones asociadas.
+Este segmento está conformado por personas diagnosticadas con diabetes tipo 1, tipo 2 o prediabetes, así como aquellas con hiperglucemia recurrente que requieren un monitoreo constante para prevenir complicaciones. Estos usuarios necesitan herramientas que faciliten el seguimiento de sus niveles de glucosa, promuevan hábitos saludables, apoyen el cumplimiento de tratamientos médicos y ayuden a tomar decisiones informadas sobre su salud.
 
 **Características Demográficas:**
 
-- Edad: Principalmente adultos mayores de 40 años; sin embargo, la incidencia en personas más jóvenes ha aumentado debido a factores como la obesidad y el sedentarismo.​
+- Edad: Abarca desde jóvenes adultos hasta adultos mayores, con un aumento de casos en personas menores de 40 años debido a factores como la obesidad, el sedentarismo y malos hábitos alimenticios.
 
-- Género: Afecta tanto a hombres como a mujeres, con una ligera predominancia en hombres en ciertos estudios.​
+- Género: Afecta tanto a hombres como a mujeres, con variaciones según el tipo de diabetes y el entorno sociocultural.
 
-- Ingreso: Predomina en personas con ingresos medios y bajos, especialmente en áreas rurales donde el acceso a atención médica es limitado.​
+- Ingreso: Común en personas con ingresos medios y bajos, especialmente en regiones con limitado acceso a servicios de salud y educación nutricional.
 
-- Localización: Mayor prevalencia en áreas urbanas; no obstante, estudios recientes indican un aumento en áreas rurales debido a cambios en el estilo de vida.
+- Localización: Mayor prevalencia en zonas urbanas debido a estilos de vida poco saludables, pero también se observa un crecimiento en áreas rurales por la transición hacia hábitos alimentarios procesados y menor actividad física.
 
 **Información Estadística de Sustento:**
 
@@ -335,18 +335,20 @@ CONSULTORSALUD
 
 - Se estima que para 2024, el número de personas con diabetes en el país aumentará a 1,721,000, reflejando una tendencia al alza en la incidencia de la enfermedad.
 
-### Médicos Especialistas
-Este segmento incluye a endocrinólogos y otros profesionales de la salud especializados en el diagnóstico y tratamiento de trastornos hormonales y metabólicos, incluyendo la diabetes tipo 2. Su labor es fundamental en el manejo integral de la enfermedad, ofreciendo orientación médica, ajustes terapéuticos y educación a los pacientes.
+### Personal Médico
+Este segmento incluye a profesionales de la salud que participan en la prevención, diagnóstico, monitoreo y tratamiento de la diabetes y otras condiciones relacionadas con niveles elevados de glucosa en sangre. Entre ellos se encuentran médicos generales, endocrinólogos, nutricionistas, enfermeros, educadores en diabetes y otros especialistas que desempeñan un papel clave en el acompañamiento integral de los pacientes.
+
+Su intervención es esencial para brindar orientación clínica, ajustar tratamientos, interpretar resultados de monitoreo, educar a los pacientes y promover el autocuidado.
 
 **Características Demográficas:**
 
-- Edad: Varía ampliamente; desde médicos recién graduados en endocrinología hasta profesionales con décadas de experiencia.​
+- Edad: Varía ampliamente, desde profesionales recién egresados hasta médicos con años de experiencia en el campo de la salud metabólica.
 
-- Género: Representación equilibrada entre hombres y mujeres.​
+- Género: Participación equitativa de hombres y mujeres.
 
-- Educación y Formación: Médicos con especialización en endocrinología, muchos con formación adicional en subespecialidades relacionadas.​
+- Educación y Formación: Profesionales con formación en medicina, enfermería, nutrición o áreas afines, muchos con especialización o experiencia en el tratamiento de enfermedades crónicas como la diabetes.
 
-- Localización: Presencia en hospitales y clínicas de todo el país, con mayor concentración en áreas urbanas debido a la infraestructura médica disponible.​
+- Localización: Actúan en hospitales, centros de salud, clínicas privadas y programas comunitarios, con mayor presencia en zonas urbanas, aunque también en expansión hacia áreas rurales mediante iniciativas de salud pública.
 
 **Información Estadística de Sustento:**
 - La Sociedad Peruana de Endocrinología, que agrupa a especialistas en el área, juega un papel crucial en la formación continua y actualización de estos profesionales. ​
