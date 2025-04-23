@@ -635,7 +635,7 @@
 
 <strong>Impact Mapping - Paciente con diabetes Tipo 2 :</strong><br><br>
 <img src="../assets/img/chapter-III/Impact Mapping/Impact Mapping-Paciente.png" >
-<br><br><strong>To-Be Scenario Mapping - Medico Especializado:</strong><br><br>
+<br><br><strong>Impact Mapping - Medico Especializado:</strong><br><br>
 <img src="../assets/img/chapter-III/Impact Mapping/Impact Mapping-Medico.png" >
 
 ## 3.4. Product Backlog
