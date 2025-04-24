@@ -382,10 +382,13 @@ En esta sección se presentan las interfaces serán consumidas por la aplicació
 **Aplicacition Layer** En esta sección presentamos los commandHandlers y EventHandlers encargados de manejar los comandos y eventos respectivos tras las solicitudes realizadas a las implementaciones de las interfaces del ítem anterior.
 - **CreateDeviceCommandHandler**: Maneja el comando de crear un nuevo dispositivo.
 - **DeviceCreatedEventHandler**: Maneja el evento de creación de un nuevo dispositivo.
+<img src="../assets/img/chapter-IV/Application Layer.png" width="1000">
+
 #### 4.2.1.4. Infrastructure Layer
 En esta sección presentamos las clases que se encargan de conectar con servicios externos:
 - **LocationServiceProvider**: Proveedor de servicios externos para obtener datos de ubicación.
 - **NotificationServiceProvider**: Proveedor de servicios externos para enviar notificaciones
+<img src="../assets/img/chapter-IV/Infrastructure Layer.png" width="1000">
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -393,9 +396,9 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 A continuación, presentamos el diagrama de clases del dominio considerado para el **DeviceAlertSystem**
-<img src="../assets/img/chapter-IV/Diagramas IoT Software - Class Diagrams.png" width="1000">
+<img src="../assets/img/chapter-IV/Diagrama de clases.png" width="1500">
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 A continuación, presentamos el diagrama de base de datos para el sistema, considerado el **DeviceAlertSystem**
 
-<img src="../assets/img/chapter-IV/Diagramas IoT Software - Database Design Diagram..png" width="1000">
+<img src="../assets/img/chapter-IV/Diagrama de Base de datos.png" width="1000">
