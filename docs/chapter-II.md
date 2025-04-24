@@ -308,25 +308,25 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
                 <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>Nombre</th>
+                <th>Sebastian Lobato</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Jose Calderon</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>La Molina</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/SebastianL.png"></td>
+                <td><strong>Resumen:</strong> Sebastian Lobato, estudiante universitario de 20 años, vive en La Molina y fue diagnosticado con diabetes tipo 2 hace 2 años. Utiliza un glucómetro tradicional con tiras para medirse la glucosa una vez al día, pero solo lleva registros esporádicamente en una libreta o una app básica. Señala que a veces le cuesta interpretar los resultados que obtiene y no siempre sabe si están dentro del rango saludable. Considera que una app ideal debería ofrecer explicaciones claras sobre sus valores, gráficos comprensibles, recordatorios para medirse y la opción de compartir los resultados con su médico o familiares.<br></td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
