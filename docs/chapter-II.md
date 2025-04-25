@@ -18,7 +18,7 @@ En este apartado el equipo realizará investigaciones sobre nuestros potenciales
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th><strong>Glucova</strong><br><img src="" width="100" alt="Glucova logo"></th>
+            <th><strong>Glucova</strong><br><img src="../assets/img/chapter-II/Glucova.png" width="100" alt="Glucova logo"></th>
             <th><strong>Dexcom</strong><br><img src="../assets/img/chapter-II/dexcom.avif" width="100" alt="Dexcom logo"></th>
             <th><strong>FreeStyle Libre</strong><br><img src="../assets/img/chapter-II/FreeStyle.png" width="100" alt="FreeStyle Libre logo"></th>
             <th><strong>Medtronic Diabetes</strong><br><img src="../assets/img/chapter-II/medtronic.jpg" width="100" alt="Medtronic Diabetes logo"></th>
