@@ -266,11 +266,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>11:21 - 14:56; 3 minutos 35 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
             <thead>
@@ -298,11 +298,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>14:57 - 19:37; 4 minutos 40 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
                 <thead>
@@ -330,11 +330,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>19:39 - 21:50; 2 minutos 11 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
 </table>
@@ -367,11 +367,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>00:05 - 04:30; 4 minutos 25 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
             <thead>
@@ -399,11 +399,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>04:32 - 08:07; 3 minutos 35 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
                 <thead>
@@ -431,11 +431,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>08:08 - 11:18; 3 minutos 10 segundos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ESx9u_XlwYZMsbrWCoQvktMBqo0x2LhzBwOt0eKIkHRiFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWf3V0</td>
             </tr>
         </tbody>
 </table>
@@ -443,6 +443,11 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 
 ### 2.2.3. Análisis de entrevistas.
 
+<strong>Analisis de la entrevista a Medicos especializados:</strong><br>
+Las entrevistas realizadas a tres médicos especializados (dos endocrinólogos y un médico interno) evidencian una necesidad compartida de digitalizar el monitoreo de glucosa en pacientes con diabetes tipo 2. El 100% de los entrevistados afirmó que sus pacientes utilizan glucómetros tradicionales y llevan registros manuales (libretas u hojas), lo cual representa una barrera para el análisis clínico preciso. Además, todos consideran “muy útil” o “sumamente útil” contar con una aplicación que centralice los datos y permita visualizar gráficas de evolución, generar alertas automáticas por valores fuera de rango y compartir reportes en tiempo real con el médico. En cuanto a la información prioritaria, el 100% coincidió en la importancia de las gráficas y el seguimiento personalizado, mientras que el 66% valoró también las alertas clínicas y el registro contextual (como dieta o ejercicio). Asimismo, los tres entrevistados señalaron que la app debe ser fácil de usar para pacientes de diversas edades, y dos de ellos mencionaron haber recomendado previamente apps como LibreLink o Diabetes:M, aunque advirtieron limitaciones en accesibilidad y comprensión para adultos mayores. Estos hallazgos validan la propuesta de Glucova como una solución alineada con las expectativas del sector médico, y revelan una clara oportunidad de mejora frente a las soluciones actuales.
+
+<strong>Analisis de la entrevista a Pacientes con diabetes Tipo 2:</strong><br>
+Las tres entrevistas a pacientes con diabetes tipo 2 reflejan una experiencia común marcada por el uso de glucómetros tradicionales y un registro manual o inconsistente de los resultados. El 100% de los entrevistados utiliza glucómetros físicos, pero ninguno emplea una aplicación especializada de manera constante, y solo uno usa Excel como alternativa digital. Todos coincidieron en que los dispositivos actuales no ofrecen interpretaciones claras, generando confusión sobre si los valores son normales o requieren atención médica. Además, señalaron que les gustaría contar con una app que traduzca los datos en información comprensible, con funciones como alertas automáticas, recomendaciones personalizadas, recordatorios y visualización de gráficos simples. El 100% expresó dificultades para interpretar sus resultados y preocupación por no saber cómo actuar ante un valor anómalo. Esta consistencia evidencia una clara brecha en la experiencia actual del paciente y valida la propuesta de valor de Glucova como herramienta educativa, predictiva y acompañante en el manejo diario de la diabetes.
 
 ## 2.3. Needfinding. 
 
