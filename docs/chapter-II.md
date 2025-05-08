@@ -204,7 +204,7 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 ### 2.2.1. Diseño de entrevistas.
 
 **Segmento objetivo 1: Pacientes con diabetes Tipo 2**
-
+.
 * **Preguntas demográficas:**
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
