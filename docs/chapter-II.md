@@ -201,40 +201,54 @@ Luego de haber realizado el análisis de nuestra solución con respecto a soluci
 
 En este punto el equipo realizará entrevistas a nuestros segmentos objetivos previamente identificados con el fin de poder conocer y empatizar con las necesidades de los mismos.
 
-### 2.2.1. Diseño de entrevistas.
+### 2.2.1. Diseño de entrevistas
 
-**Segmento objetivo 1: Pacientes con diabetes Tipo 2**
-.
-* **Preguntas demográficas:**
+---
+
+#### **Segmento objetivo 1: Pacientes con Diabetes**
+
+**Propósito de la entrevista:**
+Conocer de manera directa las prácticas, dificultades y necesidades actuales que enfrentan los pacientes con Diabetes Tipo 2 en el monitoreo de su glucosa. Esta información permitirá validar la utilidad, usabilidad y expectativas sobre una posible solución tecnológica que mejore su calidad de vida.
+
+**Preguntas demográficas:**
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
 3. ¿En qué distrito vive?
 4. ¿Cuál es su ocupación actual?
 5. ¿Hace cuánto tiempo fue diagnosticado con Diabetes tipo 2?
 
-* **Preguntas sobre sus preferencias:**
+**Preguntas sobre sus preferencias:**
+
 6. ¿Actualmente utiliza algún dispositivo o aplicación para monitorear su nivel de glucosa? ¿Cuál?
 7. ¿Con qué frecuencia mide su nivel de glucosa?
 8. ¿Lleva un registro de sus niveles? ¿Cómo lo hace (libreta, app, Excel, etc.)?
 
-* **Preguntas sobre la solución:**
+**Preguntas sobre la solución:**
+
 9. ¿Qué tan fácil o difícil le resulta entender los resultados que obtiene de estos dispositivos?
 10. ¿Qué funcionalidades le gustaría que tuviera una app o dispositivo para ayudarle con su control de glucosa?
 
-**Segmento objetivo 2: Médicos especializados**
+---
+
+#### **Segmento objetivo 2: Médicos Especializados**
+
+**Propósito de la entrevista:**
+Obtener una visión profesional y técnica sobre el seguimiento de pacientes con Diabetes Tipo 2, identificar cómo los médicos utilizan o podrían beneficiarse del uso de tecnología para mejorar el tratamiento, y conocer su percepción sobre herramientas digitales en el monitoreo de glucosa.
+
+**Preguntas demográficas:**
 1. ¿Cuál es su nombre completo?
 2. ¿Qué especialidad médica ejerce?
 3. ¿En qué clínica u hospital labora actualmente?
 4. ¿Cuántos años de experiencia tiene tratando pacientes con Diabetes tipo 2?
 5. ¿Cuántos pacientes con esta condición atiende aproximadamente al mes?
 
-* **Preguntas sobre la solución:**
+**Preguntas sobre la solución:**
+
 6. ¿Qué métodos utilizan sus pacientes para monitorear sus niveles de glucosa actualmente?
 7. ¿Considera útil recibir los datos de monitoreo de glucosa de sus pacientes a través de una app?
 8. ¿Qué tipo de información considera más relevante recibir (niveles diarios, gráficas, alertas)?
 9. ¿Ha recomendado alguna app o dispositivo de monitoreo a sus pacientes? ¿Cuál y por qué?
 10. ¿Qué características considera indispensables en una aplicación orientada al control de la diabetes?
-
 
 ### 2.2.2. Registro de entrevistas.
 

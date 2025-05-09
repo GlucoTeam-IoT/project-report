@@ -235,7 +235,7 @@ Este diagrama detalla cómo el sistema Glucova se relaciona con sus usuarios (Su
 Este diagrama descompone el sistema Glucova en sus principales contenedores o componentes, como la Aplicación Web, Aplicación Móvil, API REST, Base de Datos, Servicio de Autenticación, Aplicación Embebida (IoT), Servicio de Notificaciones y Servicio de Logs. Muestra cómo estos contenedores interactúan entre sí y con sistemas externos, proporcionando una visión detallada de la arquitectura interna de Glucova.​
 
 <p align="center">
-  <img src="../assets/img/chapter-IV/c4 models/Container Diagram.png" width="1000">
+  <img src="..\assets\img\chapter-IV\c4 models\ContainerDiagram.png" width="1000">
 </p>
 
 
@@ -362,6 +362,9 @@ En el núcleo del sistema Glucova, la clase central identificada es `DeviceAlert
   - Dispone de una conexión activa a Internet para la transmisión y sincronización de datos.
 
 Este diseño asegura que el dispositivo opere de manera eficiente dentro del ecosistema de Glucova, facilitando en tiempo real del estado de salud del paciente al respectivo encargado.
+
+<img src="../assets/img/chapter-IV/Domain Layer.png" width="1000">
+
 #### 4.2.1.2. Interface Layer
 ##### Entites
 - DeviceAlertSystem: Representa la alerta del monitor de diabetes
@@ -374,6 +377,9 @@ Este diseño asegura que el dispositivo opere de manera eficiente dentro del eco
 - DeviceFactory: Fabrica para crear instancias de dispositivos.
 ##### Interfaces
 - DeviceRepository: Interfaz para la gestión de datos.
+
+<img src="../assets/img/chapter-IV/Interface Layer.png" width="1000">
+
 
 #### 4.2.1.3. Application Layer
 En esta sección se presentan las interfaces serán consumidas por la aplicación cliente para realizar cambios relacionados a los datos de la pulsera
@@ -392,7 +398,33 @@ En esta sección presentamos las clases que se encargan de conectar con servicio
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+- ###### Glucova - Access Context
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/[Component] Glucova - Access Context.png" width="1000">
+</p>
+
+- ###### Glucova - Alerts Context
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/[Component] Glucova - Alerts Context.png" width="1000">
+</p>
+
+- ###### Glucova - Configurations Context
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/[Component] Glucova - Configurations Context.png" width="1000">
+</p>
+
+- ###### Glucova - Records Context.png
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/[Component] Glucova - Records Context.png" width="1000">
+</p>
+
+- ###### Glucova - Schedules Context
+<p align="center">
+  <img src="../assets/img/chapter-IV/c4 models/[Component] Glucova - Schedules Context.png" width="1000">
+</p>
+
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+<img src="../assets/img/chapter-IV/Code Diagram.png" width="1000">
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 A continuación, presentamos el diagrama de clases del dominio considerado para el **DeviceAlertSystem**
