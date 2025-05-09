@@ -205,7 +205,7 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 
 ---
 
-#### **Segmento objetivo 1: Pacientes con diabetes Tipo 2**
+#### **Segmento objetivo 1: Pacientes con Diabetes**
 
 **Propósito de la entrevista:**
 Conocer de manera directa las prácticas, dificultades y necesidades actuales que enfrentan los pacientes con Diabetes Tipo 2 en el monitoreo de su glucosa. Esta información permitirá validar la utilidad, usabilidad y expectativas sobre una posible solución tecnológica que mejore su calidad de vida.
@@ -218,17 +218,19 @@ Conocer de manera directa las prácticas, dificultades y necesidades actuales qu
 5. ¿Hace cuánto tiempo fue diagnosticado con Diabetes tipo 2?
 
 **Preguntas sobre sus preferencias:**
+
 6. ¿Actualmente utiliza algún dispositivo o aplicación para monitorear su nivel de glucosa? ¿Cuál?
 7. ¿Con qué frecuencia mide su nivel de glucosa?
 8. ¿Lleva un registro de sus niveles? ¿Cómo lo hace (libreta, app, Excel, etc.)?
 
 **Preguntas sobre la solución:**
+
 9. ¿Qué tan fácil o difícil le resulta entender los resultados que obtiene de estos dispositivos?
 10. ¿Qué funcionalidades le gustaría que tuviera una app o dispositivo para ayudarle con su control de glucosa?
 
 ---
 
-#### **Segmento objetivo 2: Médicos especializados**
+#### **Segmento objetivo 2: Médicos Especializados**
 
 **Propósito de la entrevista:**
 Obtener una visión profesional y técnica sobre el seguimiento de pacientes con Diabetes Tipo 2, identificar cómo los médicos utilizan o podrían beneficiarse del uso de tecnología para mejorar el tratamiento, y conocer su percepción sobre herramientas digitales en el monitoreo de glucosa.
@@ -241,6 +243,7 @@ Obtener una visión profesional y técnica sobre el seguimiento de pacientes con
 5. ¿Cuántos pacientes con esta condición atiende aproximadamente al mes?
 
 **Preguntas sobre la solución:**
+
 6. ¿Qué métodos utilizan sus pacientes para monitorear sus niveles de glucosa actualmente?
 7. ¿Considera útil recibir los datos de monitoreo de glucosa de sus pacientes a través de una app?
 8. ¿Qué tipo de información considera más relevante recibir (niveles diarios, gráficas, alertas)?
