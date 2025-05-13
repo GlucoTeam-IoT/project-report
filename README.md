@@ -41,6 +41,8 @@
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1    | 04/05/2025 | Alejandra Díaz                                                                | Se comienza la redaccion de los capitulos para el entragable parcial |
+
 
 
 
@@ -292,7 +294,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto.
+        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto. </br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+        Durante el desarrollo del proyecto, asumí el liderazgo en la implementación del backend, diseñando y desarrollando la arquitectura de los servicios RESTful que soportan la solución IoT. Me encargué de definir las estructuras de datos y endpoints necesarios para la comunicación entre los dispositivos IoT y la aplicación, asegurando una integración eficiente y escalable. Además, trabajé en estrecha colaboración con el equipo de frontend y UX/UI para garantizar que las funcionalidades del backend respondieran a las necesidades identificadas en las entrevistas y user personas. Este trabajo permitió establecer una base técnica sólida para el proyecto, alineada con los objetivos del equipo.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
@@ -339,7 +343,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.
+        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.</br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+        Para fomentar un entorno colaborativo, organicé reuniones técnicas donde compartí avances y desafíos relacionados con el backend, asegurando que todos los miembros del equipo comprendieran su funcionamiento y pudieran integrarlo con sus respectivas áreas. Establecí metas claras para el desarrollo de las APIs, dividiendo las tareas en sprints manejables y priorizando funcionalidades críticas como la autenticación de usuarios y la gestión de datos médicos. Gracias a una planificación detallada y comunicación constante, logramos cumplir con los objetivos establecidos dentro del cronograma, asegurando que el backend estuviera listo para las pruebas de integración con el resto del sistema.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
