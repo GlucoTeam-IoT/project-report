@@ -319,7 +319,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
         Durante el primer entregable, realicé un trabajo activo en equipo liderando la elaboración del Capítulo I del proyecto, el cual abarcó desde la descripción inicial de la startup hasta la definición de los segmentos objetivo. Asumí un rol propositivo y de liderazgo compartido al desarrollar secciones clave como la problemática, los perfiles del equipo, el perfil de la solución y los elementos del proceso Lean UX, como las problem statements, assumptions, hipótesis y el Lean UX Canvas. Además, promoví la colaboración entre los integrantes para alinear criterios y asegurar coherencia en el enfoque del proyecto. Esta experiencia me permitió ejercer liderazgo de forma conjunta, contribuyendo al desarrollo estratégico de la propuesta y facilitando la organización efectiva del equipo en las etapas iniciales.
-        <b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
+        <br><b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
         En TP1, participé en la construcción del frontend, enfocándome en la implementación de visualizaciones estadísticas de los reportes del paciente. Contribuí en la integración con la interfaz y Landing Page, además, me aseguré que los gráficos y elementos visuales cumplieran con los estándares de usabilidad establecidos por el equipo de UX/UI. También colaboré en la validación final de los wireflows e hice observaciones sobre la arquitectura del sistema.
       </td>    
     </tr>

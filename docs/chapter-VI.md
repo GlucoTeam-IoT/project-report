@@ -498,8 +498,16 @@ A continuación, se presentan los aportes de los integrantes en cada uno de los 
 ---
 
 ### 9. Anexos
+- Landing Page Enlace: https://glucova.netlify.app/
 
-<table>
+- FrontEnd Enlace: https://glucovaapp.netlify.app
+
+- BackEnd Enlace: https://glucova-backend.onrender.com
+
+- Enlace del prototipo Figma: https://www.figma.com/proto/UNEzJ9s5wbYGMDJ9zfTBHK/Untitled?node-id=2-461&starting-point-node-id=2%3A461&t=hd6Gpzpw4UIrp1EU-1
+
+- Trello Enlace: https://trello.com/invite/b/6824c0c9708134539efb1ce2/ATTI6a737156d9441e6e8f5641062eb348b9D947085F/upc-pre-202510-1asi0572-2952-glucoteam-trello
+- <table>
     <thead>
         <tr>
             <th>Sección</th>

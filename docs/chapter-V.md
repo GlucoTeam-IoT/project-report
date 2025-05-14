@@ -441,6 +441,7 @@ A continuación, se presentan los mock-ups de la aplicación GlucoVa, diseñados
 </table>
 
 ## 5.5. Applications Prototyping
+Enlace del prototipo Figma: https://www.figma.com/proto/UNEzJ9s5wbYGMDJ9zfTBHK/Untitled?node-id=2-461&starting-point-node-id=2%3A461&t=hd6Gpzpw4UIrp1EU-1
 
 #### USER GOAL 1:
 Como usuario deseo poder registrarme en la aplicacion para poder acceder a sus beneficios
