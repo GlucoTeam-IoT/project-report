@@ -394,7 +394,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1</b><br>
         En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
-        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre Tp1</b><br>
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TP1</b><br>
         Durante esta fase del proyecto, lideré la implementación del frontend y el despliegue de la landing page, asegurando su correcto funcionamiento en diferentes entornos. Además, coordiné con el equipo de UX/UI para la definición de los wireflows, validando su funcionalidad e integración con la lógica de la solución. También me encargué de la revisión técnica y actualización de los diagramas C4, incorporando mejoras identificadas durante la implementación. Este trabajo consolidó la arquitectura del proyecto, garantizando su alineación con los requerimientos técnicos y de experiencia de usuario.
       </td>   
     </tr>

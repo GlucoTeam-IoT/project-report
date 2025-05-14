@@ -312,12 +312,22 @@ A continuación, se presenta una tabla con información de ejemplo sobre los rep
     </tbody>
 </table>
 
+Link del github: https://github.com/orgs/GlucoTeam-IoT/repositories
+
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 A continuación, se presenta una tabla con información del repositorio de las pruebas, y los commits realizados durante el sprint:
 
+
 | Repository            | Branch             | Commit Id | Commit Message                  | Commit Message Body                                                                 | Commited on (Date) |
 |-----------------------|--------------------|-----------|----------------------------------|--------------------------------------------------------------------------------------|---------------------|
-| user/repositoryname   | feature/loremipsum | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 10f4f4eef88c494a28b0d3adf243e0a91541a403   | feat: add initial Gherkin scenarios for user login| - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 9c29455e7e93e7d2d7a08a8d64e364076e19e59e   | feat: Implement login functionality with valid and invalid credentials validation | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | c1025c1f441cb869f54f12ec9fefc28759361642   | feat: Add user registration functionality with validation for existing emails and weak passwords | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | c2113e94ae7750870fbdc2673817b00581cb918b   | feat: Implement patient report statistics table and handle no data scenario | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | d20684cc54df8314d1c204b258d53d014bab21be   | feat: Implement latest patient report view and handle no recent report scenario | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 5d42f094ff687eddcebed90f8a947c310788b0c2   | feat: Implement user location capture and handle location access and network issues | - | 14/05/2025        |
+
+Link del github: https://github.com/GlucoTeam-IoT/GlucoTeam-acceptance-tests/commits/develop
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
 
