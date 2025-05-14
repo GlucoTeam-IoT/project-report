@@ -345,7 +345,9 @@ Enlace: https://glucova.netlify.app/
 <br>
 **Evidencia de ejecución Frontend Web Application desplegado:**
 
-Enlace: <>
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/front.png">
+
+Enlace: https://glucovaapp.netlify.app
 
 <br>
 
@@ -361,6 +363,14 @@ Como evidencia del despliegue de la landing:
 <img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence2-landing.png">
 
 Enlace: https://glucova.netlify.app/
+
+
+Como evidencia del despliegue de la frontend:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
+
+Enlace: https://glucovaapp.netlify.app
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
