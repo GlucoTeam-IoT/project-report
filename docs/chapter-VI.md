@@ -4,11 +4,152 @@
 
 ### 6.1.1. Software Development Environment Configuration
 
+A continuación, describiremos los productos de software que hemos empleado durante el desarrollo del proyecto.
+
+#### Project Management
+
+- **Metodología Scrum**:  
+  Seguimos un enfoque basado en Scrum para la gestión del proyecto, organizando el trabajo en sprints y realizando reuniones de planificación, revisión y retrospectiva.
+
+#### Requirements Management
+
+- **Trello**:  
+  Utilizamos Trello (disponible en: https://trello.com/) para organizar y gestionar los requisitos del proyecto. Creamos un **product backlog** donde priorizamos las historias de usuario utilizando la técnica de estimación **Fibonacci**. Además, organizamos las tareas en diferentes secciones según las épicas, lo que facilitó la planificación y el seguimiento del progreso.
+
+#### Product UX/UI Design
+
+- **Figma**:  
+  La plataforma de Figma (disponible en: https://www.figma.com/) nos ayudó a desarrollar los wireframes, mockups y prototyping del mobile applications.
+
+- **Miro**:  
+  Miro (disponible en: https://miro.com/) nos fue de utilidad para poder realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada uno de los segmentos objetivos.
+
+- **UXPressia**:  
+  La plataforma UXPressia (disponible en: https://uxpressia.com/) se empleó para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps. Hemos hecho uso de las plantillas que UXPressia nos ofrece para elaborar cada una de ellas. Nos permitió exportar lo que se realizó para incluirlo en el trabajo.
+
+#### Software Development
+
+- **Landing Page**:  
+  Para el desarrollo se utilizaron las tecnologías:  
+  React (disponible en: https://reactjs.org/), TypeScript (disponible en: https://www.typescriptlang.org/), Tailwind (disponible en: https://tailwindcss.com/) y Framer Motion (disponible en: https://www.framer.com/motion/).
+
+- **Frontend Web App**:  
+  Para el desarrollo se utilizaron las tecnologías:  
+  React (disponible en: https://reactjs.org/), TypeScript (disponible en: https://www.typescriptlang.org/), Tailwind (disponible en: https://tailwindcss.com/) y Framer Motion (disponible en: https://www.framer.com/motion/).
+
+#### Software Deployment
+
+- **Netlify**:  
+  Para implementar el despliegue de la Landing Page, se llevó a cabo la conexión entre el repositorio de GitHub (disponible en: https://github.com/) y Netlify (disponible en: https://www.netlify.com/). Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+
+#### Software Documentation
+
+- **GitHub**:  
+  Plataforma empleada tanto como para la creación de la documentación y de la Landing page. Nuestro equipo eligió esta plataforma debido a que nos permite trabajar de manera colaborativa. Más información en GitHub (disponible en: https://github.com/).
+
 ### 6.1.2. Source Code Management
+
+La administración y estructuración de las múltiples modificaciones se realizaron mediante la creación de un repositorio en GitHub para el proyecto. Nuestra organización se estructuró de la siguiente manera:
+
+- **Organización**: https://github.com/GlucoTeam-IoT
+
+- **Repositorio de la Landing Page**: https://github.com/GlucoTeam-IoT/landing-page
+
+- **Repositorio del Frontend Web Application**: https://github.com/GlucoTeam-IoT/glucova-frontend
+
+- **Repositorio del Project report**: https://github.com/GlucoTeam-IoT/project-report
+
+Además, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se procedió a utilizar Gitflow.
+
+De esta forma, se establecieron 2 ramas principales: `main` y `develop`.
+
+**Ramas principales:**
+
+- **Rama `main`**: En esta rama se almacenan las versiones oficiales de nuestro repositorio para pasarlas a producción.
+- **Rama `develop`**: Esta rama se utiliza como punto de integración para las ramas de `feature`. Una vez que el equipo considera que el código está listo, se fusiona con la rama `main`.
+
+**Ramas auxiliares:**
+
+- **Ramas `feature`**: En estas ramas se desarrollan las características generales que se integrarán en la rama `develop`. Estas características corresponden a funcionalidades específicas solicitadas por los usuarios, tanto en la página de inicio como en la aplicación web. Por ejemplo, la rama `feature/chapter-I`.
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+#### Convenciones de Source Code
+
+- **TypeScript**:
+
+  - Utilizamos `strict mode` para garantizar un código más seguro y menos propenso a errores.
+  - Usamos tipos específicos en lugar de `any` para mantener la tipificación estricta.
+
+- **React**:
+
+  - Los componentes funcionales se escriben utilizando funciones flecha.
+  - Los nombres de los componentes siguen el formato PascalCase (por ejemplo, `UserProfile`).
+  - Se utiliza `prop-types` o interfaces de TypeScript para validar las props de los componentes.
+
+- **Tailwind CSS**:
+  - Las clases de Tailwind se organizan siguiendo un orden lógico: primero las relacionadas con el diseño (layout), luego las de estilo visual (color, borde, etc.).
+  - Se evita el uso de clases personalizadas en CSS siempre que sea posible, priorizando las utilidades de Tailwind.
+
+#### Convenciones de Commits
+
+Nuestro equipo sigue las **Convenciones de Commits**, adoptando el formato de los “Conventional Commits” en su versión 1.0.0 (disponible en: https://www.conventionalcommits.org/en/v1.0.0/). Esto asegura una fácil comprensión y trazabilidad de los cambios realizados en el código. La estructura utilizada es la siguiente:
+
+```
+<type>[scope opcional]: <description>
+```
+
+- **type**: Indica el tipo de modificación realizada, como `feat` (nueva funcionalidad), `fix` (corrección de errores), `docs` (documentación), entre otros.
+- **scope**: Define el alcance del cambio realizado en el código (opcional).
+- **description**: Proporciona un resumen breve y claro de los cambios implementados.
+
+Ejemplo de commit:
+
+```
+feat(navbar): add responsive design for mobile devices
+```
+
+#### Convenciones de Versionado
+
+Para la gestión de versiones, seguimos el estándar **Semantic Versioning 2.0.0**. Las versiones se presentan en el formato `(X.Y.Z)` con las siguientes interpretaciones:
+
+- **X (Major)**: Cambios importantes que no son compatibles con versiones anteriores. Iniciamos en `0` durante la etapa de desarrollo inicial y transicionamos a `1` cuando la versión esté lista para su lanzamiento público. Al incrementar `X`, los valores de `Y` y `Z` se reinician a `0`.
+- **Y (Minor)**: Cambios secundarios que son compatibles con versiones anteriores, como nuevas funcionalidades. Al incrementar `Y`, el valor de `Z` se reinicia a `0`.
+- **Z (Patch)**: Correcciones menores de errores o parches que no afectan la compatibilidad.
+
+Ejemplo de versión:
+
+```
+1.2.3
+```
+
+En este caso:
+
+- `1` indica una versión principal.
+- `2` representa una versión secundaria con nuevas funcionalidades.
+- `3` refleja correcciones menores o parches.
+
+Estas convenciones nos permiten mantener un control claro y organizado sobre el desarrollo y las actualizaciones del proyecto.
+
 ### 6.1.4. Software Deployment Configuration
+
+- Entrar a Netlify y presionar la opción de “Import an existing project”
+
+<img src="../assets/img/chapter-VI/software-deployment-configuration/import.png" height="150" width="240">
+
+- Después seleccionar la opcion de “Deploy con github”
+
+<img src="../assets/img/chapter-VI/software-deployment-configuration/deploy.png">
+
+- Luego seleccionamos nuestra organización y dentro de ella buscar el repositorio del proyecto que deseamos subir a producción
+
+<img src="../assets/img/chapter-VI/software-deployment-configuration/repo.png">
+
+- Finalmente presionar el botón con el nombre de proyecto a desplegar
+
+- Enlace de la Landing page desplegada: https://glucova.netlify.app/
+
+-Enlace del Frontend Web Application desplegado: <>
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -64,20 +205,19 @@
 
 ### 7.2. Video About-the-Team
 
->  Puedes ver nuestro video de presentación del equipo y el proyecto en el siguiente enlace:  
-[Video About-the-Team]()  
->
+> Puedes ver nuestro video de presentación del equipo y el proyecto en el siguiente enlace:  
+> [Video About-the-Team]()
 
 ---
 
 ### 8. Bibliografía
 
-- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
-- Newman, S. (2015). *Building Microservices: Designing Fine-Grained Systems*. O’Reilly Media.
-- Fielding, R. (2000). *Architectural Styles and the Design of Network-based Software Architectures* (Doctoral dissertation, University of California).
-- IEEE Standards Association. (2020). *IEEE Standard for Software and System Test Documentation*.
-- Organización Mundial de la Salud (OMS). (2023). *Informe mundial sobre la diabetes*. Recuperado de [https://www.who.int/es/news-room/fact-sheets/detail/diabetes](https://www.who.int/es/news-room/fact-sheets/detail/diabetes)
-- Mayo Clinic. (2023). *Diabetes - Síntomas y causas*. Recuperado de [https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444](https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444)
+- Evans, E. (2004). _Domain-Driven Design: Tackling Complexity in the Heart of Software_. Addison-Wesley.
+- Newman, S. (2015). _Building Microservices: Designing Fine-Grained Systems_. O’Reilly Media.
+- Fielding, R. (2000). _Architectural Styles and the Design of Network-based Software Architectures_ (Doctoral dissertation, University of California).
+- IEEE Standards Association. (2020). _IEEE Standard for Software and System Test Documentation_.
+- Organización Mundial de la Salud (OMS). (2023). _Informe mundial sobre la diabetes_. Recuperado de [https://www.who.int/es/news-room/fact-sheets/detail/diabetes](https://www.who.int/es/news-room/fact-sheets/detail/diabetes)
+- Mayo Clinic. (2023). _Diabetes - Síntomas y causas_. Recuperado de [https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444](https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444)
 
 ---
 
