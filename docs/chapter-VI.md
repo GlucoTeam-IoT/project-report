@@ -149,7 +149,7 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 - Enlace de la Landing page desplegada: https://glucova.netlify.app/
 
-- Enlace del Frontend Web Application desplegado: https://glucovaapp.netlify.app/
+-Enlace del Frontend Web Application desplegado: <>
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -170,8 +170,8 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 | **Sprint n – 1 Retrospective Summary** | No aplica, ya que este es el Sprint inicial del proyecto. |
 | **Sprint Goal & User Stories**       |                                            |
 | **Sprint n Goal**                    | **Nuestro enfoque** está en entregar la primera versión funcional del sistema, incluyendo el registro, inicio de sesión y visualizaciones básicas de salud. <br> **Creemos que** esto brinda confianza y utilidad a los cuidadores y familiares. <br>**Esto se confirmará cuando** los usuarios puedan registrarse, iniciar sesión y visualizar los reportes iniciales y ubicación del paciente a través del landing page desplegado. |
-| **Sprint n Velocity**                | 19 |
-| **Sum of Story Points**              | 19 |
+| **Sprint n Velocity**                | 25 |
+| **Sum of Story Points**              | 25 |
 
 #### 6.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo incluiremos la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint.
@@ -179,8 +179,8 @@ En esta sección el equipo incluiremos la elaboración de un artefacto Leadershi
 | Team Member (Last Name, First Name)       | GitHub Username | Acceso a la cuenta	 Leader (L) / Collaborator (C) | Registro de cuenta Leader (L) / Collaborator (C) | Estadísticas del paciente	Leader (L) / Collaborator (C) | Último reporte del paciente	 Leader (L) / Collaborator (C) | Captura de ubicación Leader (L) / Collaborator (C) | 
 |-------------------------------------------|-----------------|---------------------------------------------|---------------------------------------------|-----|---------------------------------------------|---------------------------------------------|
 | Valenzuela Vallejos, Alessandro             | AlessandroUPC   | L                                           | L                                        | L |                               C              | C
-| Coraje Bayona, Jair André              | Jair365          | C                                           | C                                           | C | L                                           | C
-| Calderón Huamán, José Daniel           | drkdevv1          | C                                           | C                                           | C | C                                           | L
+| Coraje Bayona, Jair André              |  Jair365         | C                                           | C                                           | C | L                                           | C
+| Calderón Huamán, José Daniel           |   drkdevv1        | C                                           | C                                           | C | C                                           | L
 
 #### 6.2.1.3. Sprint Backlog 1
 A continuación, la estructura de la tabla para el Sprint 1 :
@@ -188,18 +188,23 @@ A continuación, la estructura de la tabla para el Sprint 1 :
 | Sprint # | Sprint 1 | 
 |----------------|------------------|
 
-| User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-|----------------|------------------|----------------------|-------------------------|-------------|---------------------|--------------|-------------------------------------------------|
-|     US001  |      Acceso a la cuenta (Web application)    |    T1            |      Desarrollar función de validación de credenciales del usuario                 |       Implementar función para acceder a cuenta de usuario. Y poder verificar las credenciales y datos de la persona.               |             4            |        Jair Andreé Coraje Bayona     |        Done             |              |                                                 |
-|  US003        |  Registro de cuenta (Web Application)        |           T2     |         Desarrollar función de registro de usuario         |            Implementar función para registrio en el sistema.         |             4            |   Jair Andreé Coraje Bayona           |            Done         |              |                                                 |
-|     US032     |       Estadísticas sobre reportes del paciente (Frontend)   |         T3       |           Desarrollar visualizaciones estadísticas que permitan a los usuarios analizar el estado de salud del paciente.        |             Implementar una tabla de visualizaciones estadísticas que permitan a los usuarios analizar el estado de salud del paciente mediante datos históricos.         |               8          |      Jose Daniel Mario Calderon Huaman       |           Done          |              |                                                 |
-|     US033     |    Consulta del último reporte del paciente (Frontend)      |       T4         |       Desarrollar una función que muestre el reporte más reciente del paciente.            |          Implementar una función que muestre el reporte más reciente del paciente, proporcionando información actualizada sobre su condición.               |            8             |     Jair Andreé Coraje Bayona         |         To-Review            |              |                                                 |
-|     US034     |   Captura de Ubicación       |        T5        |           Desarollar la primera función de transmición para posición o ubicación del usuario.         |       Implementar la transmicion de la posición del usuario, con el fin de facilitar la localización en caso de emergencias.               |              5           |       Jose Daniel Mario Calderon Huaman      |           Done          |              |                                                 |
+| User Story Id | User Story Title                                                 | Work-Item / Task Id | Work-Item / Task Title                                               | Description                                                                                                                                       | Estimation (Hours) | Assigned To                          | Status        |
+|---------------|------------------------------------------------------------------|----------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------|----------------|
+| US001         | Acceso a la cuenta (Web application)                            | T1                   | Desarrollar función de validación de credenciales del usuario        | Implementar función para acceder a cuenta de usuario y verificar credenciales y datos.                                                           | 4                   | Jair Andreé Coraje Bayona             | Done           |
+| US003         | Registro de cuenta (Web Application)                            | T2                   | Desarrollar función de registro de usuario                           | Implementar función para registro en el sistema.                                                                                                  | 4                   | Jair Andreé Coraje Bayona             | Done           |
+| US010         | Sección About Us                                                | T3                   | Desarrollar visualización de la información del grupo                | Implementar función para mostrar que los desarrolladores tienen experiencia en desarrollo de software.                                            | 3                   | Jose Daniel Mario Calderon Huaman     | Done           |
+| US011         | Sección About the Product                                       | T4                   | Desarrollar visualización de la información del producto             | Implementar función para visualizar información del producto y verificar funcionalidades antes de probarlo.                                       | 3                   | Jose Daniel Mario Calderon Huaman     | Done           |
+| US012         | Sección Contacto                                                | T5                   | Desarrollar recuadro de contacto                                     | Implementar función para enviar un mensaje y reportar errores o problemas.                                                                       | 2                   | Jose Daniel Mario Calderon Huaman     | Done           |
+| US032         | Estadísticas sobre reportes del paciente (Frontend)             | T6                   | Desarrollar visualizaciones estadísticas                             | Implementar tabla de visualizaciones estadísticas para analizar el estado de salud del paciente mediante datos históricos.                        | 5                   | Jose Daniel Mario Calderon Huaman     | Done           |
+| US033         | Consulta del último reporte del paciente (Frontend)             | T7                   | Desarrollar función para mostrar el último reporte del paciente      | Implementar función que muestre el reporte más reciente del paciente con información actualizada sobre su condición.                             | 5                   | Jair Andreé Coraje Bayona             | To-Review      |
+| US034         | Captura de Ubicación                                            | T8                   | Desarrollar función de transmisión de la ubicación del usuario       | Implementar transmisión de la posición del usuario para facilitar la localización en emergencias.                                                | 5                   | Jose Daniel Mario Calderon Huaman     | Done           |
 
+
+Enlace del Trello Sprint 1: https://trello.com/b/qBZuOZ98/upc-pre-202510-1asi0572-2952-glucoteam-trello#
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
-A continuación, se presenta una tabla con información sobre los repositorios y commits realizados durante el sprint:
+A continuación, se presenta una tabla con información de ejemplo sobre los repositorios y commits realizados durante el sprint:
 
 <table>
     <thead>
@@ -312,7 +317,7 @@ A continuación, se presenta una tabla con información sobre los repositorios y
     </tbody>
 </table>
 
-Link del github: https://github.com/orgs/GlucoTeam-IoT/repositories
+Enlace del github: https://github.com/orgs/GlucoTeam-IoT/repositories
 
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 A continuación, se presenta una tabla con información del repositorio de las pruebas, y los commits realizados durante el sprint:
@@ -327,7 +332,7 @@ A continuación, se presenta una tabla con información del repositorio de las p
 | GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | d20684cc54df8314d1c204b258d53d014bab21be   | feat: Implement latest patient report view and handle no recent report scenario | - | 14/05/2025        |
 | GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 5d42f094ff687eddcebed90f8a947c310788b0c2   | feat: Implement user location capture and handle location access and network issues | - | 14/05/2025        |
 
-Link del github: https://github.com/GlucoTeam-IoT/GlucoTeam-acceptance-tests/commits/develop
+Enlace del github: https://github.com/GlucoTeam-IoT/GlucoTeam-acceptance-tests/commits/develop
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
 
@@ -340,12 +345,9 @@ Enlace: https://glucova.netlify.app/
 <br>
 **Evidencia de ejecución Frontend Web Application desplegado:**
 
-<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/front.png">
-
-Enlace: https://glucovaapp.netlify.app/
+Enlace: <>
 
 <br>
-
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
@@ -358,15 +360,6 @@ Como evidencia del despliegue de la landing:
 <img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence2-landing.png">
 
 Enlace: https://glucova.netlify.app/
-
-**Evidencia del despliegue del Frontend Web Application:**
-
-Como evidencia del despliegue de la landing:
-<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
-
-<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
-
-Enlace: https://glucovaapp.netlify.app/
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
