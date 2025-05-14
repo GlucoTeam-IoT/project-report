@@ -133,6 +133,10 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 ### 6.1.4. Software Deployment Configuration
 
+Para los despliegues tanto como el frontend y backend utilizamos un proceso similar:
+
+Para el frontend utilizamos la plataforma de Netlify y para el backend la plataforma de Render
+
 - Entrar a Netlify y presionar la opción de “Import an existing project”
 
 <img src="../assets/img/chapter-VI/software-deployment-configuration/import.png" height="150" width="240">
@@ -149,7 +153,7 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 - Enlace de la Landing page desplegada: https://glucova.netlify.app/
 
--Enlace del Frontend Web Application desplegado: <>
+- Enlace del Frontend Web Application desplegado: https://glucovaapp.netlify.app
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -181,6 +185,7 @@ En esta sección el equipo incluiremos la elaboración de un artefacto Leadershi
 | Valenzuela Vallejos, Alessandro             | AlessandroUPC   | L                                           | L                                        | L |                               C              | C
 | Coraje Bayona, Jair André              |  Jair365         | C                                           | C                                           | C | L                                           | C
 | Calderón Huamán, José Daniel           |   drkdevv1        | C                                           | C                                           | C | C                                           | L
+| Diaz Villacrez, Maria Alejandra           |   alehandraxx        | C                                           | C                                           | C | C                                           | L
 
 #### 6.2.1.3. Sprint Backlog 1
 A continuación, la estructura de la tabla para el Sprint 1 :
@@ -352,9 +357,45 @@ Enlace: https://glucova.netlify.app/
 
 Enlace: https://glucovaapp.netlify.app
 
+**Evidencia de ejecución Web Sevices:**
+
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/backend.png">
+
+Enlace: https://glucova-backend.onrender.com
+
 <br>
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+<table>   <tr> 
+    <th>Endpoint</th> 
+    <th>Acción</th> 
+    <th>Verbo HTTP</th> 
+    <th>Parámetros/Request Body</th> 
+    <th>Ejemplo</th> 
+  </tr> 
+    <tr> 
+    <td>/api/v1/users/sign-up</td> 
+    <td>Registrar una cuenta</td> 
+    <td>POST</td> 
+    <td> <pre>{ "email": "string", "password": "string"}</pre> </td> 
+    <td><pre>{ "email": "user@example.com", "password": "string"}</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/users/sign-in</td> 
+    <td>Ingresar a la cuenta</td> 
+    <td>POST</td> 
+    <td> <pre>{ "email": "string", "password": "string" }</pre> </td> 
+    <td><pre>{ "email": "user@example.com", "password": "string"}</pre></td> 
+  </tr> 
+    <tr> 
+    <td>/api/v1/users/get-information</td> 
+    <td>Obtener datos del usuario</td> 
+    <td>GET</td> 
+    <td> <pre> N/A </pre> </td> 
+    <td><pre>{ "email": "user@email.com", "id": "c1dde92c-1b73-42a4-a53f-8f60dec8209c","name": Juan, "phone": 987654321,"age": 65 }</pre></td> 
+  </tr> 
+  <tr> <td>/api/v1/records/get-user-records</td> <td>Obtener registros médicos del usuario</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "id": "a1b2c3d4", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "glucoseLevel": 120, "timestamp": "2025-05-14T08:30:00Z", "notes": "Después del desayuno" }, { "id": "e5f6g7h8", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "glucoseLevel": 95, "timestamp": "2025-05-14T12:30:00Z", "notes": "Antes del almuerzo" } ]</pre></td> </tr> <tr> <td>/api/v1/records/update-user-records</td> <td>Actualizar registro médico específico</td> <td>PUT</td> <td><pre>{ "id": "string", "glucoseLevel": number, "notes": "string" }</pre></td> <td><pre>{ "id": "a1b2c3d4", "glucoseLevel": 125, "notes": "Actualizado: después del desayuno" }</pre></td> </tr> <tr> <td>/api/v1/records/delete-user-records</td> <td>Eliminar registro médico</td> <td>DELETE</td> <td><pre>{ "recordId": "string" }</pre></td> <td><pre>{ "recordId": "a1b2c3d4" }</pre></td> </tr> <tr> <td>/api/v1/configs/get-user-configs</td> <td>Obtener configuraciones del usuario</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>{ "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "measurementUnit": "mg/dL", "targetRangeLow": 70, "targetRangeHigh": 180, "notificationsEnabled": true, "theme": "light" }</pre></td> </tr> <tr> <td>/api/v1/configs/update-user-configs</td> <td>Actualizar configuraciones del usuario</td> <td>PUT</td> <td><pre>{ "measurementUnit": "string", "targetRangeLow": number, "targetRangeHigh": number, "notificationsEnabled": boolean, "theme": "string" }</pre></td> <td><pre>{ "measurementUnit": "mmol/L", "targetRangeLow": 3.9, "targetRangeHigh": 10.0, "notificationsEnabled": true, "theme": "dark" }</pre></td> </tr> <tr> <td>/api/v1/alerts/get-user-alerts</td> <td>Obtener alertas configuradas del usuario</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "id": "alert123", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "type": "HIGH_GLUCOSE", "threshold": 200, "isEnabled": true, "notifyEmergencyContact": true }, { "id": "alert456", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "type": "LOW_GLUCOSE", "threshold": 60, "isEnabled": true, "notifyEmergencyContact": true } ]</pre></td> </tr> <tr> <td>/api/v1/alerts/create-user-alerts</td> <td>Crear nueva alerta para el usuario</td> <td>POST</td> <td><pre>{ "type": "string", "threshold": number, "isEnabled": boolean, "notifyEmergencyContact": boolean }</pre></td> <td><pre>{ "type": "RAPID_DROP", "threshold": 30, "isEnabled": true, "notifyEmergencyContact": true }</pre></td> </tr> <tr> <td>/api/v1/alerts/update-user-alerts</td> <td>Actualizar alerta existente</td> <td>PUT</td> <td><pre>{ "id": "string", "threshold": number, "isEnabled": boolean, "notifyEmergencyContact": boolean }</pre></td> <td><pre>{ "id": "alert123", "threshold": 190, "isEnabled": true, "notifyEmergencyContact": false }</pre></td> </tr> <tr> <td>/api/v1/schedules/get-user-schedules</td> <td>Obtener horarios programados del usuario</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "id": "sched1", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "title": "Medicación matutina", "time": "08:00:00", "daysOfWeek": [1,2,3,4,5], "isEnabled": true, "notes": "Tomar con el desayuno" }, { "id": "sched2", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "title": "Medicación nocturna", "time": "20:00:00", "daysOfWeek": [1,2,3,4,5,6,7], "isEnabled": true, "notes": "Tomar antes de dormir" } ]</pre></td> </tr> <tr> <td>/api/v1/schedules/update-user-schedules</td> <td>Actualizar horario programado</td> <td>PUT</td> <td><pre>{ "id": "string", "title": "string", "time": "string", "daysOfWeek": [number], "isEnabled": boolean, "notes": "string" }</pre></td> <td><pre>{ "id": "sched1", "title": "Medicación matutina", "time": "07:30:00", "daysOfWeek": [1,2,3,4,5], "isEnabled": true, "notes": "Tomar 30 minutos antes del desayuno" }</pre></td> </tr> <tr> <td>/api/v1/schedules/delete-user-schedules</td> <td>Eliminar horario programado</td> <td>DELETE</td> <td><pre>{ "scheduleId": "string" }</pre></td> <td><pre>{ "scheduleId": "sched2" }</pre></td> </tr> <tr> <td>/api/v1/emergencies/get-user-emergency-contact</td> <td>Obtener contactos de emergencia</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "id": "ec001", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "name": "Ana Torres", "relationship": "Hija", "phone": "+51987654321", "email": "ana.torres@email.com", "isPrimary": true }, { "id": "ec002", "userId": "c1dde92c-1b73-42a4-a53f-8f60dec8209c", "name": "Carlos Mendoza", "relationship": "Doctor", "phone": "+51912345678", "email": "dr.mendoza@hospital.com", "isPrimary": false } ]</pre></td> </tr> <tr> <td>/api/v1/emergencies/create-user-emergency-contact</td> <td>Añadir contacto de emergencia</td> <td>POST</td> <td><pre>{ "name": "string", "relationship": "string", "phone": "string", "email": "string", "isPrimary": boolean }</pre></td> <td><pre>{ "name": "Luisa Gómez", "relationship": "Vecina", "phone": "+51923456789", "email": "luisa.gomez@email.com", "isPrimary": false }</pre></td> </tr> <tr> <td>/api/v1/emergencies/delete-user-emergency-contact</td> <td>Eliminar contacto de emergencia</td> <td>DELETE</td> <td><pre>{ "contactId": "string" }</pre></td> <td><pre>{ "contactId": "ec002" }</pre></td> </tr> </table>
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
 
@@ -367,6 +408,7 @@ Como evidencia del despliegue de la landing:
 
 Enlace: https://glucova.netlify.app/
 
+**Evidencia del despliegue del Web Application:**
 
 Como evidencia del despliegue de la frontend:
 <img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
@@ -374,6 +416,15 @@ Como evidencia del despliegue de la frontend:
 <img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
 
 Enlace: https://glucovaapp.netlify.app
+
+**Evidencia del despliegue de los Web Services:**
+
+Como evidencia del despliegue de los web services:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/backend-deploy1.png">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/backend-deploy.png">
+
+Enlace: https://glucova-backend.onrender.com
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
@@ -384,6 +435,10 @@ A continuación, se presentan los aportes de los integrantes en cada uno de los 
 **Frontend Web Application:**
 
 <img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-front.png">
+
+**Web Services:**
+
+<img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-backend.png">
 
 **Landing Page:**
 
