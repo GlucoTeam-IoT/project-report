@@ -149,7 +149,7 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 - Enlace de la Landing page desplegada: https://glucova.netlify.app/
 
--Enlace del Frontend Web Application desplegado: <>
+- Enlace del Frontend Web Application desplegado: https://glucovaapp.netlify.app/
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -179,8 +179,8 @@ En esta sección el equipo incluiremos la elaboración de un artefacto Leadershi
 | Team Member (Last Name, First Name)       | GitHub Username | Acceso a la cuenta	 Leader (L) / Collaborator (C) | Registro de cuenta Leader (L) / Collaborator (C) | Estadísticas del paciente	Leader (L) / Collaborator (C) | Último reporte del paciente	 Leader (L) / Collaborator (C) | Captura de ubicación Leader (L) / Collaborator (C) | 
 |-------------------------------------------|-----------------|---------------------------------------------|---------------------------------------------|-----|---------------------------------------------|---------------------------------------------|
 | Valenzuela Vallejos, Alessandro             | AlessandroUPC   | L                                           | L                                        | L |                               C              | C
-| Coraje Bayona, Jair André              | drkdevv1          | C                                           | C                                           | C | L                                           | C
-| Calderón Huamán, José Daniel           | Jair365          | C                                           | C                                           | C | C                                           | L
+| Coraje Bayona, Jair André              | Jair365          | C                                           | C                                           | C | L                                           | C
+| Calderón Huamán, José Daniel           | drkdevv1          | C                                           | C                                           | C | C                                           | L
 
 #### 6.2.1.3. Sprint Backlog 1
 A continuación, la estructura de la tabla para el Sprint 1 :
@@ -198,11 +198,8 @@ A continuación, la estructura de la tabla para el Sprint 1 :
 
 
 #### 6.2.1.4. Development Evidence for Sprint Review
-| Repository            | Branch             | Commit Id | Commit Message                  | Commit Message Body                                                                 | Commited on (Date) |
-|-----------------------|--------------------|-----------|----------------------------------|--------------------------------------------------------------------------------------|---------------------|
-| user/repositoryname   | feature/loremipsum | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
 
-A continuación, se presenta una tabla con información de ejemplo sobre los repositorios y commits realizados durante el sprint:
+A continuación, se presenta una tabla con información sobre los repositorios y commits realizados durante el sprint:
 
 <table>
     <thead>
@@ -321,20 +318,19 @@ A continuación, se presenta una tabla con información de ejemplo sobre los rep
 | user/repositoryname   | feature/loremipsum | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
-| Repository            | Branch             | Commit Id | Commit Message                  | Commit Message Body                                                                 | Commited on (Date) |
-|-----------------------|--------------------|-----------|----------------------------------|--------------------------------------------------------------------------------------|---------------------|
-| user/repositoryname   | feature/loremipsum | 14ca4e3   | feat: consectetur adipiscing elit | Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentum velit rutrum ut. | 04/09/2021          |
 
 **Evidencia de ejecución del Landing Page:**
 
 Como evidencia de la ejecución de la landing:
-<img src="../assets/img/chapter-VI/sprint-1/landing.png">
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/landing.png">
 
 Enlace: https://glucova.netlify.app/
 
 **Evidencia de ejecución Frontend Web Application desplegado:**
 
-Enlace: <>
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/front.png">
+
+Enlace: https://glucovaapp.netlify.app/
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
 
@@ -349,6 +345,15 @@ Como evidencia del despliegue de la landing:
 
 Enlace: https://glucova.netlify.app/
 
+**Evidencia del despliegue del Frontend Web Application:**
+
+Como evidencia del despliegue de la landing:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
+
+Enlace: https://glucovaapp.netlify.app/
+
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
 Durante el Sprint I del proyecto Glucova, el equipo se enfocó en el desarrollo de la landing page y la aplicación web frontend. Para ello, se utilizó Visual Studio Code como editor de código y Git como herramienta de control de versiones. El trabajo se organizó mediante tareas del backlog y se gestionó a través de un flujo de trabajo basado en ramas secundarias (feature/), lo que permitió un desarrollo paralelo eficiente.
@@ -362,6 +367,11 @@ A continuación, se presentan los aportes de los integrantes en cada uno de los 
 **Landing Page:**
 
 <img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-landing.png">
+
+**Report:**
+
+<img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
+
 
 ## 6.3. Validation Interviews
 
