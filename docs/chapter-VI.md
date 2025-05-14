@@ -345,6 +345,7 @@ Enlace: https://glucova.netlify.app/
 Enlace: https://glucovaapp.netlify.app/
 
 <br>
+
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
