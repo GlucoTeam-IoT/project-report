@@ -149,7 +149,7 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 - Enlace de la Landing page desplegada: https://glucova.netlify.app/
 
--Enlace del Frontend Web Application desplegado: <>
+- Enlace del Frontend Web Application desplegado: https://glucovaapp.netlify.app/
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -179,8 +179,8 @@ En esta sección el equipo incluiremos la elaboración de un artefacto Leadershi
 | Team Member (Last Name, First Name)       | GitHub Username | Acceso a la cuenta	 Leader (L) / Collaborator (C) | Registro de cuenta Leader (L) / Collaborator (C) | Estadísticas del paciente	Leader (L) / Collaborator (C) | Último reporte del paciente	 Leader (L) / Collaborator (C) | Captura de ubicación Leader (L) / Collaborator (C) | 
 |-------------------------------------------|-----------------|---------------------------------------------|---------------------------------------------|-----|---------------------------------------------|---------------------------------------------|
 | Valenzuela Vallejos, Alessandro             | AlessandroUPC   | L                                           | L                                        | L |                               C              | C
-| Coraje Bayona, Jair André              |  Jair365         | C                                           | C                                           | C | L                                           | C
-| Calderón Huamán, José Daniel           |   drkdevv1        | C                                           | C                                           | C | C                                           | L
+| Coraje Bayona, Jair André              | Jair365          | C                                           | C                                           | C | L                                           | C
+| Calderón Huamán, José Daniel           | drkdevv1          | C                                           | C                                           | C | C                                           | L
 
 #### 6.2.1.3. Sprint Backlog 1
 A continuación, la estructura de la tabla para el Sprint 1 :
@@ -199,7 +199,7 @@ A continuación, la estructura de la tabla para el Sprint 1 :
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
-A continuación, se presenta una tabla con información de ejemplo sobre los repositorios y commits realizados durante el sprint:
+A continuación, se presenta una tabla con información sobre los repositorios y commits realizados durante el sprint:
 
 <table>
     <thead>
@@ -330,7 +330,9 @@ Enlace: https://glucova.netlify.app/
 <br>
 **Evidencia de ejecución Frontend Web Application desplegado:**
 
-Enlace: <>
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/front.png">
+
+Enlace: https://glucovaapp.netlify.app/
 
 <br>
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
@@ -345,6 +347,15 @@ Como evidencia del despliegue de la landing:
 <img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence2-landing.png">
 
 Enlace: https://glucova.netlify.app/
+
+**Evidencia del despliegue del Frontend Web Application:**
+
+Como evidencia del despliegue de la landing:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
+
+Enlace: https://glucovaapp.netlify.app/
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
