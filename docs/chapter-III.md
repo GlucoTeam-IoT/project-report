@@ -531,48 +531,6 @@
         </tr>
         <tr>
             <td>US034</td>
-            <td>Captura de Frecuencia Cardíaca</td>
-            <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mis pulsaciones en tiempo real para permitir el monitoreo cardíaco continuo.</td>
-            <td>
-                <ul>
-                    <li><strong>Precisión:</strong> Mide pulsaciones con margen de error ≤2 bpm</li>
-                    <li><strong>Transmisión:</strong> Envía datos cada 5 minutos (ajustable) o al detectar anomalías</li>
-                    <li>Alerta automática cuando se superan umbrales configurados</li>
-                    <li>Funcionamiento continuo por 24+ horas sin recarga</li>
-                </ul>
-            </td>
-            <td>EP04</td>
-        </tr>
-        <tr>
-            <td>US035</td>
-            <td>Captura de Frecuencia Respiratoria</td>
-            <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mi ritmo respiratorio para facilitar la detección temprana de problemas pulmonares.</td>
-            <td>
-                <ul>
-                    <li><strong>Medición precisa:</strong> Registra 12-30 respiraciones/minuto con ±1 de margen</li>
-                    <li><strong>Monitoreo continuo:</strong> Datos sincronizados cada 10 minutos con el servidor</li>
-                    <li>Detección de patrones irregulares (apneas, hiperventilación)</li>
-                    <li>Consumo energético optimizado para uso prolongado</li>
-                </ul>
-            </td>
-            <td>EP04</td>
-        </tr>
-        <tr>
-            <td>US036</td>
-            <td>Captura de Temperatura Corporal</td>
-            <td>Como usuario del sistema, necesito que el dispositivo mida y transmita mi temperatura corporal para identificar posibles estados febriles.</td>
-            <td>
-                <ul>
-                    <li><strong>Exactitud:</strong> Mide entre 35°C y 42°C con ±0.2°C de precisión</li>
-                    <li><strong>Alertas:</strong> Notifica cuando temperatura supera 37.5°C o baja de 35.5°C</li>
-                    <li>Registro de variaciones circadianas</li>
-                    <li>Calibración automática periódica</li>
-                </ul>
-            </td>
-            <td>EP04</td>
-        </tr>
-        <tr>
-            <td>US037</td>
             <td>Captura de Ubicación</td>
             <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mi posición para facilitar la localización en emergencias.</td>
             <td>
@@ -586,21 +544,7 @@
             <td>EP04</td>
         </tr>
         <tr>
-            <td>US038</td>
-            <td>Envío de temperatura mediante Edge Gateway</td>
-            <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos de temperatura del dispositivo para su transmisión al backend.</td>
-            <td>
-                <ul>
-                    <li><strong>Adquisición:</strong> Obtiene datos del dispositivo cada 5 minutos</li>
-                    <li><strong>Procesamiento:</strong> Aplica filtros para eliminar ruido/valores atípicos</li>
-                    <li>Almacenamiento local temporal durante cortes de conexión</li>
-                    <li>Sincronización segura con el backend</li>
-                </ul>
-            </td>
-            <td>EP07</td>
-        </tr>
-        <tr>
-            <td>US039</td>
+            <td>US035</td>
             <td>Envío de ubicación mediante Edge Gateway</td>
             <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos de ubicación del dispositivo para su transmisión al backend.</td>
             <td>
@@ -609,20 +553,6 @@
                     <li><strong>Optimización:</strong> Reduce frecuencia en zonas conocidas para ahorrar energía</li>
                     <li>Cifrado de datos en tránsito y reposo</li>
                     <li>Priorización de transmisión en modo emergencia</li>
-                </ul>
-            </td>
-            <td>EP07</td>
-        </tr>
-        <tr>
-            <td>US040</td>
-            <td>Envío de frecuencia respiratoria mediante Edge Gateway</td>
-            <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos respiratorios del dispositivo para su transmisión al backend.</td>
-            <td>
-                <ul>
-                    <li><strong>Adquisición:</strong> Captura datos cada ciclo respiratorio completo</li>
-                    <li><strong>Validación:</strong> Descarta mediciones fisiológicamente imposibles</li>
-                    <li>Compresión de datos para optimizar ancho de banda</li>
-                    <li>Transmisión prioritaria cuando detecta patrones anómalos</li>
                 </ul>
             </td>
             <td>EP07</td>
@@ -641,7 +571,6 @@
 ## 3.4. Product Backlog
 
 En esta sección se presenta el backlog del producto.
-
 <table>
     <thead>
         <tr>
@@ -1119,48 +1048,6 @@ En esta sección se presenta el backlog del producto.
         <tr>
             <td>34</td>
             <td>US034</td>
-            <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mis pulsaciones en tiempo real para permitir el monitoreo cardíaco continuo.</td>
-            <td>
-                <ul>
-                    <li>Precisión de ±2 bpm</li>
-                    <li>Transmisión cada 5 minutos</li>
-                    <li>Alerta automática</li>
-                </ul>
-            </td>
-            <td>Crítica</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>35</td>
-            <td>US035</td>
-            <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mi ritmo respiratorio para facilitar la detección temprana de problemas pulmonares.</td>
-            <td>
-                <ul>
-                    <li>Rango de 12-30 respiraciones/minuto</li>
-                    <li>Detección de patrones irregulares</li>
-                    <li>Optimización de energía</li>
-                </ul>
-            </td>
-            <td>Crítica</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>36</td>
-            <td>US036</td>
-            <td>Como usuario del sistema, necesito que el dispositivo mida y transmita mi temperatura corporal para identificar posibles estados febriles.</td>
-            <td>
-                <ul>
-                    <li>Precisión de ±0.2°C</li>
-                    <li>Rango de 35°C a 42°C</li>
-                    <li>Calibración automática</li>
-                </ul>
-            </td>
-            <td>Crítica</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>37</td>
-            <td>US037</td>
             <td>Como usuario del sistema, necesito que el dispositivo registre y transmita mi posición para facilitar la localización en emergencias.</td>
             <td>
                 <ul>
@@ -1169,26 +1056,12 @@ En esta sección se presenta el backlog del producto.
                     <li>Detección de caídas</li>
                 </ul>
             </td>
-            <td>Crítica</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>38</td>
-            <td>US038</td>
-            <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos de temperatura del dispositivo para su transmisión al backend.</td>
-            <td>
-                <ul>
-                    <li>Adquisición cada 5 minutos</li>
-                    <li>Filtrado de valores atípicos</li>
-                    <li>Almacenamiento temporal offline</li>
-                </ul>
-            </td>
             <td>Alta</td>
-            <td>5</td>
+            <td>3</td>
         </tr>
         <tr>
-            <td>39</td>
-            <td>US039</td>
+            <td>35</td>
+            <td>US035</td>
             <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos de ubicación del dispositivo para su transmisión al backend.</td>
             <td>
                 <ul>
@@ -1200,19 +1073,6 @@ En esta sección se presenta el backlog del producto.
             <td>Alta</td>
             <td>5</td>
         </tr>
-        <tr>
-            <td>40</td>
-            <td>US040</td>
-            <td>Como desarrollador, necesito que el Edge Gateway capture y procese datos respiratorios del dispositivo para su transmisión al backend.</td>
-            <td>
-                <ul>
-                    <li>Validación de mediciones</li>
-                    <li>Compresión de datos</li>
-                    <li>Transmisión prioritaria</li>
-                </ul>
-            </td>
-            <td>Alta</td>
-            <td>5</td>
-        </tr>
+        
     </tbody>
 </table>
