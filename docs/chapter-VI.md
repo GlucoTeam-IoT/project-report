@@ -163,15 +163,160 @@ Estas convenciones nos permiten mantener un control claro y organizado sobre el 
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
+A continuación, se presenta una tabla con información de ejemplo sobre los repositorios y commits realizados durante el sprint:
+
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Committed on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>6c0eb853b9f65f53c9c197cf474798e2121b5271</td>
+            <td>fix: fix styles for alert setting</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>df7e92560ca72239a317ac34f0c5cc0e07ad1e63</td>
+            <td>feat: add Alert Setting page and route in app.tsx</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>081408f38e14314c780b549d74bc79a5c283f9eb</td>
+            <td>feat: add alert settings form</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>c7018becf4763d005d95db1e4736da4b770ee34c</td>
+            <td>feat: add altert settings types and services</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>7c675a83c676d21c5db2c243f173ee5cc424588d</td>
+            <td>docs(readme): update student outcome</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>31f1b4a33535e122095f04a3e4fed41d46ac4162</td>
+            <td>docs: update README.md</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>6ac8f50a0d05c490b71b736b8525a3edacb328ba</td>
+            <td>fix: update document title</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>d05e9324284018166a5b9fa7b62578eaa8cb4494</td>
+            <td>feat: add framer-motion and hamburger-react for enhanced mobile navigation</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>66cd38a2a1ebe43a8a1d6f2093b8a607ba81aeef</td>
+            <td>refactor: reorganize Landing component structure for improved readability</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>870e726a963237fd6a0e75c49424df7aa6cab75d</td>
+            <td>docs: Correction and improvement of the writing of Chapter 4</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>bb3257512fef9568e3e2c59c85228c59651ee08b</td>
+            <td>Docs: Add interview purpose by segment</td>
+            <td></td>
+            <td>2025-05-07</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>845c3bc78ad063ad6376a00024a8f3b682d2c5a8</td>
+            <td>docs: test update</td>
+            <td></td>
+            <td>2025-05-07</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
+
+**Evidencia de ejecución del Landing Page:**
+
+Como evidencia de la ejecución de la landing:
+<img src="../assets/img/chapter-VI/sprint-1/landing.png">
+
+Enlace: https://glucova.netlify.app/
+
+**Evidencia de ejecución Frontend Web Application desplegado:**
+
+Enlace: <>
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
 
+**Evidencia del despliegue del Landing Page:**
+
+Como evidencia del despliegue de la landing:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence-landing.png">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence2-landing.png">
+
+Enlace: https://glucova.netlify.app/
+
 #### 6.2.1.9. Team Collaboration Insights during Sprint
+
+Durante el Sprint I del proyecto Glucova, el equipo se enfocó en el desarrollo de la landing page y la aplicación web frontend. Para ello, se utilizó Visual Studio Code como editor de código y Git como herramienta de control de versiones. El trabajo se organizó mediante tareas del backlog y se gestionó a través de un flujo de trabajo basado en ramas secundarias (feature/), lo que permitió un desarrollo paralelo eficiente.
+
+A continuación, se presentan los aportes de los integrantes en cada uno de los repositorios:
+
+**Frontend Web Application:**
+
+<img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-front.png">
+
+**Landing Page:**
+
+<img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-landing.png">
 
 ## 6.3. Validation Interviews
 
