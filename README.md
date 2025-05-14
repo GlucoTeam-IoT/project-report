@@ -40,9 +40,11 @@
 
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
-
-
+| 1.0     | 04/04/2025 | Maria Alejandra Díaz Villacrez                                                            | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.1    | 04/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se comienza la redaccion de los capitulos para el entragable parcial |
+| 1.2    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el despliegue del desarrollo del Frontend y Landing Page.|
+| 1.3    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el desarrollo del capitulo V de UX/UI. |
+| 1.4    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace termino a la arquitectura del sistema (C4 Diagrams). |
 
 ### Project Report Collaboration Insights
 
@@ -61,12 +63,14 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - main
 - develop
 
-* #### Entregable TB1
+* #### Entregable TP1
 
 A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
 primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
 miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de 
 líneas de código que se han modificado en cada uno de los commits.
+
+<img src="./assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
 
 
 ## Contenido 
@@ -292,7 +296,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto.
+        Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto. </br>
+        <b>Díaz Villacrez, María Alejandra TP1:</b> 
+        Durante el desarrollo del proyecto, asumí el liderazgo en la implementación del backend, diseñando y desarrollando la arquitectura de los servicios RESTful que soportan la solución IoT. Me encargué de definir las estructuras de datos y endpoints necesarios para la comunicación entre los dispositivos IoT y la aplicación, asegurando una integración eficiente y escalable. Además, trabajé en estrecha colaboración con el equipo de frontend y UX/UI para garantizar que las funcionalidades del backend respondieran a las necesidades identificadas en las entrevistas y user personas. Este trabajo permitió establecer una base técnica sólida para el proyecto, alineada con los objetivos del equipo.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
@@ -304,26 +310,35 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
       <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
       Durante el desarrollo del proyecto, me encargué de realizar la entrevista clave que sirvió de base para varios entregables posteriores. A partir de esta información, participé activamente en la elaboración del To-Be Scenario, proyectando cómo debería ser la experiencia del usuario en el futuro. Además, colaboré en la redacción de las User Stories, asegurando que se reflejaran correctamente las necesidades identificadas. También contribuí en la creación del Impact Mapping, conectando objetivos de negocio con funcionalidades específicas para priorizar mejor los esfuerzos del equipo. Finalmente, participé en la definición del Product Backlog, organizando y jerarquizando las tareas de acuerdo a su valor para el usuario y el proyecto. Esta experiencia me permitió fortalecer mis habilidades de análisis y estructuración de requerimientos, así como trabajar de forma alineada con el equipo.  
-    </td>   
+      <b>Antonio Fretel, Jeremi Jose TP1:</b> <br> 
+      En la entrega TP1, participé activamente en la implementación del frontend, enfocándome en la integración de las interfaces con los datos obtenidos en la investigación inicial. Colaboré en los ajustes de los wireflows basados en feedback del equipo, así como en la revisión de los diagramas C4 para asegurar su consistencia técnica con la interfaz desarrollada. 
+    </td> 
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
         <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
         Durante el primer entregable, realicé un trabajo activo en equipo liderando la elaboración del Capítulo I del proyecto, el cual abarcó desde la descripción inicial de la startup hasta la definición de los segmentos objetivo. Asumí un rol propositivo y de liderazgo compartido al desarrollar secciones clave como la problemática, los perfiles del equipo, el perfil de la solución y los elementos del proceso Lean UX, como las problem statements, assumptions, hipótesis y el Lean UX Canvas. Además, promoví la colaboración entre los integrantes para alinear criterios y asegurar coherencia en el enfoque del proyecto. Esta experiencia me permitió ejercer liderazgo de forma conjunta, contribuyendo al desarrollo estratégico de la propuesta y facilitando la organización efectiva del equipo en las etapas iniciales.
+        <b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
+        En TP1, participé en la construcción del frontend, enfocándome en la implementación de visualizaciones estadísticas de los reportes del paciente. Contribuí en la integración con la interfaz y Landing Page, además, me aseguré que los gráficos y elementos visuales cumplieran con los estándares de usabilidad establecidos por el equipo de UX/UI. También colaboré en la validación final de los wireflows e hice observaciones sobre la arquitectura del sistema.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Coraje Bayona, Jair TB1:</b><br>
-       Durante el desarrollo del proyecto, tuve una comunicación activa con mi equipo para fomentar el trabajo de cada uno, apoyando en la elaboracion del diseño de las entrevistas, y el analisis de estas, gracias a esto pudimos desarrollar a los user personas por cada uno de los sectores objetivos junto a sus journey maps y empathy maps, lo que nos permitio avanzar hacia el as-is scenario, además se aporto en el desarrollo del analisis competitivo, donde verificamos las foortalezas y debilidades frente a nuestros competidores. Este primer entregable me ayudo en fortalecer el trabajo en equipo y la colaboración continua.</td>   
+       Durante el desarrollo del proyecto, tuve una comunicación activa con mi equipo para fomentar el trabajo de cada uno, apoyando en la elaboracion del diseño de las entrevistas, y el analisis de estas, gracias a esto pudimos desarrollar a los user personas por cada uno de los sectores objetivos junto a sus journey maps y empathy maps, lo que nos permitio avanzar hacia el as-is scenario, además se aporto en el desarrollo del analisis competitivo, donde verificamos las foortalezas y debilidades frente a nuestros competidores. Este primer entregable me ayudo en fortalecer el trabajo en equipo y la colaboración continua.
+       <br><b>Coraje Bayona, Jair TP1:</b><br>
+       En la entrega TP1, me enfoqué en la implementación de funcionalidades clave del frontend, incluyendo el módulo de registro y autenticación de usuarios. Aporté en el despliegue de la landing page y su conexión con el backend. También participé en el diseño de la experiencia de usuario (UX) en dichas funcionalidades, trabajando en conjunto con el equipo para que los wireflows reflejaran adecuadamente el flujo de acceso del usuario. Finalmente, contribuí en la revisión y corrección de los diagramas C4 en base a los ajustes técnicos aplicados.
+       </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1:</b><br>
         Durante el desarrollo del proyecto en el curso de IoT, trabajé de manera colaborativa con el equipo, proporcionando liderazgo en la elaboración de los diagramas C4 y el diseño de la estrategia de implementación del software. Me encargué de la creación de los diagramas que detallan la arquitectura del sistema y su despliegue, asegurando que todos los componentes estuvieran bien estructurados y fueran fácilmente comprensibles. Además, contribuyó a la arquitectura del software, analizando y proponiendo soluciones que optimizaran la comunicación entre los dispositivos y garantizaran un rendimiento eficiente. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y liderazgo, al coordinar y guiar las decisiones técnicas para lograr una solución IoT robusta y escalable.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TP1:</b><br>
+        En TP1, asumí nuevamente un rol técnico principal al liderar el despliegue del frontend en conjunto con la landing page. Coordiné el equipo para asegurar una correcta integración con el backend y validé que todos los wireflows desarrollados respondieran a los escenarios reales de uso definidos en entregables previos. También actualicé los diagramas C4 conforme a los cambios técnicos en la arquitectura, asegurando que se reflejara correctamente la estructura y comunicación entre los componentes. Esta participación consolidó la visión técnica del sistema y la coherencia entre diseño e implementación.
       </td>   
     </tr>
     <tbody>
@@ -339,7 +354,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.
+        Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.</br>
+        <b>Díaz Villacrez, María Alejandra TP1:</b> 
+        Para fomentar un entorno colaborativo, organicé reuniones técnicas donde compartí avances y desafíos relacionados con el backend, asegurando que todos los miembros del equipo comprendieran su funcionamiento y pudieran integrarlo con sus respectivas áreas. Establecí metas claras para el desarrollo de las APIs, dividiendo las tareas en sprints manejables y priorizando funcionalidades críticas como la autenticación de usuarios y la gestión de datos médicos. Gracias a una planificación detallada y comunicación constante, logramos cumplir con los objetivos establecidos dentro del cronograma, asegurando que el backend estuviera listo para las pruebas de integración con el resto del sistema.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
@@ -350,7 +367,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr> 
       <td>
       <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
-      Durante el desarrollo del proyecto, fomenté un entorno colaborativo e inclusivo al compartir los hallazgos obtenidos en la entrevista que realicé, lo cual permitió al equipo tener una base sólida para avanzar en los siguientes entregables. Junto a mis compañeros, establecimos metas claras para construir el To-Be Scenario, alineando nuestras ideas sobre la experiencia futura del usuario. A partir de ahí, planificamos las tareas para la elaboración de las User Stories, donde me aseguré de que reflejaran diversas perspectivas y necesidades identificadas. También colaboré activamente en el Impact Mapping, conectando los objetivos del proyecto con acciones concretas, lo que nos ayudó a definir prioridades de forma estratégica. Finalmente, participé en la estructuración del Product Backlog, garantizando una planificación clara que nos permitió cumplir con los objetivos establecidos en tiempo y forma. Esta experiencia reforzó mi capacidad para organizar el trabajo en equipo de manera efectiva y empática.  
+      Durante el desarrollo del proyecto, fomenté un entorno colaborativo e inclusivo al compartir los hallazgos obtenidos en la entrevista que realicé, lo cual permitió al equipo tener una base sólida para avanzar en los siguientes entregables. Junto a mis compañeros, establecimos metas claras para construir el To-Be Scenario, alineando nuestras ideas sobre la experiencia futura del usuario. A partir de ahí, planificamos las tareas para la elaboración de las User Stories, donde me aseguré de que reflejaran diversas perspectivas y necesidades identificadas. También colaboré activamente en el Impact Mapping, conectando los objetivos del proyecto con acciones concretas, lo que nos ayudó a definir prioridades de forma estratégica. Finalmente, participé en la estructuración del Product Backlog, garantizando una planificación clara que nos permitió cumplir con los objetivos establecidos en tiempo y forma. Esta experiencia reforzó mi capacidad para organizar el trabajo en equipo de manera efectiva y empática.  <br><b>Antonio Fretel, Jeremi Jose TP1:</b> <br> 
+      Durante el segundo entregable, Contribuí al diseño y validación de wireflows, integrando elementos UX que faciliten la interacción del usuario final. Asimismo, participé en el despliegue inicial de la solución en entorno de prueba y apoyé en la verificación de la lógica visual del frontend. También propuse mejoras en los diagramas C4, reforzando el cumplimiento de los objetivos planteados por el equipo.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -358,6 +376,8 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
         Durante el primer entregable, realicé un trabajo centrado en fomentar un entorno colaborativo e inclusivo dentro del equipo, participando activamente en la definición de metas y la planificación de tareas relacionadas con el Capítulo I del proyecto. Coordiné la elaboración de secciones fundamentales como la descripción de la startup, los perfiles de los integrantes, el perfil de la solución, y los distintos elementos del proceso Lean UX. A través de una comunicación clara y abierta, promoví la participación de todos los miembros, asegurando que cada aporte fuera considerado y valorado. Gracias a una planificación estructurada, logramos cumplir con los objetivos planteados en el cronograma, manteniendo la coherencia y calidad del entregable.
+        <BR><b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
+        En el segundo entregable, apoyé de forma activa en la planificación del despliegue del frontend y la validación del diseño de la landing page. Colaboré en la estructuración y revisión de wireflows propuestos por el equipo UX/UI, asegurando la alineación con los objetivos del usuario. Asimismo, contribuí a la revisión y corrección del diagrama C4, ajustando los niveles de detalle técnico necesarios para garantizar su implementación adecuada. Este trabajo consolidó nuestra planificación y permitió cumplir con los entregables en los plazos establecidos.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
@@ -365,12 +385,17 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
       <b>Coraje Bayona, Jair TB1:</b><br>
        Durante el desarrollo de este primer entregable, me enfoque en mantener el ambiente colaborativo de cada miembro del equipo, donde cada uno expreso sus aportes de manera verbal, asi como aportar el proyecto por medio de las entrevistas. Estableci metas concisas y tareas para el desarrollo de este entregable, lo que permitio que el equipo avance con tiempo cada parte del proyecto, logrando cumplir las tareas a tiempo y por ende el objetivo principal también.</td>   
+       <BR><b>Coraje Bayona, Jair TP1:</b><br>
+       Durante el segundo entregable, trabajé colaborativamente en el diseño y validación de la experiencia de usuario en la landing page, centrando mi esfuerzo en los aspectos visuales y de navegación. También contribuí en la diagramación de wireflows, garantizando que las rutas de usuario fueran intuitivas y funcionales. Aporté en la corrección del diagrama C4, especialmente en los componentes de interacción entre usuario y sistema. Este proceso fortaleció la cohesión del equipo y nos permitió cumplir con las metas propuestas.
+    </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1</b><br>
         En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre Tp1</b><br>
+        Durante esta fase del proyecto, lideré la implementación del frontend y el despliegue de la landing page, asegurando su correcto funcionamiento en diferentes entornos. Además, coordiné con el equipo de UX/UI para la definición de los wireflows, validando su funcionalidad e integración con la lógica de la solución. También me encargué de la revisión técnica y actualización de los diagramas C4, incorporando mejoras identificadas durante la implementación. Este trabajo consolidó la arquitectura del proyecto, garantizando su alineación con los requerimientos técnicos y de experiencia de usuario.
       </td>   
     </tr>
 </table>
