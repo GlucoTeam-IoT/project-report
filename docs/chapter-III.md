@@ -571,6 +571,9 @@
 ## 3.4. Product Backlog
 
 En esta sección se presenta el backlog del producto.
+
+Enlace del Trello Product Backlog: https://trello.com/b/qBZuOZ98/upc-pre-202510-1asi0572-2952-glucoteam-trello#
+
 <table>
     <thead>
         <tr>
@@ -748,8 +751,8 @@ En esta sección se presenta el backlog del producto.
                     <li>Muestra confirmación de envío</li>
                 </ul>
             </td>
-            <td>Media</td>
-            <td>3</td>
+            <td>Baja</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>13</td>
