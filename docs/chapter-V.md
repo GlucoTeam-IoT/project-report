@@ -220,6 +220,7 @@ El sistema permite filtrar los datos según diferentes métricas de salud:
 - **Niveles de Glucosa**: Visualización de todas las mediciones de glucosa con codificación por colores según los rangos (normal, alto, bajo)
 - **Presión Arterial**: Seguimiento de los registros de presión sistólica y diastólica
 - **Peso**: Monitoreo de cambios en el peso corporal e IMC
+
 <img src="../assets/img/chapter-V/medicion.png"> 
 
 #### Alertas Personalizables
@@ -229,12 +230,16 @@ El sistema de búsqueda se complementa con un robusto mecanismo de alertas que p
 - Configurar umbrales personalizados para niveles altos y bajos de glucosa
 - Establecer la frecuencia de notificaciones (cada 15 minutos, 30 minutos, etc.)
 - Personalizar el método de alerta (sonido, vibración o ambos)
+
 <img src="../assets/img/chapter-V/alerta_frame.png"> 
 
 ### 5.2.5. Navigation Systems
-Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
+#### Para poder navegar dentro de la aplicación, se va a añadir las siguientes secciones:
+
 <img src="../assets/img/chapter-V/barra.png">
+
 <img src="../assets/img/chapter-V/navegar_landing.png">
+
 <img src="../assets/img/chapter-V/navegar_web.png">
 
 ## 5.3. Landing Page UI Design
@@ -251,7 +256,9 @@ Nuestro Landing Page implementa un diseño adaptativo que optimiza la presentaci
 Presentamos el prototipo inicial de nuestra Landing Page, donde implementamos la paleta cromática índigo definida en nuestras guías de estilo. El diseño incorpora elementos visuales estratégicamente seleccionados que refuerzan el mensaje sobre el monitoreo continuo de glucosa, facilitando la comprensión de las ventajas tecnológicas que ofrece GlucoVa.
 
 <img src="../assets/img/chapter-V/landing_mockup.png">
+
 <img src="../assets/img/chapter-V/landing_mockup1.png">
+
 <img src="../assets/img/chapter-V/landing_mockup2.png">
 
 ## 5.4. Applications UX/UI Design
@@ -260,21 +267,31 @@ Presentamos el prototipo inicial de nuestra Landing Page, donde implementamos la
 A continuación, se muestran los diseños elaborados de acuerdo a las funcionalidades de la aplicación.
 
 #### Mobile Application Wireframes
-Logeo de Usuario
+
+#### Logeo de Usuario
 <img src="../assets/img/chapter-V/login_user.png">
-Editar Perfil
+
+#### Editar Perfil
 <img src="../assets/img/chapter-V/editar_perfil.png">
-Configurar Alerta
+
+#### Configurar Alerta
 <img src="../assets/img/chapter-V/configurar_alerta.png">
-Ver Medicion
+
+#### Ver Medicion
 <img src="../assets/img/chapter-V/ver_medicion.png">
 
+
 #### Web Application Wireframes
-Logeo y Registro de un Usuario
+#### Logeo y Registro de un Usuario
+
 <img src="../assets/img/chapter-V/login_register.png">
-Actualizar Perfil
+
+#### Actualizar Perfil
+
 <img src="../assets/img/chapter-V/actualizar_perfil.png">
-Configurar Alerta
+
+#### Configurar Alerta
+
 <img src="../assets/img/chapter-V/setiar_alerta.png">
 
 ### 5.4.2. Applications Wireflow Diagrams
@@ -313,23 +330,29 @@ A continuación, se presentan los mock-ups de la aplicación GlucoVa, diseñados
 
 #### Mobile Application Mock-ups
 
-Logeo de Usuario
+#### Logeo de Usuario
+
 <img src="../assets/img/chapter-V/mockup_login.png">
-Editar Perfil
+
+#### Editar Perfil
 <img src="../assets/img/chapter-V/mockup_perfil.png">
-Configurar Alerta
+
+#### Configurar Alerta
 <img src="../assets/img/chapter-V/mockup_alerta.png">
-Ver Historial
+
+#### Ver Historial
 <img src="../assets/img/chapter-V/mockup_historial.png">
 
 #### Web Application Mock-ups
-Registrar Usuario:
+
+#### Registrar Usuario:
+
 <img src="../assets/img/chapter-V/registrar.png">
 
-Editar Perfil:
+#### Editar Perfil:
 <img src="../assets/img/chapter-V/perfil.png">
 
-Ver Historial y Realizar Alerta:
+#### Ver Historial y Realizar Alerta:
 <img src="../assets/img/chapter-V/historial_alerta.png">
 
 ### 5.4.4. Applications User Flow Diagrams
@@ -353,6 +376,7 @@ Ver Historial y Realizar Alerta:
 
 <img src="../assets/img/chapter-V/usergoal2.png">
 
+
 #### User Goal 3: Completar perfil médico para personalización
 
 - **Happy Path:**
@@ -363,4 +387,76 @@ Ver Historial y Realizar Alerta:
 
 <img src="../assets/img/chapter-V/usergoal3.png">
 
+<table>
+    <thead>
+        <tr>
+            <th>User Goal </th>
+            <th>Como usuario deseo poder registrarme en la aplicacion para poder acceder a sus beneficios</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Task Flow</td>
+            <td><img src="../assets/img/chapter-V/web_register.png"></td>
+        </tr>
+        <tr>
+            <td>User Flow</td>
+            <td><img src="../assets/img/chapter-V/FLOW1.png"></td>
+        </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th>User Goal</th>
+            <th>Como usuario deseo poder visualizar mi perfil y a su vez poder editarlo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Task Flow</td>
+            <td><img src="../assets/img/chapter-V/editarperfil.png"></td>
+        </tr>
+        <tr>
+            <td>User Flow</td>
+            <td><img src="../assets/img/chapter-V/FLOW2.png"></td>
+        </tr>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>User Goal</th>
+            <th>Como usuario deseo setear una alerta para mantenerme advertido</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Task Flow</td>
+            <td><img src="../assets/img/chapter-V/setearalerta.png"></td>
+        </tr>
+        <tr>
+            <td>User Flow</td>
+            <td><img src="../assets/img/chapter-V/FLOW3.png"></td>
+        </tr>
+</table>
+
 ## 5.5. Applications Prototyping
+
+#### USER GOAL 1:
+Como usuario deseo poder registrarme en la aplicacion para poder acceder a sus beneficios
+
+<img src="../assets/img/chapter-V/prototipo1.png">
+
+LINK :https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/Ead6wHWY9zJFlhA98UTwZfIB5_8WQkMhznA2_N6F7EsdxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YGeStM
+
+#### USER GOAL 2:
+Coloresomo usuario deseo poder visualizar mi perfil y a su vez poder editarlo
+<img src="../assets/img/chapter-V/prototipo2.png">
+
+LINK : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/Ea9nTSm4hpVBuCIwcNcSyfUBlt-5Ea9xqe3NoaYjs_GiHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dNk7rZ
+
+#### USER GOAL 3:
+Como usuario deseo setear una alerta para mantenerme advertido
+<img src="../assets/img/chapter-V/prototipo3.png">
+
+LINK : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EUPbu8UDANdPoMX8JDpvFkEBSzSiAu3aW0yt8SC6WccomA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EZdeNj
