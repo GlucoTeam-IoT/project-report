@@ -331,6 +331,9 @@ A continuación, se presenta una tabla con información del repositorio de las p
 | GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | c2113e94ae7750870fbdc2673817b00581cb918b   | feat: Implement patient report statistics table and handle no data scenario | - | 14/05/2025        |
 | GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | d20684cc54df8314d1c204b258d53d014bab21be   | feat: Implement latest patient report view and handle no recent report scenario | - | 14/05/2025        |
 | GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 5d42f094ff687eddcebed90f8a947c310788b0c2   | feat: Implement user location capture and handle location access and network issues | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 907a08acf1922eeb8c6488b50a5f8279e2950ecc   | feat: Add About Us section with team experience display and role visibility | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | f6c2dc1d76f929d638e33ec591a9846629de726b   | feat: Implement About the Product section with core features and product purpose | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | fe117b71c7b8e7e90f6db4e86d901c4327e94e29   | feat: Create contact section with form validation and error handling | - | 14/05/2025        |
 
 Enlace del github: https://github.com/GlucoTeam-IoT/GlucoTeam-acceptance-tests/commits/develop
 
