@@ -253,6 +253,26 @@ líneas de código que se han modificado en cada uno de los commits.
 
     6.2.1.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6219-team-collaboration-insights-during-sprint)
 
+    6.2.2. [Sprint 2](docs/chapter-VI.md#622-sprint-2)
+
+    6.2.2.1. [Sprint Planning 2](docs/chapter-VI.md#6221-sprint-planning-2)  
+
+    6.2.2.2. [Aspect Leaders and Collaborators](docs/chapter-VI.md#6222-aspect-leaders-and-collaborators)  
+
+    6.2.2.3. [Sprint Backlog 2](docs/chapter-VI.md#6223-sprint-backlog-2)  
+
+    6.2.2.4. [Development Evidence for Sprint Review](docs/chapter-VI.md#6224-development-evidence-for-sprint-review)  
+
+    6.2.2.5. [Testing Suite Evidence for Sprint Review](docs/chapter-VI.md#6225-testing-suite-evidence-for-sprint-review)  
+
+    6.2.2.6. [Execution Evidence for Sprint Review](docs/chapter-VI.md#6226-execution-evidence-for-sprint-review)  
+
+    6.2.2.7. [Services Documentation Evidence for Sprint Review](docs/chapter-VI.md#6227-services-documentation-evidence-for-sprint-review)  
+
+    6.2.2.8. [Software Deployment Evidence for Sprint Review](docs/chapter-VI.md#6228-software-deployment-evidence-for-sprint-review)  
+    
+    6.2.2.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6229-team-collaboration-insights-during-sprint)  
+
     6.3. [Validation Interviews](docs/chapter-VI.md#63-validation-interviews)
 
     6.3.1. [Diseño de Entrevistas](docs/chapter-VI.md#631-diseño-de-entrevistas)
