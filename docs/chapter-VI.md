@@ -201,7 +201,7 @@ A continuación, la estructura de la tabla para el Sprint 1 :
 | US011         | Sección About the Product                                       | T4                   | Desarrollar visualización de la información del producto             | Implementar función para visualizar información del producto y verificar funcionalidades antes de probarlo.                                       | 3                   | Jose Daniel Mario Calderon Huaman     | Done           |
 | US012         | Sección Contacto                                                | T5                   | Desarrollar recuadro de contacto                                     | Implementar función para enviar un mensaje y reportar errores o problemas.                                                                       | 2                   | Jose Daniel Mario Calderon Huaman     | Done           |
 | US032         | Estadísticas sobre reportes del paciente (Frontend)             | T6                   | Desarrollar visualizaciones estadísticas                             | Implementar tabla de visualizaciones estadísticas para analizar el estado de salud del paciente mediante datos históricos.                        | 5                   | Jose Daniel Mario Calderon Huaman     | Done           |
-| US033         | Consulta del último reporte del paciente (Frontend)             | T7                   | Desarrollar función para mostrar el último reporte del paciente      | Implementar función que muestre el reporte más reciente del paciente con información actualizada sobre su condición.                             | 5                   | Jair Andreé Coraje Bayona             | To-Review      |
+| US033         | Consulta del último reporte del paciente (Frontend)             | T7                   | Desarrollar función para mostrar el último reporte del paciente      | Implementar función que muestre el reporte más reciente del paciente con información actualizada sobre su condición.                             | 5                   | Jair Andreé Coraje Bayona             | Done      |
 | US034         | Captura de Ubicación                                            | T8                   | Desarrollar función de transmisión de la ubicación del usuario       | Implementar transmisión de la posición del usuario para facilitar la localización en emergencias.                                                | 5                   | Jose Daniel Mario Calderon Huaman     | Done           |
 
 
@@ -448,6 +448,25 @@ A continuación, se presentan los aportes de los integrantes en cada uno de los 
 **Project Report:**
 
 <img src="../assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
+
+### 6.2.2 Sprint 2
+#### 6.2.2.1.Sprint Planning 2
+
+#### 6.2.2.2.Aspect Leaders and Collaborators
+
+#### 6.2.2.3.Sprint Backlog 2
+
+#### 6.2.2.4.Development Evidence for Sprint Review
+
+#### 6.2.2.5.Testing Suite Evidence for Sprint Review
+
+#### 6.2.2.6.Execution Evidence for Sprint Review
+
+#### 6.2.2.7.Services Documentation Evidence for Sprint Review
+
+#### 6.2.2.8.Software Deployment Evidence for Sprint Review
+
+#### 6.2.2.9.Team Collaboration Insights during Sprint
 
 ## 6.3. Validation Interviews
 
