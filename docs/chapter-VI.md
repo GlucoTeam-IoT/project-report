@@ -451,6 +451,23 @@ A continuación, se presentan los aportes de los integrantes en cada uno de los 
 
 ### 6.2.2 Sprint 2
 #### 6.2.2.1.Sprint Planning 2
+En esta sección especificaremos los aspectos principales del Sprint Planning Meeting 2. A continuación se coloca el cuadro de resumen del sprint planning meeting:
+
+| **Sprint #**                          | Sprint 2                                   |
+|--------------------------------------|--------------------------------------------|
+| **Sprint Planning Background**       |                                            |
+| **Date**                             | 2025-06-10                                 |
+| **Time**                             | 10:00 AM                                   |
+| **Location**                         | Lima, Perú                                 |
+| **Prepared By**                      | Valenzuela Vallejos, Stefano Alessandro    |
+| **Attendees (to planning meeting)**  | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderón Huamán <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel |
+| **Sprint n – 2 Review Summary**      | - En el sprint anterior se logró implementar la primera versión del frontend desplegado, además de completar la landing page final. <br> - Los miembros del equipo consideraron el sprint exitoso, ya que se cumplió con todos los objetivos establecidos. <br> - El Product Owner se mostró satisfecho con el trabajo realizado por el equipo. |
+| **Sprint n – 2 Retrospective Summary** | Como equipo logramos mejorar los tiempos de desarrollo en las tareas asignadas del sprint backlog. También conseguimos desplegar por completo la landing page y desarrollar la primera versión del frontend. |
+| **Sprint Goal & User Stories**       |                                            |
+| **Sprint n Goal**                    | **Nuestro enfoque** está en entregar el sitio web completamente desplegado, además de la aplicación móvil e incluir la primera versión del sistema embebido. <br> **Creemos que** esto representa un gran avance hacia la finalización del proyecto. <br> **Esto se confirmará cuando** los usuarios puedan utilizar el sistema web en su totalidad, junto con una versión funcional preliminar de la aplicación móvil. |
+| **Sprint n Velocity**                | 25                                         |
+| **Sum of Story Points**              | 25                                         |
+
 
 #### 6.2.2.2.Aspect Leaders and Collaborators
 
