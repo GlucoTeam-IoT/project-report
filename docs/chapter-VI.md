@@ -359,9 +359,9 @@ Enlace: https://glucovaapp.netlify.app
 
 **Evidencia de ejecución Web Sevices:**
 
-<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/backend.png">
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/backend1.png">
 
-Enlace: https://glucova-backend.onrender.com
+Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
 <br>
 
@@ -481,7 +481,43 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 
 #### 6.2.2.7.Services Documentation Evidence for Sprint Review
 
+Para el Sprint 2, hemos implementado y mejorado varios endpoints de nuestra API. A continuación se muestra la documentación actualizada:
+
+<table> <tr> <th>Endpoint</th> <th>Acción</th> <th>Verbo HTTP</th> <th>Parámetros/Request Body</th> <th>Ejemplo</th> </tr> <tr> <td>/api/v1/users/sign-up</td> <td>Registrar una cuenta</td> <td>POST</td> <td><pre>{ "email": "string", "password": "string" }</pre></td> <td><pre>{ "email": "user@example.com", "password": "string" }</pre></td> </tr> <tr> <td>/api/v1/users/sign-in</td> <td>Ingresar a la cuenta</td> <td>POST</td> <td><pre>{ "email": "string", "password": "string" }</pre></td> <td><pre>{ "email": "user@example.com", "password": "string" }</pre></td> </tr> <tr> <td>/api/v1/users/get-information</td> <td>Obtener datos del usuario</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>{ "email": "user@example.com", "id": "string", "name": "string", "phone": "string", "age": 0 }</pre></td> </tr> <tr> <td>/api/v1/users/update-information</td> <td>Actualizar información del usuario</td> <td>PUT</td> <td><pre>{ "email": "string", "name": "string", "phone": "string", "age": number }</pre></td> <td><pre>{ "email": "user@example.com", "name": "string", "phone": "string", "age": 0 }</pre></td> </tr> <tr> <td>/api/v1/contacts</td> <td>Obtener contactos</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "email": "user@example.com", "id": "string", "name": "string", "phone": "string", "user_id": "string" } ]</pre></td> </tr> <tr> <td>/api/v1/contacts</td> <td>Crear contacto</td> <td>POST</td> <td><pre>{ "email": "string", "name": "string", "phone": "string" }</pre></td> <td><pre>{ "email": "user@example.com", "name": "string", "phone": "string" }</pre></td> </tr> <tr> <td>/api/v1/contacts/{contact_id}</td> <td>Actualizar contacto</td> <td>PUT</td> <td><pre>Path parameter: contact_id</pre></td> <td><pre>PUT /api/v1/contacts/abc123</pre></td> </tr> <tr> <td>/api/v1/contacts/{contact_id}</td> <td>Eliminar contacto</td> <td>DELETE</td> <td><pre>Path parameter: contact_id</pre></td> <td><pre>DELETE /api/v1/contacts/abc123</pre></td> </tr> <tr> <td>/api/v1/records</td> <td>Crear registro de glucosa</td> <td>POST</td> <td><pre>{ "description": "string", "timestamp": "string", "device_id": "string", "level": number }</pre></td> <td><pre>{ "description": "string", "timestamp": "2025-06-08T00:39:37.379Z", "device_id": "string", "level": 0 }</pre></td> </tr> <tr> <td>/api/v1/records</td> <td>Obtener registros de glucosa</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "level": 0, "id": "string", "user_id": "string", "device_id": "string", "description": "string", "timestamp": "2025-06-08T00:39:47.344Z" } ]</pre></td> </tr> <tr> <td>/api/v1/records/device/{device_id}</td> <td>Obtener registros por dispositivo</td> <td>GET</td> <td><pre>Path parameter: device_id</pre></td> <td><pre>[ { "level": 0, "id": "string", "user_id": "string", "device_id": "string", "description": "string", "timestamp": "2025-06-08T00:40:02.932Z" } ]</pre></td> </tr> <tr> <td>/api/v1/records/{record_id}</td> <td>Obtener registro específico</td> <td>GET</td> <td><pre>Path parameter: record_id</pre></td> <td><pre>{ "level": 0, "id": "string", "user_id": "string", "device_id": "string", "description": "string", "timestamp": "2025-06-08T00:40:28.883Z" }</pre></td> </tr> <tr> <td>/api/v1/records/{record_id}</td> <td>Eliminar registro</td> <td>DELETE</td> <td><pre>Path parameter: record_id</pre></td> <td><pre>DELETE /api/v1/records/abc123</pre></td> </tr> <tr> <td>/api/v1/devices</td> <td>Registrar nuevo dispositivo</td> <td>POST</td> <td><pre>{ "timestamp": "string" }</pre></td> <td><pre>{ "timestamp": "2025-06-08T00:41:13.965Z" }</pre></td> </tr> <tr> <td>/api/v1/devices</td> <td>Obtener dispositivos</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "status": "active", "timestamp": "2025-06-08T00:41:51.540Z", "id": "string", "user_id": "string" } ]</pre></td> </tr> <tr> <td>/api/v1/devices/{device_id}</td> <td>Obtener dispositivo específico</td> <td>GET</td> <td><pre>Path parameter: device_id</pre></td> <td><pre>GET /api/v1/devices/abc123</pre></td> </tr> <tr> <td>/api/v1/devices/{device_id}</td> <td>Actualizar dispositivo</td> <td>PUT</td> <td><pre>Path parameter: device_id Body: { "timestamp": "string", "status": "string" }</pre></td> <td><pre>{ "timestamp": "2025-06-08T00:42:27.930Z", "status": "active" }</pre></td> </tr> <tr> <td>/api/v1/devices/{device_id}</td> <td>Eliminar dispositivo</td> <td>DELETE</td> <td><pre>Path parameter: device_id</pre></td> <td><pre>DELETE /api/v1/devices/abc123</pre></td> </tr> <tr> <td>/api/v1/alerts</td> <td>Crear alerta</td> <td>POST</td> <td><pre>{ "device_id": "string", "level": "string", "message": "string" }</pre></td> <td><pre>{ "device_id": "string", "level": "low", "message": "string" }</pre></td> </tr> <tr> <td>/api/v1/alerts</td> <td>Obtener alertas</td> <td>GET</td> <td><pre>N/A</pre></td> <td><pre>[ { "message": "string", "level": "low", "timestamp": "2025-06-08T00:45:18.870Z", "id": "string", "device_id": "string" } ]</pre></td> </tr> <tr> <td>/api/v1/alerts/{alert_id}</td> <td>Obtener alerta específica</td> <td>GET</td> <td><pre>Path parameter: alert_id</pre></td> <td><pre>GET /api/v1/alerts/abc123</pre></td> </tr> <tr> <td>/api/v1/alerts/{alert_id}</td> <td>Eliminar alerta</td> <td>DELETE</td> <td><pre>Path parameter: alert_id</pre></td> <td><pre>DELETE /api/v1/alerts/abc123</pre></td> </tr> </table>
+
+Link del backend desplegado: https://glucova-backend-1c16.onrender.com/api/docs#/
+
 #### 6.2.2.8.Software Deployment Evidence for Sprint Review
+
+Como evidencia de la ejecución de la landing:
+**Evidencia del despliegue del Landing Page:**
+
+Como evidencia del despliegue de la landing:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence-landing.png">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/evidence2-landing.png">
+
+Enlace: https://glucova.netlify.app/
+
+**Evidencia del despliegue del Web Application:**
+
+Como evidencia del despliegue de la frontend:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend-deploy.jpg">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/frontend2-deploy.jpg">
+
+Enlace: https://glucovaapp.netlify.app
+
+**Evidencia del despliegue de los Web Services:**
+
+Como evidencia del despliegue de los web services:
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/backend-deploy1.png">
+
+<img src="../assets/img/chapter-VI/sprint-1/software-deployment-evidence/backend-deploy2.png">
+
+<img src="../assets/img/chapter-VI/sprint-1/execution-evidence/backend1.png">
+
+Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
 #### 6.2.2.9.Team Collaboration Insights during Sprint
 
@@ -494,6 +530,18 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 ### 6.3.3. Evaluaciones según heurísticas
 
 ## 6.4. Video About-the-Product
+ 
+- Video del producto de software:
+
+Captura: 
+
+Link: 
+
+- Video del prototipo de wokwi:
+
+Captura: 
+
+Link: 
 
 ## 7. Conclusiones
 
@@ -505,6 +553,10 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 - El uso de arquitectura en capas, como se presentó en los diagramas C4, permitió una clara separación de responsabilidades entre interfaz, lógica de aplicación, dominio e infraestructura, facilitando la escalabilidad y mantenibilidad del sistema.
 - El trabajo en equipo fue clave para el éxito del proyecto. Se logró una colaboración efectiva en la planificación, el diseño y el desarrollo, fomentando un entorno inclusivo y participativo.
 - Las entrevistas realizadas y el enfoque en la experiencia del usuario aseguraron que el sistema cubriera necesidades reales del público objetivo, validando su utilidad y viabilidad.
+- La combinación de dispositivos IoT, web services RESTful y aplicaciones frontend proporcionó una solución integral para el monitoreo continuo de la glucosa. Esta integración permitió la transmisión de datos en tiempo real, esencial para la detección temprana de situaciones críticas.
+- El proceso de diseño basado en user personas y validaciones con usuarios reales permitió desarrollar una solución que responde a necesidades específicas tanto de pacientes con diabetes como de sus cuidadores y profesionales médicos.
+- La separación en microservicios independientes (frontend, backend, IoT) permitió un desarrollo paralelo eficiente y establece las bases para futuras expansiones del sistema sin afectar componentes existentes.
+- El desarrollo del prototipo en Wokwi permitió validar conceptos técnicos y recibir retroalimentación temprana sobre el funcionamiento del dispositivo IoT, reduciendo riesgos en fases posteriores del desarrollo.
 
 **Recomendaciones:**
 
@@ -512,7 +564,9 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 - Considerar la integración del sensor con servicios de emergencia o aplicaciones móviles de terceros para una mejor respuesta ante situaciones críticas.
 - Continuar con pruebas de campo que validen el comportamiento del sistema en diferentes contextos y condiciones ambientales.
 - Desarrollar una versión portable y de bajo consumo energético que pueda ser usada de forma continua por los usuarios.
-
+- Desarrollar adaptadores para integrar el sistema con dispositivos médicos comerciales de monitoreo continuo de glucosa, ampliando así la base de usuarios potenciales.
+- Incorporar algoritmos de machine learning que analicen patrones en las lecturas históricas de glucosa para predecir tendencias y anticipar eventos hipoglucémicos o hiperglucémicos con mayor precisión.
+- Ampliar las opciones de configuración para adaptar el sistema a las necesidades específicas de cada usuario, incluyendo rangos personalizados de glucosa, frecuencia de mediciones y tipos de alertas según la gravedad.
 ---
 
 ### 7.2. Video About-the-Team
@@ -530,6 +584,18 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 - IEEE Standards Association. (2020). _IEEE Standard for Software and System Test Documentation_.
 - Organización Mundial de la Salud (OMS). (2023). _Informe mundial sobre la diabetes_. Recuperado de [https://www.who.int/es/news-room/fact-sheets/detail/diabetes](https://www.who.int/es/news-room/fact-sheets/detail/diabetes)
 - Mayo Clinic. (2023). _Diabetes - Síntomas y causas_. Recuperado de [https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444](https://www.mayoclinic.org/es/diseases-conditions/diabetes/symptoms-causes/syc-20371444)
+- American Diabetes Association. (2023). Standards of Medical Care in Diabetes—2023. Diabetes Care, 46(Supplement 1), S1-S252. https://doi.org/10.2337/dc23-Sint
+- Statista. (2025). IoT connected devices worldwide 2019-2030. Recuperado de https://www.statista.com/statistics/1183457/iot-connected-devices-worldwide/
+- World Health Organization. (2024). Global Report on Diabetes. WHO Press. Recuperado de https://www.who.int/publications/i/item/9789240086388
+- Hussain, F., & Jeong, S. R. (2023). Internet of Medical Things: Architectural model, challenges and future directions for healthcare systems. Journal of - - Medical Systems, 47(2), 1-15. https://doi.org/10.1007/s10916-023-01893-9
+- Fowler, M. (2018). Refactoring: Improving the Design of Existing Code (2nd ed.). Addison-Wesley Professional.
+- Lee, J., & Kim, D. (2024). Smart healthcare systems for diabetes management: A comprehensive review of IoT-based solutions. IEEE Internet of Things Journal, 11(3), 4568-4582.
+- Atlassian. (2023). Agile Project Management: A Comprehensive Guide. Recuperado de https://www.atlassian.com/agile
+- Bass, L., Clements, P., & Kazman, R. (2021). Software Architecture in Practice (4th ed.). Addison-Wesley Professional.
+- Norman, D. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
+- ISO/IEC. (2022). ISO/IEC 27001:2022 - Information security, cybersecurity and privacy protection. International Organization for Standardization.
+- Gartner, Inc. (2024). Top Strategic Technology Trends for 2025. Recuperado de https://www.gartner.com/en/publications/top-tech-trends-2025
+- U.S. Food and Drug Administration. (2023). Digital Health Innovation Action Plan. Recuperado de https://www.fda.gov/medical-devices/digital-health-center-excellence
 
 ---
 
@@ -538,7 +604,9 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 
 - FrontEnd Enlace: https://glucovaapp.netlify.app
 
-- BackEnd Enlace: https://glucova-backend.onrender.com
+- BackEnd Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
+
+- Enlace del prototipo wokwi: 
 
 - Enlace del prototipo Figma: https://www.figma.com/proto/UNEzJ9s5wbYGMDJ9zfTBHK/Untitled?node-id=2-461&starting-point-node-id=2%3A461&t=hd6Gpzpw4UIrp1EU-1
 
@@ -571,6 +639,26 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
                 </a> 
                 <br><br>
                 <img src="../assets/img/Anexo/Anexo entrevista.png" width="1000"> 
+            </td>
+        </tr>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>
+                Cantidad de videos: 1 <br> 
+                Nomenclatura: Validation Interviews <br>
+                Formato: Validation Interviews.mp4 <br>
+                Duración: 
+            </td>
+            <td>
+                En este video se visualizarán las entrevistas de validación realizadas a los distintos segmentos establecidos en el informe.
+            </td>
+            <td>
+                Link: 
+                <a href="" target="_blank">
+                    Validation Interviews
+                </a> 
+                <br><br>
+                <img src="" width="1000"> 
             </td>
         </tr>
     </tbody>
