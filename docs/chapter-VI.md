@@ -539,9 +539,10 @@ Link:
 
 - Video del prototipo de wokwi:
 
-Captura: 
+Captura:
+<img src="../assets/img/chapter-VI/sprint-2/prototype-wokwi/demo-wokwi.png">
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWiDCO9KwyZCu62hBva7c84BEIYTYcp0U6oqACncJ8bEfg?e=3IEahZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 7. Conclusiones
 
