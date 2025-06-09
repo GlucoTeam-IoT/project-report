@@ -470,12 +470,175 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 
 
 #### 6.2.2.2.Aspect Leaders and Collaborators
+En esta sección el equipo incluiremos la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint.
+
+| Team Member (Last Name, First Name)       | GitHub Username | Notificaciones Usuario (L) / Collaborator (C) | Registro de cuenta Leader (L) / Collaborator (C) | Estadísticas del paciente	Leader (L) / Collaborator (C) | Sistema Embebido	 Leader (L) / Collaborator (C) | Alertas Leader (L) / Collaborator (C) | 
+|-------------------------------------------|-----------------|---------------------------------------------|---------------------------------------------|-----|---------------------------------------------|---------------------------------------------|
+| Valenzuela Vallejos, Alessandro             | AlessandroUPC   | L                                           | L                                        | L |                               C              | C
+| Coraje Bayona, Jair André              |  Jair365         | C                                           | C                                           | C | L                                           | C
+| Calderón Huamán, José Daniel           |   drkdevv1        | C                                           | C                                           | C | C                                           | L
+| Diaz Villacrez, Maria Alejandra           |   alehandraxx        | C                                           | C                                           | C | C                                           | L
 
 #### 6.2.2.3.Sprint Backlog 2
+A continuación, la estructura de la tabla para el Sprint Backlog 2:
 
-#### 6.2.2.4.Development Evidence for Sprint Review
+| Sprint #       | Sprint 2                                                                                             |
+|----------------|------------------------------------------------------------------------------------------------------|
 
-#### 6.2.2.5.Testing Suite Evidence for Sprint Review
+
+| User Story Id  | User Story Title                                                 | Work-Item / Task Id | Work-Item / Task Title                                               | Description                                                                                                                                       | Estimation (Hours) | Assigned To                          | Status        |
+|----------------|------------------------------------------------------------------|----------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------|----------------|
+| TS05           | Configuración de alertas por umbrales de salud                 | T1                   | Lógica de comparación de datos y umbrales                           | Implementar lógica que compare los datos recibidos de sensores con los umbrales configurados.                                                    | 5                   | Maria Alejandra Díaz                  | Done  |
+| TS05           | Configuración de alertas por umbrales de salud                 | T2                   | Registro de alertas en base de datos                                | Programar modelo y función que registre cada alerta con fecha y tipo en la base de datos.                                                        | 4                   | Maria Alejandra Díaz                  | Done    |
+| TS06           | Creación de API REST para notificaciones                       | T3                   | Crear endpoints REST para notificaciones                            | Diseñar rutas POST, GET, DELETE para notificaciones en backend.                                                                                   | 5                   | Maria Alejandra Díaz                  | Done   |
+| TS06           | Creación de API REST para notificaciones                       | T4                   | Pruebas unitarias de notificaciones                                 | Implementar pruebas para validar el correcto funcionamiento de los endpoints.                                                                    | 3                   | Maria Alejandra Díaz                  | Done  |
+| TS07           | Seguridad en la autenticación y sesiones                       | T5                   | Encriptación de contraseñas con bcrypt                              | Aplicar bcrypt para proteger contraseñas antes de almacenarlas.                                                                                   | 3                   | Maria Alejandra Díaz                  | Done           |
+| TS07           | Seguridad en la autenticación y sesiones                       | T6                   | Autenticación con JWT                                               | Implementar generación y verificación de tokens JWT para sesiones.                                                                                | 4                   | Maria Alejandra Díaz                  | Done           |
+| TS08           | Documentación técnica del backend                              | T7                   | Documentación de endpoints con Swagger                              | Crear documentación accesible para los endpoints y servicios desarrollados en backend.                                                           | 3                   | Maria Alejandra Díaz                  | Done    |
+| TS09           | Integración de dispositivo BLE con aplicación móvil            | T8                   | Detección y emparejamiento de dispositivos BLE                      | Permitir a la app móvil detectar dispositivos BLE y establecer conexión.                                                                          | 5                   | Jair Andreé Coraje Bayona             | Done  |
+| TS09           | Integración de dispositivo BLE con aplicación móvil            | T9                   | Lectura y visualización de datos BLE                                | Recibir datos del dispositivo conectado y mostrarlos en la interfaz móvil.                                                                        | 4                   | Jair Andreé Coraje Bayona             | Done    |
+| TS10           | Procesamiento de datos de sensores con filtrado                | T10                  | Implementación de filtro de media móvil                             | Aplicar filtro matemático a los datos recibidos antes de almacenarlos.                                                                            | 4                   | Maria Alejandra Díaz                  | Done    |
+| TS10           | Procesamiento de datos de sensores con filtrado                | T11                  | Comparación entre datos crudos y filtrados                          | Crear método de prueba que registre ambos tipos de datos para comparar precisión.                                                                 | 3                   | Maria Alejandra Díaz                  | Done    |
+| TS11          | Interfaz de configuración de alertas                     | T01                  | Crear formulario y guardar preferencias de alertas        | Crear la vista de configuración para que el usuario seleccione umbrales de salud y preferencias de notificación.             | 6                   | José Daniel Mario Calderón Huamán    | Done |
+| TS12          | Visualización de alertas en panel web                    | T02                  | Implementar lista de alertas históricas y activas         | Mostrar en tabla las alertas recibidas con opciones de ordenamiento por fecha o severidad.                                   | 5                   | José Daniel Mario Calderón Huamán    | Done |
+| TS13          | Historial gráfico de datos del paciente                  | T03                  | Implementar dashboard con gráficos interactivos            | Crear gráficos de línea o barras para representar datos de salud filtrables por fecha.                                       | 7                   | José Daniel Mario Calderón Huamán    | Done |
+| TS14          | Página de inicio personalizada para usuario logueado     | T04                  | Diseñar landing interna con estado y accesos rápidos       | Mostrar resumen del estado del paciente, últimas alertas y accesos rápidos al historial.                                     | 5                   | José Daniel Mario Calderón Huamán    | Done |
+| TS15          | Gestión de sesiones y cierre de sesión seguro            | T05                  | Implementar logout y control de navegación posterior       | Desarrollar funcionalidad de cierre de sesión con limpieza de sesión y bloqueo del botón "atrás".                            | 4                   | José Daniel Mario Calderón Huamán    | Done |
+
+#### 6.2.2.4. Development Evidence for Sprint Review
+
+A continuación, se presenta una tabla con información de ejemplo sobre los repositorios y commits realizados durante el sprint:
+
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Committed on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>6c0eb853b9f65f53c9c197cf474798e2121b5271</td>
+            <td>fix: fix styles for alert setting</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>df7e92560ca72239a317ac34f0c5cc0e07ad1e63</td>
+            <td>feat: add Alert Setting page and route in app.tsx</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>081408f38e14314c780b549d74bc79a5c283f9eb</td>
+            <td>feat: add alert settings form</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/glucova-frontend</td>
+            <td>develop</td>
+            <td>c7018becf4763d005d95db1e4736da4b770ee34c</td>
+            <td>feat: add altert settings types and services</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>7c675a83c676d21c5db2c243f173ee5cc424588d</td>
+            <td>docs(readme): update student outcome</td>
+            <td></td>
+            <td>2025-05-13</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>31f1b4a33535e122095f04a3e4fed41d46ac4162</td>
+            <td>docs: update README.md</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>6ac8f50a0d05c490b71b736b8525a3edacb328ba</td>
+            <td>fix: update document title</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>d05e9324284018166a5b9fa7b62578eaa8cb4494</td>
+            <td>feat: add framer-motion and hamburger-react for enhanced mobile navigation</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/landing-page</td>
+            <td>develop</td>
+            <td>66cd38a2a1ebe43a8a1d6f2093b8a607ba81aeef</td>
+            <td>refactor: reorganize Landing component structure for improved readability</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>870e726a963237fd6a0e75c49424df7aa6cab75d</td>
+            <td>docs: Correction and improvement of the writing of Chapter 4</td>
+            <td></td>
+            <td>2025-05-08</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>bb3257512fef9568e3e2c59c85228c59651ee08b</td>
+            <td>Docs: Add interview purpose by segment</td>
+            <td></td>
+            <td>2025-05-07</td>
+        </tr>
+        <tr>
+            <td>GlucoTeam-IoT/project-report</td>
+            <td>develop</td>
+            <td>845c3bc78ad063ad6376a00024a8f3b682d2c5a8</td>
+            <td>docs: test update</td>
+            <td></td>
+            <td>2025-05-07</td>
+        </tr>
+    </tbody>
+</table>
+
+Enlace del github: https://github.com/orgs/GlucoTeam-IoT/repositories
+
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review
+A continuación, se presenta una tabla con información del repositorio de las pruebas, y los commits realizados durante el sprint:
+
+
+| Repository            | Branch             | Commit Id | Commit Message                  | Commit Message Body                                                                 | Commited on (Date) |
+|-----------------------|--------------------|-----------|----------------------------------|--------------------------------------------------------------------------------------|---------------------|
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 10f4f4eef88c494a28b0d3adf243e0a91541a403   | feat: add initial Gherkin scenarios for user login| - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 9c29455e7e93e7d2d7a08a8d64e364076e19e59e   | feat: Implement login functionality with valid and invalid credentials validation | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | c1025c1f441cb869f54f12ec9fefc28759361642   | feat: Add user registration functionality with validation for existing emails and weak passwords | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | c2113e94ae7750870fbdc2673817b00581cb918b   | feat: Implement patient report statistics table and handle no data scenario | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | d20684cc54df8314d1c204b258d53d014bab21be   | feat: Implement latest patient report view and handle no recent report scenario | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 5d42f094ff687eddcebed90f8a947c310788b0c2   | feat: Implement user location capture and handle location access and network issues | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | 907a08acf1922eeb8c6488b50a5f8279e2950ecc   | feat: Add About Us section with team experience display and role visibility | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | f6c2dc1d76f929d638e33ec591a9846629de726b   | feat: Implement About the Product section with core features and product purpose | - | 14/05/2025        |
+| GlucoTeam-IoT/GlucoTeam-acceptance-tests  | develop | fe117b71c7b8e7e90f6db4e86d901c4327e94e29   | feat: Create contact section with form validation and error handling | - | 14/05/2025        |
+
+Enlace del github: https://github.com/GlucoTeam-IoT/GlucoTeam-acceptance-tests/commits/develop
 
 #### 6.2.2.6.Execution Evidence for Sprint Review
 
@@ -485,9 +648,60 @@ En esta sección especificaremos los aspectos principales del Sprint Planning Me
 
 #### 6.2.2.9.Team Collaboration Insights during Sprint
 
+
+
 ## 6.3. Validation Interviews
 
+En este punto el equipo realizará entrevistas a nuestros segmentos objetivos previamente identificados, en el cual le prese.
+
 ### 6.3.1. Diseño de Entrevistas
+
+---
+
+#### **Segmento objetivo 1: Pacientes con Diabetes**
+
+**Propósito de la entrevista:**
+Conocer de manera directa las prácticas, dificultades y necesidades actuales que enfrentan los pacientes con Diabetes Tipo 2 en el monitoreo de su glucosa. Esta información permitirá validar la utilidad, usabilidad y expectativas sobre una posible solución tecnológica que mejore su calidad de vida.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué distrito vive?
+4. ¿Cuál es su ocupación actual?
+5. ¿Hace cuánto tiempo fue diagnosticado con Diabetes tipo 2?
+
+**Preguntas sobre sus preferencias:**
+
+6. ¿Actualmente utiliza algún dispositivo o aplicación para monitorear su nivel de glucosa? ¿Cuál?
+7. ¿Con qué frecuencia mide su nivel de glucosa?
+8. ¿Lleva un registro de sus niveles? ¿Cómo lo hace (libreta, app, Excel, etc.)?
+
+**Preguntas sobre la solución:**
+
+9. ¿Qué tan fácil o difícil le resulta entender los resultados que obtiene de estos dispositivos?
+10. ¿Qué funcionalidades le gustaría que tuviera una app o dispositivo para ayudarle con su control de glucosa?
+
+---
+
+#### **Segmento objetivo 2: Médicos Especializados**
+
+**Propósito de la entrevista:**
+Obtener una visión profesional y técnica sobre el seguimiento de pacientes con Diabetes Tipo 2, identificar cómo los médicos utilizan o podrían beneficiarse del uso de tecnología para mejorar el tratamiento, y conocer su percepción sobre herramientas digitales en el monitoreo de glucosa.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Qué especialidad médica ejerce?
+3. ¿En qué clínica u hospital labora actualmente?
+4. ¿Cuántos años de experiencia tiene tratando pacientes con Diabetes tipo 2?
+5. ¿Cuántos pacientes con esta condición atiende aproximadamente al mes?
+
+**Preguntas sobre la solución:**
+
+6. ¿Qué métodos utilizan sus pacientes para monitorear sus niveles de glucosa actualmente?
+7. ¿Considera útil recibir los datos de monitoreo de glucosa de sus pacientes a través de una app?
+8. ¿Qué tipo de información considera más relevante recibir (niveles diarios, gráficas, alertas)?
+9. ¿Ha recomendado alguna app o dispositivo de monitoreo a sus pacientes? ¿Cuál y por qué?
+10. ¿Qué características considera indispensables en una aplicación orientada al control de la diabetes?
 
 ### 6.3.2. Registro de Entrevistas
 
