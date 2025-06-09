@@ -688,56 +688,52 @@ Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
 ## 6.3. Validation Interviews
 
-En este punto el equipo realizará entrevistas a nuestros segmentos objetivos previamente identificados, en el cual le prese.
+En esta sección, el equipo llevará a cabo entrevistas con los segmentos objetivos previamente identificados. El objetivo principal es presentar el producto final a usuarios representativos para recoger retroalimentación cualitativa que permita validar la utilidad, usabilidad y aceptación del sistema desarrollado.
 
 ### 6.3.1. Diseño de Entrevistas
 
 ---
 
-#### **Segmento objetivo 1: Pacientes con Diabetes**
+#### **Segmento Objetivo 1: Pacientes con Diabetes Tipo 2**
 
-**Propósito de la entrevista:**
-Conocer de manera directa las prácticas, dificultades y necesidades actuales que enfrentan los pacientes con Diabetes Tipo 2 en el monitoreo de su glucosa. Esta información permitirá validar la utilidad, usabilidad y expectativas sobre una posible solución tecnológica que mejore su calidad de vida.
+**Propósito de la entrevista:**  
+Obtener la opinión directa de pacientes diagnosticados con Diabetes Tipo 2 sobre la aplicación desarrollada. A través de esta interacción, buscamos identificar prácticas comunes, dificultades y necesidades actuales relacionadas con el monitoreo de glucosa. Esta información será clave para validar si nuestra solución tecnológica responde adecuadamente a sus expectativas y mejora su calidad de vida.
 
 **Preguntas demográficas:**
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
-3. ¿En qué distrito vive?
+3. ¿En qué distrito reside?
 4. ¿Cuál es su ocupación actual?
-5. ¿Hace cuánto tiempo fue diagnosticado con Diabetes tipo 2?
+5. ¿Desde cuándo ha sido diagnosticado con Diabetes Tipo 2?
 
-**Preguntas sobre sus preferencias:**
+**Interacción con la aplicación web:**  
+Se invitará al paciente a explorar las principales funcionalidades de la aplicación: monitoreo de datos, configuración de alertas, historial gráfico y visualización de reportes. La observación directa de su interacción permitirá evaluar la usabilidad del sistema.
 
-6. ¿Actualmente utiliza algún dispositivo o aplicación para monitorear su nivel de glucosa? ¿Cuál?
-7. ¿Con qué frecuencia mide su nivel de glucosa?
-8. ¿Lleva un registro de sus niveles? ¿Cómo lo hace (libreta, app, Excel, etc.)?
-
-**Preguntas sobre la solución:**
-
-9. ¿Qué tan fácil o difícil le resulta entender los resultados que obtiene de estos dispositivos?
-10. ¿Qué funcionalidades le gustaría que tuviera una app o dispositivo para ayudarle con su control de glucosa?
+**Preguntas sobre la experiencia con la web:**
+1. ¿Le resultó fácil navegar por la plataforma?
+2. ¿Pudo comprender fácilmente los datos mostrados sobre su salud?
+3. ¿Considera útiles las alertas personalizadas que ofrece la aplicación?
+4. ¿Qué funcionalidades le parecen más valiosas?
+5. ¿Qué mejoras sugeriría para que la aplicación sea más útil en su día a día?
 
 ---
 
-#### **Segmento objetivo 2: Médicos Especializados**
+#### **Segmento Objetivo 2: Médicos Especializados**
 
-**Propósito de la entrevista:**
-Obtener una visión profesional y técnica sobre el seguimiento de pacientes con Diabetes Tipo 2, identificar cómo los médicos utilizan o podrían beneficiarse del uso de tecnología para mejorar el tratamiento, y conocer su percepción sobre herramientas digitales en el monitoreo de glucosa.
+**Propósito de la entrevista:**  
+Recoger la perspectiva técnica y profesional de un médico especializado en el tratamiento de Diabetes Tipo 2. Se busca evaluar cómo herramientas digitales como nuestra aplicación pueden apoyar el seguimiento de pacientes, mejorar la toma de decisiones clínicas y optimizar el monitoreo de datos en tiempo real.
 
-**Preguntas demográficas:**
-1. ¿Cuál es su nombre completo?
-2. ¿Qué especialidad médica ejerce?
-3. ¿En qué clínica u hospital labora actualmente?
-4. ¿Cuántos años de experiencia tiene tratando pacientes con Diabetes tipo 2?
-5. ¿Cuántos pacientes con esta condición atiende aproximadamente al mes?
+**Interacción con la aplicación web:**  
+Se proporcionará acceso al médico a un entorno de prueba donde podrá visualizar datos simulados de un paciente, acceder a reportes históricos, revisar alertas emitidas por el sistema y navegar por el panel de control.
 
-**Preguntas sobre la solución:**
+**Preguntas sobre la experiencia con la web:**
+1. ¿Considera que la plataforma presenta la información de manera clara y relevante para un profesional de la salud?
+2. ¿Cree que esta herramienta podría facilitar el seguimiento clínico de un paciente con Diabetes Tipo 2?
+3. ¿Qué tan confiables le parecen las alertas generadas automáticamente por el sistema?
+4. ¿Qué funcionalidades cree que deberían incorporarse desde una perspectiva médica?
+5. ¿Recomendaría el uso de esta aplicación como complemento en el tratamiento de pacientes?
 
-6. ¿Qué métodos utilizan sus pacientes para monitorear sus niveles de glucosa actualmente?
-7. ¿Considera útil recibir los datos de monitoreo de glucosa de sus pacientes a través de una app?
-8. ¿Qué tipo de información considera más relevante recibir (niveles diarios, gráficas, alertas)?
-9. ¿Ha recomendado alguna app o dispositivo de monitoreo a sus pacientes? ¿Cuál y por qué?
-10. ¿Qué características considera indispensables en una aplicación orientada al control de la diabetes?
+---
 
 ### 6.3.2. Registro de Entrevistas
 
