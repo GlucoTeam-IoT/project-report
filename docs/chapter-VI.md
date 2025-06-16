@@ -737,6 +737,208 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
 
 ### 6.3.2. Registro de Entrevistas
 
+## Entrevistas a segmento objetivo 1: Pacientes con diabetes Tipo 2
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="" width="400" ></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+            <thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src=""></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+                <thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src=""></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+</table>
+
+## Entrevista a segmento objetivo 2: Médicos especializados
+
+<table>
+               <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="" width="400" ></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+            <thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th>Jacqueline Samanez</th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Maria Alejandra Diaz Villacrez</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>53</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Pueblo Libre</td>
+            </tr>
+            <tr>
+                <td><img src=""></td>
+                <td><strong>Resumen:</strong><br>La entrevistada nos comenta que a su parecer, considera que la plataforma presenta la información bastante clara y relevante, es concisa y directa. Cree que esta herramienta podría facilitar el seguimiento clínico de pacientes pero si estuviera integrada a algún sistema que ya utilicen a diario en el hospital, ya que por sí sola sería difícil que todo el personal la utilice. También, opina que por ahora las alertas generadas son útiles para el propósito de la herramienta. Le gustaría poder ver funcionalidades como poder cargar el historial médico del paciente y otros datos relevantes. Quizás poder obtener algún patrón según las estadísticas del historial, como a qué hora usualmente suele haber un pico en la medida de la glucosa en sangre del paciente. Finalmente, sí recomendaría el uso de la aplicación a sus compañeros profesionales de la salud. </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+                <thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src=""></td>
+                <td><strong>Resumen: </strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+</table>
+
 ### 6.3.3. Evaluaciones según heurísticas
 
 ## 6.4. Video About-the-Product
