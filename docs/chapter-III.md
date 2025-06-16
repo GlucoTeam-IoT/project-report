@@ -557,6 +557,195 @@
             </td>
             <td>EP07</td>
         </tr>
+        <tr>
+        <td>TS01</td>
+        <td>Configuración del entorno de desarrollo web</td>
+        <td>Como desarrollador, necesito configurar y documentar un entorno de desarrollo común para facilitar la colaboración y consistencia del landing page.</td>
+        <td>
+            <ul>
+                <li>Entorno reproducible para todos los miembros</li>
+                <li>Instalación de herramientas base: Node.js, React, Git</li>
+                <li>Documentación paso a paso incluida en el repositorio</li>
+            </ul>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>TS02</td>
+        <td>Implementación de validaciones en el formulario de registro</td>
+        <td>Como desarrollador, necesito aplicar validaciones del lado cliente para evitar datos inválidos durante el registro de usuarios.</td>
+        <td>
+            <ul>
+                <li>Validación de campos: email, contraseña segura, campos obligatorios</li>
+                <li>Mensajes de error claros y visibles</li>
+                <li>No debe enviarse el formulario si hay errores</li>
+            </ul>
+        </td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>TS03</td>
+        <td>Diseño del modelo de base de datos para usuarios</td>
+        <td>Como desarrollador, necesito diseñar el modelo de datos para gestionar información de usuarios y sus roles de acceso.</td>
+        <td>
+            <ul>
+                <li>Modelo de entidades relacional implementado</li>
+                <li>Soporte para roles como "cuidador" y "paciente"</li>
+                <li>Migraciones listas para producción</li>
+            </ul>
+        </td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>TS04</td>
+        <td>Integración de sockets para seguimiento en tiempo real</td>
+        <td>Como desarrollador, necesito usar sockets para transmitir datos de salud del paciente en tiempo real al front-end.</td>
+        <td>
+            <ul>
+                <li>Recepción continua de datos simulados desde el backend</li>
+                <li>Manejo de eventos de conexión y desconexión</li>
+                <li>Visualización dinámica en el dashboard del cuidador</li>
+            </ul>
+        </td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS05</td>
+        <td>Configuración de alertas por umbrales de salud</td>
+        <td>Implementar la lógica backend para enviar alertas cuando un dato de sensor exceda un umbral configurado.</td>
+        <td>
+            <ul>
+                <li>Se generan alertas automáticamente.</li>
+                <li>Las alertas son registradas en la base de datos.</li>
+            </ul>
+        </td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>TS06</td>
+        <td>Creación de API REST para notificaciones</td>
+        <td>Diseñar e implementar una API REST para gestionar el envío de notificaciones desde el backend.</td>
+        <td>
+            <ul>
+                <li>API con endpoints funcionales para crear, consultar y eliminar notificaciones.</li>
+                <li>Pruebas unitarias incluidas.</li>
+            </ul>
+        </td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>TS07</td>
+        <td>Seguridad en la autenticación y sesiones</td>
+        <td>Implementar el uso de tokens JWT y encriptación de contraseñas con bcrypt.</td>
+        <td>
+            <ul>
+                <li>Contraseñas encriptadas en la base de datos.</li>
+                <li>JWT generados y verificados correctamente.</li>
+            </ul>
+        </td>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>TS08</td>
+        <td>Documentación técnica del backend</td>
+        <td>Crear documentación de los servicios y rutas del backend con Swagger u otra herramienta.</td>
+        <td>
+            <ul>
+                <li>Todos los endpoints documentados.</li>
+                <li>Accesible para desarrolladores desde entorno local.</li>
+            </ul>
+        </td>
+        <td>EP05</td>
+    </tr>
+    <tr>
+        <td>TS09</td>
+        <td>Integración de dispositivo BLE con aplicación móvil</td>
+        <td>Implementar el módulo que permita conectar y leer datos desde dispositivos BLE (Bluetooth Low Energy).</td>
+        <td>
+            <ul>
+                <li>La app detecta dispositivos BLE.</li>
+                <li>Se reciben y visualizan datos correctamente.</li>
+            </ul>
+        </td>
+        <td>EP06</td>
+    </tr>
+    <tr>
+        <td>TS10</td>
+        <td>Procesamiento de datos de sensores con filtrado</td>
+        <td>Implementar un filtro (por ejemplo, media móvil) para suavizar los datos recibidos de los sensores antes de su almacenamiento.</td>
+        <td>
+            <ul>
+                <li>Los datos se almacenan suavizados.</li>
+                <li>Se puede comparar entre datos crudos y filtrados durante pruebas.</li>
+            </ul>
+        </td>
+        <td>EP06</td>
+    </tr>
+    <tr>
+    <td>TS11</td>
+    <td>Interfaz de configuración de alertas</td>
+    <td>Crear una vista en la web donde el usuario pueda configurar los umbrales de salud y preferencias de notificación.</td>
+    <td>
+        <ul>
+            <li>Se puede seleccionar valores límites por parámetro.</li>
+            <li>Se guarda la configuración correctamente.</li>
+            <li>La vista se adapta a escritorio y tablet.</li>
+        </ul>
+    </td>
+    <td>EP04</td>
+    </tr>
+    <tr>
+        <td>TS12</td>
+        <td>Visualización de alertas en panel web</td>
+        <td>Desarrollar una sección que muestre las alertas activas e históricas con sus detalles (fecha, tipo, prioridad).</td>
+        <td>
+            <ul>
+                <li>Se listan al menos 10 alertas por página.</li>
+                <li>Se permite ordenar por fecha o severidad.</li>
+                <li>Se muestra estado: activa o resuelta.</li>
+            </ul>
+        </td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>TS13</td>
+        <td>Historial gráfico de datos del paciente</td>
+        <td>Diseñar un dashboard que permita visualizar gráficamente los datos recopilados por los sensores.</td>
+        <td>
+            <ul>
+                <li>Incluye gráficos interactivos (línea, barras).</li>
+                <li>Permite filtrar por fechas y tipo de dato.</li>
+                <li>Datos se actualizan automáticamente al ingresar.</li>
+            </ul>
+        </td>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS14</td>
+        <td>Página de inicio personalizada para usuario logueado</td>
+        <td>Crear una landing page interna que muestre resumen del estado del paciente, últimas alertas y accesos rápidos.</td>
+        <td>
+            <ul>
+                <li>Datos actualizados en tiempo real.</li>
+                <li>Se adapta al rol del usuario (cuidador/familiar).</li>
+                <li>Accesos rápidos a historial y configuración.</li>
+            </ul>
+        </td>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>TS15</td>
+        <td>Gestión de sesiones y cierre de sesión seguro</td>
+        <td>Implementar botón de logout con invalidación de sesión activa y redirección segura.</td>
+        <td>
+            <ul>
+                <li>La sesión se invalida correctamente al cerrar sesión.</li>
+                <li>Se redirige al usuario a la página de inicio.</li>
+                <li>No se puede regresar con el botón "atrás".</li>
+            </ul>
+        </td>
+        <td>EP02</td>
+    </tr>
     </tbody>
 </table>
 </table>
@@ -571,6 +760,9 @@
 ## 3.4. Product Backlog
 
 En esta sección se presenta el backlog del producto.
+
+Enlace del Trello Product Backlog: https://trello.com/b/qBZuOZ98/upc-pre-202510-1asi0572-2952-glucoteam-trello#
+
 <table>
     <thead>
         <tr>
@@ -748,8 +940,8 @@ En esta sección se presenta el backlog del producto.
                     <li>Muestra confirmación de envío</li>
                 </ul>
             </td>
-            <td>Media</td>
-            <td>3</td>
+            <td>Baja</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>13</td>

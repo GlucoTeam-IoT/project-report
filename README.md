@@ -45,6 +45,7 @@
 | 1.2    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el despliegue del desarrollo del Frontend y Landing Page.|
 | 1.3    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el desarrollo del capitulo V de UX/UI. |
 | 1.4    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace termino a la arquitectura del sistema (C4 Diagrams). |
+| 1.5    | 07/06/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se comenzó la redacción del sprint 2 para el entregable TB2. |
 
 ### Project Report Collaboration Insights
 
@@ -63,7 +64,7 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - main
 - develop
 
-* #### Entregable TP1
+#### Entregable TP1
 
 A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
 primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
@@ -71,6 +72,9 @@ miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se pr
 líneas de código que se han modificado en cada uno de los commits.
 
 <img src="./assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
+
+#### Entregable TB2
+
 
 
 ## Contenido 
@@ -253,6 +257,26 @@ líneas de código que se han modificado en cada uno de los commits.
 
     6.2.1.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6219-team-collaboration-insights-during-sprint)
 
+    6.2.2. [Sprint 2](docs/chapter-VI.md#622-sprint-2)
+
+    6.2.2.1. [Sprint Planning 2](docs/chapter-VI.md#6221-sprint-planning-2)  
+
+    6.2.2.2. [Aspect Leaders and Collaborators](docs/chapter-VI.md#6222-aspect-leaders-and-collaborators)  
+
+    6.2.2.3. [Sprint Backlog 2](docs/chapter-VI.md#6223-sprint-backlog-2)  
+
+    6.2.2.4. [Development Evidence for Sprint Review](docs/chapter-VI.md#6224-development-evidence-for-sprint-review)  
+
+    6.2.2.5. [Testing Suite Evidence for Sprint Review](docs/chapter-VI.md#6225-testing-suite-evidence-for-sprint-review)  
+
+    6.2.2.6. [Execution Evidence for Sprint Review](docs/chapter-VI.md#6226-execution-evidence-for-sprint-review)  
+
+    6.2.2.7. [Services Documentation Evidence for Sprint Review](docs/chapter-VI.md#6227-services-documentation-evidence-for-sprint-review)  
+
+    6.2.2.8. [Software Deployment Evidence for Sprint Review](docs/chapter-VI.md#6228-software-deployment-evidence-for-sprint-review)  
+    
+    6.2.2.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6229-team-collaboration-insights-during-sprint)  
+
     6.3. [Validation Interviews](docs/chapter-VI.md#63-validation-interviews)
 
     6.3.1. [Diseño de Entrevistas](docs/chapter-VI.md#631-diseño-de-entrevistas)
@@ -298,11 +322,15 @@ líneas de código que se han modificado en cada uno de los commits.
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         Durante el primer entregable, asumí un rol de liderazgo en la fase de investigación con usuarios, específicamente en el segmento de médicos especializados. Coordiné y realicé la entrevista con la Dra. Jacqueline Samanez, endocrinóloga con amplia experiencia, lo que permitió obtener insights valiosos sobre las necesidades reales de los profesionales médicos. Contribuí activamente en la elaboración de los user personas y aporté en la definición de requerimientos basados en las necesidades identificadas. Esta investigación fue fundamental para orientar correctamente la solución tecnológica hacia las verdaderas necesidades de los usuarios médicos, estableciendo una base sólida para el desarrollo del proyecto. </br>
         <b>Díaz Villacrez, María Alejandra TP1:</b> 
-        Durante el desarrollo del proyecto, asumí el liderazgo en la implementación del backend, diseñando y desarrollando la arquitectura de los servicios RESTful que soportan la solución IoT. Me encargué de definir las estructuras de datos y endpoints necesarios para la comunicación entre los dispositivos IoT y la aplicación, asegurando una integración eficiente y escalable. Además, trabajé en estrecha colaboración con el equipo de frontend y UX/UI para garantizar que las funcionalidades del backend respondieran a las necesidades identificadas en las entrevistas y user personas. Este trabajo permitió establecer una base técnica sólida para el proyecto, alineada con los objetivos del equipo.
+        Durante el desarrollo del proyecto, asumí el liderazgo en la implementación del backend, diseñando y desarrollando la arquitectura de los servicios RESTful que soportan la solución IoT. Me encargué de definir las estructuras de datos y endpoints necesarios para la comunicación entre los dispositivos IoT y la aplicación, asegurando una integración eficiente y escalable. Además, trabajé en estrecha colaboración con el equipo de frontend y UX/UI para garantizar que las funcionalidades del backend respondieran a las necesidades identificadas en las entrevistas y user personas. Este trabajo permitió establecer una base técnica sólida para el proyecto, alineada con los objetivos del equipo. </br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Durante el segundo entregable, asumí el liderazgo técnico en el desarrollo e implementación de los web services, componente crítico para la integración entre el frontend, el backend y los dispositivos IoT. Diseñé y documenté exhaustivamente las APIs REST, facilitando así la comunicación eficiente entre todos los miembros del equipo. Me encargué del despliegue de los servicios en entornos de producción, asegurando su correcto funcionamiento y disponibilidad. Paralelamente, tomé la iniciativa en el desarrollo del primer prototipo en Wokwi para nuestro dispositivo IoT, estableciendo las bases para la interacción entre hardware y software.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        El equipo GlucoTeam demostró un efectivo liderazgo colaborativo durante el desarrollo del primer entregable, donde cada integrante asumió responsabilidades específicas según sus fortalezas: investigación con usuarios médicos, diseño y análisis de entrevistas, elaboración de user personas, análisis competitivo y diseño de arquitectura tecnológica. Esta distribución de liderazgos permitió abordar aspectos críticos del proyecto desde múltiples perspectivas, combinando habilidades técnicas y de investigación. El trabajo coordinado facilitó la integración coherente de los hallazgos, estableciendo una base sólida para el desarrollo de la solución IoT orientada al monitoreo de pacientes con diabetes, alineada con necesidades reales identificadas tanto en profesionales médicos como en pacientes.
+        El equipo GlucoTeam demostró un efectivo liderazgo colaborativo durante el desarrollo del primer entregable, donde cada integrante asumió responsabilidades específicas según sus fortalezas: investigación con usuarios médicos, diseño y análisis de entrevistas, elaboración de user personas, análisis competitivo y diseño de arquitectura tecnológica. Esta distribución de liderazgos permitió abordar aspectos críticos del proyecto desde múltiples perspectivas, combinando habilidades técnicas y de investigación. El trabajo coordinado facilitó la integración coherente de los hallazgos, estableciendo una base sólida para el desarrollo de la solución IoT orientada al monitoreo de pacientes con diabetes, alineada con necesidades reales identificadas tanto en profesionales médicos como en pacientes.</br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
+         El equipo GlucoTeam evidenció un liderazgo técnico distribuido durante el Sprint 2, donde cada miembro asumió responsabilidades específicas en áreas cruciales: desarrollo de web services y APIs, implementación del prototipo IoT, mejoras en el frontend, optimización de la experiencia de usuario y gestión de la integración entre componentes. Esta especialización permitió aprovechar las fortalezas individuales mientras se mantenía una visión unificada del proyecto. El liderazgo compartido facilitó la resolución ágil de desafíos técnicos complejos y permitió avanzar simultáneamente en múltiples frentes de desarrollo, consolidando una arquitectura IoT coherente y funcional.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -319,7 +347,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Calderon Huaman, Jose Daniel Mario TB1:</b><br>
         Durante el primer entregable, realicé un trabajo activo en equipo liderando la elaboración del Capítulo I del proyecto, el cual abarcó desde la descripción inicial de la startup hasta la definición de los segmentos objetivo. Asumí un rol propositivo y de liderazgo compartido al desarrollar secciones clave como la problemática, los perfiles del equipo, el perfil de la solución y los elementos del proceso Lean UX, como las problem statements, assumptions, hipótesis y el Lean UX Canvas. Además, promoví la colaboración entre los integrantes para alinear criterios y asegurar coherencia en el enfoque del proyecto. Esta experiencia me permitió ejercer liderazgo de forma conjunta, contribuyendo al desarrollo estratégico de la propuesta y facilitando la organización efectiva del equipo en las etapas iniciales.
-        <b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
+        <br><b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
         En TP1, participé en la construcción del frontend, enfocándome en la implementación de visualizaciones estadísticas de los reportes del paciente. Contribuí en la integración con la interfaz y Landing Page, además, me aseguré que los gráficos y elementos visuales cumplieran con los estándares de usabilidad establecidos por el equipo de UX/UI. También colaboré en la validación final de los wireflows e hice observaciones sobre la arquitectura del sistema.
       </td>    
     </tr>
@@ -356,11 +384,15 @@ líneas de código que se han modificado en cada uno de los commits.
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         Para fomentar un ambiente de trabajo colaborativo, implementé reuniones periódicas de alineamiento donde todos los miembros pudieran compartir sus avances y propuestas. Establecí metas claras para la fase de investigación de usuarios, dividiendo el trabajo equitativamente entre el equipo para abordar los diferentes segmentos objetivos. Me encargué de la planificación detallada de las entrevistas, creando un guion estructurado que permitió obtener información consistente de los profesionales médicos. Además, cumplí con los plazos establecidos para la entrega de la documentación y análisis de las entrevistas, contribuyendo significativamente a que el equipo completara el primer entregable dentro del cronograma previsto y con la calidad esperada.</br>
         <b>Díaz Villacrez, María Alejandra TP1:</b> 
-        Para fomentar un entorno colaborativo, organicé reuniones técnicas donde compartí avances y desafíos relacionados con el backend, asegurando que todos los miembros del equipo comprendieran su funcionamiento y pudieran integrarlo con sus respectivas áreas. Establecí metas claras para el desarrollo de las APIs, dividiendo las tareas en sprints manejables y priorizando funcionalidades críticas como la autenticación de usuarios y la gestión de datos médicos. Gracias a una planificación detallada y comunicación constante, logramos cumplir con los objetivos establecidos dentro del cronograma, asegurando que el backend estuviera listo para las pruebas de integración con el resto del sistema.
+        Para fomentar un entorno colaborativo, organicé reuniones técnicas donde compartí avances y desafíos relacionados con el backend, asegurando que todos los miembros del equipo comprendieran su funcionamiento y pudieran integrarlo con sus respectivas áreas. Establecí metas claras para el desarrollo de las APIs, dividiendo las tareas en sprints manejables y priorizando funcionalidades críticas como la autenticación de usuarios y la gestión de datos médicos. Gracias a una planificación detallada y comunicación constante, logramos cumplir con los objetivos establecidos dentro del cronograma, asegurando que el backend estuviera listo para las pruebas de integración con el resto del sistema. </br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Para este segundo sprint, establecí un enfoque colaborativo mediante la creación de documentación detallada y accesible de los web services, lo que permitió a todos los miembros del equipo comprender y utilizar las APIs desarrolladas sin obstáculos. Definí metas claras y específicas para el desarrollo de cada endpoint, organizando el trabajo en módulos funcionales con plazos definidos. Implementé un sistema de pruebas que permitía validar cada servicio antes de su integración, asegurando así la calidad del código. Para el desarrollo del prototipo IoT en Wokwi, planifiqué iteraciones incrementales que fueron compartidas con el equipo para recibir retroalimentación constantemente, lo que generó un ambiente inclusivo donde todos pudieron contribuir con ideas para mejorar la solución.
         </td>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios.
+        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios. </br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
+        Durante el segundo sprint, el equipo estableció procesos colaborativos efectivos mediante documentación detallada, comunicación constante y revisiones cruzadas del trabajo. Se implementaron metodologías ágiles para establecer metas específicas, medibles y alcanzables para cada componente del sistema (web services, frontend, prototipo IoT). La planificación se estructuró en ciclos cortos con entregables incrementales, permitiendo validaciones tempranas y ajustes oportunos. Este enfoque favoreció un ambiente donde todos los miembros contribuyeron activamente, compartiendo conocimientos específicos y respetando los tiempos establecidos. 
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -394,7 +426,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Valenzuela Vallejos, Stefano Alessandro Nombre TB1</b><br>
         En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
-        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre Tp1</b><br>
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TP1</b><br>
         Durante esta fase del proyecto, lideré la implementación del frontend y el despliegue de la landing page, asegurando su correcto funcionamiento en diferentes entornos. Además, coordiné con el equipo de UX/UI para la definición de los wireflows, validando su funcionalidad e integración con la lógica de la solución. También me encargué de la revisión técnica y actualización de los diagramas C4, incorporando mejoras identificadas durante la implementación. Este trabajo consolidó la arquitectura del proyecto, garantizando su alineación con los requerimientos técnicos y de experiencia de usuario.
       </td>   
     </tr>
