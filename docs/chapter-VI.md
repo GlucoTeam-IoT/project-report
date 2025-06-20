@@ -652,7 +652,6 @@ Link del backend desplegado: https://glucova-backend-1c16.onrender.com/api/docs#
 
 #### 6.2.2.8.Software Deployment Evidence for Sprint Review
 
-Como evidencia de la ejecución de la landing:
 **Evidencia del despliegue del Landing Page:**
 
 Como evidencia del despliegue de la landing:
@@ -684,7 +683,35 @@ Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
 #### 6.2.2.9.Team Collaboration Insights during Sprint
 
+- Repositorio del reporte
+    - Link: https://github.com/GlucoTeam-IoT/project-report
 
+<img src="../assets/img/chapter-VI/sprint-2/insights/report.png">
+
+- Repositorio de landing page
+    - Link: https://github.com/GlucoTeam-IoT/landing-page
+
+<img src="../assets/img/chapter-VI/sprint-2/insights/landing.png">
+
+- Repositorio del frontend
+    - Link: https://github.com/GlucoTeam-IoT/glucova-frontend
+
+<img src="../assets/img/chapter-VI/sprint-2/insights/frontend.png">
+
+- Repositorio de mobile
+    - Link: https://github.com/GlucoTeam-IoT/glucova-mobile-app
+
+<img src="../assets/img/chapter-VI/sprint-2/insights/mobile.png">
+
+- Repositorio del backend
+    - Link: https://github.com/GlucoTeam-IoT/backend
+
+<img src="../assets/img/chapter-VI/sprint-2/insights/backend.png">
+
+- Repositorio del wokwi
+    - Link: https://github.com/GlucoTeam-IoT/glucova-iot
+
+<img src="../assets/img/chapter-VI/sprint-2/insights/iot.png">
 
 ## 6.3. Validation Interviews
 
@@ -893,7 +920,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
                 <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src=""></td>
+                <td><img src="../assets/img/chapter-VI/sprint-2/validation-alejandra.png"></td>
                 <td><strong>Resumen:</strong><br>La entrevistada nos comenta que a su parecer, considera que la plataforma presenta la información bastante clara y relevante, es concisa y directa. Cree que esta herramienta podría facilitar el seguimiento clínico de pacientes pero si estuviera integrada a algún sistema que ya utilicen a diario en el hospital, ya que por sí sola sería difícil que todo el personal la utilice. También, opina que por ahora las alertas generadas son útiles para el propósito de la herramienta. Le gustaría poder ver funcionalidades como poder cargar el historial médico del paciente y otros datos relevantes. Quizás poder obtener algún patrón según las estadísticas del historial, como a qué hora usualmente suele haber un pico en la medida de la glucosa en sangre del paciente. Finalmente, sí recomendaría el uso de la aplicación a sus compañeros profesionales de la salud. </td>
             </tr>
             <tr>
