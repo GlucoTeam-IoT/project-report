@@ -770,24 +770,24 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th></th>
+                <th>Fabian Reyes</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Stefano Alessandro Valenzuela Vallejos</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>San Martin de Porres</td>
             </tr>
             <tr>
-                <td><img src="" width="400" ></td>
+                <td><img src="../assets/img/chapter-VI/sprint-2/validation-stefano.png" width="165"></td>
                 <td><strong>Resumen:</strong><br></td>
             </tr>
             <tr>
@@ -874,8 +874,9 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
                 <th></th>
             </tr>
             <tr>
-                <th>Entrevistador </th>
-                <th></th>
+                <th>Entrevistador</th>
+                <th>Jose Daniel 
+                Calderon Huaman </th>
             </tr>
         </thead>
         <tbody>
@@ -888,7 +889,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
                 <td></td>
             </tr>
             <tr>
-                <td><img src="" width="400" ></td>
+                <td><img src="../assets/img/chapter-VI/sprint-2/validation-jose.png"></td>
                 <td><strong>Resumen:</strong><br></td>
             </tr>
             <tr>
@@ -967,6 +968,84 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
 </table>
 
 ### 6.3.3. Evaluaciones según heurísticas
+<tbody>
+  
+### UX Heuristics & Principles Evaluation
+
+#### Usability – Inclusive Design – Information Architecture
+# UX Heuristics & Principles Evaluation
+
+### Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Soluciones IoT  
+**SECCIÓN:** 2952  
+**PROFESORES:** Leon Baca Marco Antonio  
+**AUDITOR:**  
+**CLIENTE(S):**   
+**SITE o APP A EVALUAR:** Glucova App  
+
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Inicio de sesión en la aplicación.
+2. Configuracion del perfil.
+3. Visualziar el historial medio y aplicar filtros.
+4. Registrar nuevo dispositivo.
+5. Configuracion de alerta personalizada.
+6. Agregar contacto de emergencia.
+7. Cierre de sesion del usuario.
+8. Eliminar dispositivo agregado.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Llamar a su contacto de emergencia.
+2. Agregar un dispositivo movil.
+3. Visualizar el dashboard con su datos correspondiente.
+4. Estadisticas de su nivel de glucosa en la sangre.
+
+**ESCALA DE SEVERIDAD:**  
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del
+
+**TABLA DE RESUMEN:**
+
+| # | Problema | Escala de severidad | Heurística/Principio violado(o) |
+|---|----------|---------------------|--------------------------------|
+| 1 |Los íconos de filtros en el historial no son intuitivos ni explicativos  | 2 | 	Information Architecture: Correspondencia entre el sistema y el mundo real|
+| 2 |No se valida correctamente el ID al registrar un nuevo dispositivo | 3 | 	Usability: Prevención de errores |
+| 3 |El cierre de sesión ocurre sin confirmación | 1 | Usability: Libertad y control del usuario |
+| 4 |Eliminar un dispositivo no muestra advertencia ni opción de deshacer | 3 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+| Problema | Severidad | Heurística violada | Descripción | Recomendación |
+|----------|-----------|-------------------|------------|---------------|
+| **#1:** No se valida correctamente el ID al registrar un nuevo dispositivo | 3 | Usability – Prevención de errores | El sistema permite ingresar cualquier valor al registrar un nuevo dispositivo, sin validar el formato o existencia de ese ID, lo que puede llevar a errores de conexión o mal registro. | Implementar validación en tiempo real del ID ingresado, mostrar un mensaje de error si el formato es inválido y permitir al usuario corregirlo antes de continuar. |
+| **#2:** Eliminar un dispositivo no muestra advertencia ni opción de deshacer | 3 | Usability – Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores | Al eliminar un dispositivo, la acción se ejecuta de inmediato sin mostrar advertencias ni opción de deshacer, lo que puede provocar pérdidas involuntarias de configuración. | Incluir un mensaje de confirmación previo a la eliminación y una opción de deshacer visible durante unos segundos después de la acción. |
+| **#3:** El cierre de sesión ocurre sin confirmación | 1 | Usability – Libertad y control del usuario | Actualmente, al presionar "cerrar sesión", la app termina la sesión de forma inmediata sin solicitar confirmación, lo cual puede causar una salida involuntaria. | Agregar una ventana modal de confirmación que pregunte: "¿Desea cerrar sesión?", con botones de "Cancelar" y "Confirmar". |
+| **#4:** Los íconos de filtros en el historial no son intuitivos ni explicativos | 2 | Information Architecture – Correspondencia entre el sistema y el mundo real | Los íconos utilizados para aplicar filtros al historial médico no tienen texto o etiquetas explicativas, lo que dificulta su comprensión, especialmente para nuevos usuarios. | Añadir etiquetas de texto debajo de cada ícono o tooltips que se muestren al mantener presionado o pasar el cursor. |
+
+**RESUMEN DE MODIFICACIONES PARA SUBSANAR HALLAZGOS:**
+
+| # | Hallazgo identificado | Modificación propuesta | Escala de severidad | Prioridad |
+|---|----------------------|------------------------|---------------------|-----------|
+| 1 | No se valida correctamente el ID al registrar un nuevo dispositivo | Implementar validaciones de formato en tiempo real y mensajes de error claros | 3 | Alta |
+| 2 | Eliminar un dispositivo no muestra advertencia ni opción de deshacer | Incluir confirmación antes de eliminar y opción de deshacer visible por algunos segundos | 3 | Alta |
+| 3 | El cierre de sesión ocurre sin confirmación | Añadir ventana modal de confirmación antes de cerrar sesión | 1 | Baja |
+| 4 | Los íconos de filtros en el historial no son intuitivos ni explicativos | Añadir etiquetas o tooltips para mejorar la comprensión de los filtros| 2 | Media |
+
+</tbody>
+
 
 ## 6.4. Video About-the-Product
  
