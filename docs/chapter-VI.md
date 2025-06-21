@@ -787,82 +787,55 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
                 <td>San Martin de Porres</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-VI/sprint-2/validation-stefano.png" width="165"></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-VI/sprint-2/validation-stefano.png" ></td>
+                <td><strong>Resumen:</strong><br>El entrevistado comenta que la plataforma le parece una muy buena idea y bien pensada, especialmente útil para personas como su madre, diagnosticada con diabetes tipo 2. Señala que la interfaz es intuitiva, fácil de navegar y que no tuvo inconvenientes al momento de registrarse o iniciar sesión. Valora la inclusión de funciones como la visualización de niveles de glucosa y presión arterial, la generación de alertas automáticas y la posibilidad de vincular un dispositivo IoT, ya que esto ayudaría a tener un control más constante y automatizado de la salud del paciente. También considera acertado el apartado de contactos de emergencia y el historial médico. En general, le parece una herramienta cómoda, útil y con mucho potencial a futuro, y considera que podría ser de gran ayuda para pacientes diabéticos.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>10:54 - 16:47</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                </td>
             </tr>
         </tbody>
             <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th></th>
+                <th>Oscar Aranda</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Jeremi Jose Antonio Fretel</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Comas</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td></td>
-            </tr>
-        </tbody>
-                <thead>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th></th>
-            </tr>
-            <tr>
-                <th>Entrevistador </th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-VI/sprint-2/validation-jeremi.png" width="180"></td>
+                <td><strong>Resumen:</strong><br>Oscar Gabriel Alanda Vallejos, estudiante con diabetes tipo 2, considera que la plataforma es fácil de usar gracias a su diseño intuitivo y la barra lateral que facilita la navegación. Mencionó que no tuvo dificultades para entender el sistema y que la interfaz es cómoda visualmente.Destacó como muy útil el historial médico, ya que le permite hacer un seguimiento claro de sus diagnósticos y registros, lo que le ayuda a organizar mejor sus consultas. También valoró las alertas personalizadas, que le servirían para controlar sus niveles de glucosa y activar contactos de emergencia si fuera necesario.Finalmente, opinó que las funcionalidades más importantes son las alertas y el historial. Como mejora, sugirió reemplazar los códigos técnicos por nombres más claros para facilitar la identificación de dispositivos y registros.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>16:49 - 23:24</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                </td>
             </tr>
         </tbody>
+            
 </table>
 
 ## Entrevista a segmento objetivo 2: Médicos especializados
@@ -871,7 +844,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
                <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th></th>
+                <th>Maricielo Valdivia</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
@@ -882,23 +855,27 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>24</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Lima Cercado</td>
             </tr>
             <tr>
                 <td><img src="../assets/img/chapter-VI/sprint-2/validation-jose.png"></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><strong>Resumen:</strong><br>La entrevistada considera que la plataforma presenta la información de forma clara, visual y organizada, facilitando su uso en contextos clínicos con tiempo limitado. Opina que es una buena herramienta para complementar el seguimiento de pacientes con diabetes tipo 2, ya que permite observar la evolución de los niveles de glucosa y tomar decisiones más informadas.Las alertas automáticas le parecen útiles y acertadas, aunque recalca que deben evaluarse junto al contexto clínico. Sugiere añadir funciones como comentarios médicos, un resumen clínico del paciente y opciones de comunicación directa.En conclusión, sí recomendaría la aplicación, ya que fortalece el vínculo con el paciente y promueve su participación activa en el tratamiento.
+
+</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>5:42 - 10:46</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                </td>
             </tr>
         </tbody>
             <thead>
@@ -926,53 +903,21 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>0:08 - 5:40</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+</td>
             </tr>
         </tbody>
-                <thead>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th></th>
-            </tr>
-            <tr>
-                <th>Entrevistador </th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen: </strong><br></td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td></td>
-            </tr>
-        </tbody>
+        
 </table>
 
 ### 6.3.3. Evaluaciones según heurísticas
 <tbody>
   
-### UX Heuristics & Principles Evaluation
-
-#### Usability – Inclusive Design – Information Architecture
 # UX Heuristics & Principles Evaluation
 
 ### Usability – Inclusive Design – Information Architecture
@@ -981,12 +926,9 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
 **CURSO:** Desarrollo de Soluciones IoT  
 **SECCIÓN:** 2952  
 **PROFESORES:** Leon Baca Marco Antonio  
-**AUDITOR:**  
-**CLIENTE(S):**   
+**AUDITOR:**  SmartGuard   
+**CLIENTE(S):** David Alexander Perez Garcia  
 **SITE o APP A EVALUAR:** Glucova App  
-
-**TAREAS A EVALUAR:**  
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 **TAREAS A EVALUAR:**  
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
@@ -1052,8 +994,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 - Video del producto de software:
 
 Captura: 
+<img src="../assets/img/chapter-VI/sprint-2/about-the-product.png">
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/ESBSsI4Xyd5FnO3BczeqFNcBIbtpgAhj-vTV7ixS4NUFbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cAMtG6
 
 - Video del prototipo de wokwi:
 
