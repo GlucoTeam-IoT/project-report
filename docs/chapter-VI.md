@@ -797,7 +797,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
                 </td>
             </tr>
         </tbody>
@@ -831,7 +831,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
                 </td>
             </tr>
         </tbody>
@@ -874,7 +874,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
                 </td>
             </tr>
         </tbody>
@@ -908,7 +908,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EcTd27B8jQNDn_2iEffkn8AB3Kw9jfRIGa3jgrqily5_lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=umAAIs" target="_blank">Ver entrevista</a>
+  <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
 </td>
             </tr>
         </tbody>
@@ -996,14 +996,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 Captura: 
 <img src="../assets/img/chapter-VI/sprint-2/about-the-product.png">
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/ESBSsI4Xyd5FnO3BczeqFNcBIbtpgAhj-vTV7ixS4NUFbg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cAMtG6
+Link: https://shorturl.at/Guc0a
 
 - Video del prototipo de wokwi:
 
 Captura:
 <img src="../assets/img/chapter-VI/sprint-2/prototype-wokwi/demo-wokwi.png">
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWiDCO9KwyZCu62hBva7c84BEIYTYcp0U6oqACncJ8bEfg?e=3IEahZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link: https://shorturl.at/VouAM
 
 ## 7. Conclusiones
 
@@ -1096,9 +1096,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EW
             </td>
             <td>
                 Link: 
-                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/Eao6yknAZXBCiO9G8dnmag8Bj83wFn--OjyjVKAQa41NUA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fafxFo" target="_blank">
-                    Needfinding Interviews
-                </a> 
+                <a href="https://shorturl.at/PQv6t">https://shorturl.at/PQv6t
                 <br><br>
                 <img src="../assets/img/Anexo/Anexo entrevista.png" width="1000"> 
             </td>
@@ -1116,8 +1114,8 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EW
             </td>
             <td>
                 Link: 
-                <a href="" target="_blank">
-                    Validation Interviews
+                <a href="https://shorturl.at/dcIhs" target="https://shorturl.at/dcIhs">
+                    https://shorturl.at/dcIhs
                 </a> 
                 <br><br>
                 <img src="" width="1000"> 
