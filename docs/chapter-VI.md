@@ -1382,7 +1382,7 @@ Link: https://shorturl.at/VouAM
                     https://shorturl.at/dcIhs
                 </a> 
                 <br><br>
-                <img src="" width="1000"> 
+                <img src="" width="900"> 
             </td>
         </tr>
     </tbody>
