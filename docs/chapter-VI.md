@@ -357,6 +357,18 @@ Enlace: https://glucova.netlify.app/
 
 Enlace: https://glucovaapp.netlify.app
 
+**Evidencia de ejecución Mobile:**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia2-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia3-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia4-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia5-mobile.png" style="height: 400px; object-fit: contain;">
+</div>
+
+Enlace de ubicacion APK: https://glucovaapp.netlify.app
+
 **Evidencia de ejecución Web Sevices:**
 
 <img src="../assets/img/chapter-VI/sprint-1/execution-evidence/backend1.png">
@@ -843,7 +855,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
+                <a href="https://youtu.be/U9qJUHYlAbw?t=654">https://youtu.be/U9qJUHYlAbw?t=654</a>
                 </td>
             </tr>
         </tbody>
@@ -872,12 +884,12 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>16:49 - 23:24</td>
+                <td>16:49 - 28:31</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
+                <a href="https://youtu.be/U9qJUHYlAbw?t=1009">https://youtu.be/U9qJUHYlAbw?t=1009</a>
                 </td>
             </tr>
         </tbody>
@@ -920,7 +932,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-                <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
+                <a href="https://youtu.be/U9qJUHYlAbw?t=342">https://youtu.be/U9qJUHYlAbw?t=342</a>
                 </td>
             </tr>
         </tbody>
@@ -954,7 +966,7 @@ Se proporcionará acceso al médico a un entorno de prueba donde podrá visualiz
             <tr>
                 <td>URL de la entrevista</td>
                 <td>
-  <a href="https://shorturl.at/aZHZS">https://shorturl.at/aZHZS</a>
+  <a href="https://youtu.be/U9qJUHYlAbw?t=8">https://youtu.be/U9qJUHYlAbw?t=8</a>
 </td>
             </tr>
         </tbody>
@@ -1114,7 +1126,7 @@ Link: https://shorturl.at/VouAM
 
 - BackEnd Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
-- Enlace del prototipo wokwi: 
+- Enlace del prototipo wokwi: https://wokwi.com/projects/433158632982006785
 
 - Enlace del prototipo Figma: https://www.figma.com/proto/UNEzJ9s5wbYGMDJ9zfTBHK/Untitled?node-id=2-461&starting-point-node-id=2%3A461&t=hd6Gpzpw4UIrp1EU-1
 
