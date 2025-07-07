@@ -746,6 +746,19 @@
         </td>
         <td>EP02</td>
     </tr>
+    <tr>
+    <td>TS16</td>
+    <td>Implementación de Edge Computing para procesar datos en el dispositivo</td>
+    <td>Configurar Edge Node y procesar datos localmente para evitar la latencia de comunicación con el servidor central.</td>
+    <td>
+        <ul>
+            <li>Los nodos Edge procesan los datos en la periferia sin enviar la información al servidor central.</li>
+            <li>Se reduce la latencia y se mejora la eficiencia del sistema al procesar los datos más cerca de la fuente.</li>
+            <li>Los datos locales se almacenan temporalmente y se envían solo cuando sea necesario.</li>
+        </ul>
+    </td>
+    <td>EP06</td>
+</tr>
     </tbody>
 </table>
 </table>

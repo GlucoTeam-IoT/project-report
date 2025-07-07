@@ -18,11 +18,11 @@
 
  </center> 
 
-* **Maria Alejandra Díaz Villacrez  U202118315**
-* **Jose Daniel Mario Calderon Huaman    U202213076**
-* **Jair Andreé Coraje Bayona    U202118775** 
-* **Stefano Alessandro Valenzuela Vallejos    U202214695**
-* **Jeremi Jose Antonio Fretel   U202219022**
+* **Maria Alejandra Díaz Villacrez  (U202118315)**
+* **Jose Daniel Mario Calderon Huaman    (U202213076)**
+* **Jair Andreé Coraje Bayona    (U202118775)** 
+* **Stefano Alessandro Valenzuela Vallejos    (U202214695)**
+* **Jeremi Jose Antonio Fretel   (U202219022)**
 
 <center>
 
@@ -45,7 +45,8 @@
 | 1.2    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el despliegue del desarrollo del Frontend y Landing Page.|
 | 1.3    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace el desarrollo del capitulo V de UX/UI. |
 | 1.4    | 14/05/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se hace termino a la arquitectura del sistema (C4 Diagrams). |
-| 1.5    | 07/06/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se comenzó la redacción del sprint 2 para el entregable TB2. |
+| 1.5    | 07/06/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se comenzó la redacción del sprint 2 para el entregable TB2. | 
+|1.6    | 06/07/2025 | Maria Alejandra Díaz Villacrez <br> Jose Daniel Mario Calderon Huaman <br> Jair Andreé Coraje Bayona <br> Stefano Alessandro Valenzuela Vallejos <br> Jeremi Jose Antonio Fretel  Díaz                                                                | Se completo el Sprint 3 para dar finalización al proyecto. |
 
 ### Project Report Collaboration Insights
 
@@ -64,17 +65,25 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - main
 - develop
 
-#### Entregable TP1
+#### Entregables
 
 A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
 primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
 miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de 
 líneas de código que se han modificado en cada uno de los commits.
 
+
+#### Entregable TB1
+<img src="./assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
+
+#### Entregable TP1
 <img src="./assets/img/chapter-VI/sprint-1/team-collaboration-insights/insights-report.jpg">
 
 #### Entregable TB2
+<img src="./assets\img\chapter-I\General Insight.png">
 
+#### Entregable TF1
+<img src="./assets\img\chapter-I\General Insight.png">
 
 
 ## Contenido 
@@ -257,25 +266,27 @@ líneas de código que se han modificado en cada uno de los commits.
 
     6.2.1.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6219-team-collaboration-insights-during-sprint)
 
-    6.2.2. [Sprint 2](docs/chapter-VI.md#622-sprint-2)
+    6.2.3. [Sprint 3](docs/chapter-VI.md#623-sprint-3)
 
-    6.2.2.1. [Sprint Planning 2](docs/chapter-VI.md#6221-sprint-planning-2)  
+    6.2.3.1. [Sprint Planning 3](docs/chapter-VI.md#6231-sprint-planning-3)  
 
-    6.2.2.2. [Aspect Leaders and Collaborators](docs/chapter-VI.md#6222-aspect-leaders-and-collaborators)  
+    6.2.3.2. [Aspect Leaders and Collaborators](docs/chapter-VI.md#6232-aspect-leaders-and-collaborators)  
 
-    6.2.2.3. [Sprint Backlog 2](docs/chapter-VI.md#6223-sprint-backlog-2)  
+    6.2.3.3. [Sprint Backlog 3](docs/chapter-VI.md#6233-sprint-backlog-3)  
 
-    6.2.2.4. [Development Evidence for Sprint Review](docs/chapter-VI.md#6224-development-evidence-for-sprint-review)  
+    6.2.3.4. [Development Evidence for Sprint Review](docs/chapter-VI.md#6234-development-evidence-for-sprint-review)  
 
-    6.2.2.5. [Testing Suite Evidence for Sprint Review](docs/chapter-VI.md#6225-testing-suite-evidence-for-sprint-review)  
+    6.2.3.5. [Testing Suite Evidence for Sprint Review](docs/chapter-VI.md#6235-testing-suite-evidence-for-sprint-review)  
 
-    6.2.2.6. [Execution Evidence for Sprint Review](docs/chapter-VI.md#6226-execution-evidence-for-sprint-review)  
+    6.2.3.6. [Execution Evidence for Sprint Review](docs/chapter-VI.md#6236-execution-evidence-for-sprint-review)  
 
-    6.2.2.7. [Services Documentation Evidence for Sprint Review](docs/chapter-VI.md#6227-services-documentation-evidence-for-sprint-review)  
+    6.2.3.7. [Services Documentation Evidence for Sprint Review](docs/chapter-VI.md#6237-services-documentation-evidence-for-sprint-review)  
 
-    6.2.2.8. [Software Deployment Evidence for Sprint Review](docs/chapter-VI.md#6228-software-deployment-evidence-for-sprint-review)  
+    6.2.3.8. [Software Deployment Evidence for Sprint Review](docs/chapter-VI.md#6238-software-deployment-evidence-for-sprint-review)  
     
-    6.2.2.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6229-team-collaboration-insights-during-sprint)  
+    6.2.3.9. [Team Collaboration Insights during Sprint](docs/chapter-VI.md#6239-team-collaboration-insights-during-sprint)
+ 
+
 
     6.3. [Validation Interviews](docs/chapter-VI.md#63-validation-interviews)
 
@@ -325,12 +336,19 @@ líneas de código que se han modificado en cada uno de los commits.
         Durante el desarrollo del proyecto, asumí el liderazgo en la implementación del backend, diseñando y desarrollando la arquitectura de los servicios RESTful que soportan la solución IoT. Me encargué de definir las estructuras de datos y endpoints necesarios para la comunicación entre los dispositivos IoT y la aplicación, asegurando una integración eficiente y escalable. Además, trabajé en estrecha colaboración con el equipo de frontend y UX/UI para garantizar que las funcionalidades del backend respondieran a las necesidades identificadas en las entrevistas y user personas. Este trabajo permitió establecer una base técnica sólida para el proyecto, alineada con los objetivos del equipo. </br>
         <b>Díaz Villacrez, María Alejandra TB2:</b> 
         Durante el segundo entregable, asumí el liderazgo técnico en el desarrollo e implementación de los web services, componente crítico para la integración entre el frontend, el backend y los dispositivos IoT. Diseñé y documenté exhaustivamente las APIs REST, facilitando así la comunicación eficiente entre todos los miembros del equipo. Me encargué del despliegue de los servicios en entornos de producción, asegurando su correcto funcionamiento y disponibilidad. Paralelamente, tomé la iniciativa en el desarrollo del primer prototipo en Wokwi para nuestro dispositivo IoT, estableciendo las bases para la interacción entre hardware y software.
-        </td>
+        <BR><b>Díaz Villacrez, María Alejandra TF1:</b><BR> 
+        Durante el Sprint 3, asumí la responsabilidad técnica de la integración entre los dispositivos IoT, el backend y la app móvil. Fui clave en la finalización del sistema embebido en Wokwi, donde implementé la funcionalidad necesaria para conectar el hardware con el software de manera eficiente. Además, supervisé el desarrollo final de la aplicación móvil, asegurando que el flujo de datos y las alertas se gestionaran correctamente en tiempo real, lo que permitió completar la versión final de la solución. Este sprint consolidó la visión integral del proyecto, logrando la estabilidad en la conexión entre el hardware, el backend y la app móvil, creando un sistema completamente funcional para monitoreo de pacientes. </br>
+        </td>       
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
         El equipo GlucoTeam demostró un efectivo liderazgo colaborativo durante el desarrollo del primer entregable, donde cada integrante asumió responsabilidades específicas según sus fortalezas: investigación con usuarios médicos, diseño y análisis de entrevistas, elaboración de user personas, análisis competitivo y diseño de arquitectura tecnológica. Esta distribución de liderazgos permitió abordar aspectos críticos del proyecto desde múltiples perspectivas, combinando habilidades técnicas y de investigación. El trabajo coordinado facilitó la integración coherente de los hallazgos, estableciendo una base sólida para el desarrollo de la solución IoT orientada al monitoreo de pacientes con diabetes, alineada con necesidades reales identificadas tanto en profesionales médicos como en pacientes.</br>
-        <b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
+        <b>CONCLUSIÓN DEL ENTREGABLE TP1</b><br>
+        El equipo GlucoTeam alcanzó un hito importante con el despliegue final del backend y frontend durante el entregable TP1. El trabajo coordinado entre los miembros del equipo permitió la integración efectiva de la arquitectura backend con el frontend, asegurando una comunicación fluida entre todos los componentes del sistema. El backend se desplegó exitosamente, permitiendo la validación de datos, autenticación de usuarios y sincronización con la base de datos. Por otro lado, el frontend fue implementado y desplegado, brindando una interfaz de usuario intuitiva y funcional. Este esfuerzo conjunto no solo consolidó la infraestructura tecnológica del proyecto, sino que también permitió al equipo avanzar de manera efectiva hacia la creación de una plataforma IoT completamente funcional para el monitoreo de pacientes.
+        <br><b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
          El equipo GlucoTeam evidenció un liderazgo técnico distribuido durante el Sprint 2, donde cada miembro asumió responsabilidades específicas en áreas cruciales: desarrollo de web services y APIs, implementación del prototipo IoT, mejoras en el frontend, optimización de la experiencia de usuario y gestión de la integración entre componentes. Esta especialización permitió aprovechar las fortalezas individuales mientras se mantenía una visión unificada del proyecto. El liderazgo compartido facilitó la resolución ágil de desafíos técnicos complejos y permitió avanzar simultáneamente en múltiples frentes de desarrollo, consolidando una arquitectura IoT coherente y funcional.
+         <br><b>CONCLUSIÓN DEL ENTREGABLE TF1</b><br>
+         El equipo GlucoTeam ha alcanzado importantes logros en el Sprint 3, completando la integración entre el dispositivo IoT, el backend y la app móvil. Esto ha resultado en una solución IoT funcional para el monitoreo de pacientes, capaz de procesar datos en tiempo real y enviar alertas.
+          La colaboración efectiva entre los miembros del equipo permitió superar desafíos técnicos, garantizar la calidad del sistema y asegurar una experiencia de usuario intuitiva. Con la finalización de este sprint, hemos establecido una base sólida para el monitoreo de la salud de los pacientes y futuras expansiones del sistema.
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -338,8 +356,12 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
       <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
       Durante el desarrollo del proyecto, me encargué de realizar la entrevista clave que sirvió de base para varios entregables posteriores. A partir de esta información, participé activamente en la elaboración del To-Be Scenario, proyectando cómo debería ser la experiencia del usuario en el futuro. Además, colaboré en la redacción de las User Stories, asegurando que se reflejaran correctamente las necesidades identificadas. También contribuí en la creación del Impact Mapping, conectando objetivos de negocio con funcionalidades específicas para priorizar mejor los esfuerzos del equipo. Finalmente, participé en la definición del Product Backlog, organizando y jerarquizando las tareas de acuerdo a su valor para el usuario y el proyecto. Esta experiencia me permitió fortalecer mis habilidades de análisis y estructuración de requerimientos, así como trabajar de forma alineada con el equipo.  
-      <b>Antonio Fretel, Jeremi Jose TP1:</b> <br> 
+      <br><b>Antonio Fretel, Jeremi Jose TP1:</b> <br> 
       En la entrega TP1, participé activamente en la implementación del frontend, enfocándome en la integración de las interfaces con los datos obtenidos en la investigación inicial. Colaboré en los ajustes de los wireflows basados en feedback del equipo, así como en la revisión de los diagramas C4 para asegurar su consistencia técnica con la interfaz desarrollada. 
+      <br><b>Antonio Fretel, Jeremi Jose TB2:</b> <br> 
+      En el segundo entregable, el equipo demostró un excelente manejo de la colaboración técnica, enfocándose en el desarrollo e implementación de los web services y la integración entre el frontend y el backend. El liderazgo técnico se distribuyó de manera eficiente, permitiendo avanzar en la integración de los dispositivos IoT. El enfoque en pruebas y documentación mejoró la calidad del código y la interoperabilidad entre los diferentes componentes del sistema, asegurando una solución robusta y bien implementada.
+      <br><b>Antonio Fretel, Jeremi Jose TF1:</b> <br> 
+      En este Sprint 3, me enfoqué en la validación y la integración de los dispositivos IoT con la aplicación móvil y backend. Participé activamente en la finalización del prototipo en Wokwi, asegurando su correcta interacción con la app y la base de datos. Además, trabajé en la optimización del frontend, brindando una interfaz de usuario más intuitiva para las interacciones con el sistema IoT. La versión final de la app móvil y la estabilidad de la conexión con los dispositivos IoT marcaron un avance significativo en la solución, garantizando que la experiencia del usuario fuera óptima y funcional.
     </td> 
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -349,7 +371,11 @@ líneas de código que se han modificado en cada uno de los commits.
         Durante el primer entregable, realicé un trabajo activo en equipo liderando la elaboración del Capítulo I del proyecto, el cual abarcó desde la descripción inicial de la startup hasta la definición de los segmentos objetivo. Asumí un rol propositivo y de liderazgo compartido al desarrollar secciones clave como la problemática, los perfiles del equipo, el perfil de la solución y los elementos del proceso Lean UX, como las problem statements, assumptions, hipótesis y el Lean UX Canvas. Además, promoví la colaboración entre los integrantes para alinear criterios y asegurar coherencia en el enfoque del proyecto. Esta experiencia me permitió ejercer liderazgo de forma conjunta, contribuyendo al desarrollo estratégico de la propuesta y facilitando la organización efectiva del equipo en las etapas iniciales.
         <br><b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
         En TP1, participé en la construcción del frontend, enfocándome en la implementación de visualizaciones estadísticas de los reportes del paciente. Contribuí en la integración con la interfaz y Landing Page, además, me aseguré que los gráficos y elementos visuales cumplieran con los estándares de usabilidad establecidos por el equipo de UX/UI. También colaboré en la validación final de los wireflows e hice observaciones sobre la arquitectura del sistema.
-      </td>    
+        <br><b>Calderon Huaman, Jose Daniel Mario TB2:</b><br>
+        En este segundo entregable, el equipo se concentró en la optimización de la experiencia del usuario y la integración de componentes clave del sistema. El liderazgo técnico en la creación de APIs y su implementación en producción fue fundamental para asegurar que todos los componentes del sistema funcionaran de manera eficiente y sin interrupciones. Además, el prototipo en Wokwi estableció las bases para la comunicación entre hardware y software, consolidando la solución IoT y garantizando su efectividad en el entorno real.
+      <br><b>Calderon Huaman, Jose Daniel Mario TF1:</b><br>
+        Durante este sprint, contribuyó a la finalización del prototipo del dispositivo en Wokwi y a la implementación de las últimas funcionalidades de la app móvil. Fui responsable de asegurarme de que las visualizaciones estadísticas de los pacientes se actualizaran en tiempo real, lo que resultó fundamental para que la app móvil y el backend se conectaran sin problemas. Este sprint consolidó tanto la arquitectura como la funcionalidad del sistema IoT, logrando la sincronización total entre la app, el backend y los dispositivos, lo que permitió la entrega de la versión final.
+      </td>   
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
@@ -358,6 +384,10 @@ líneas de código que se han modificado en cada uno de los commits.
        Durante el desarrollo del proyecto, tuve una comunicación activa con mi equipo para fomentar el trabajo de cada uno, apoyando en la elaboracion del diseño de las entrevistas, y el analisis de estas, gracias a esto pudimos desarrollar a los user personas por cada uno de los sectores objetivos junto a sus journey maps y empathy maps, lo que nos permitio avanzar hacia el as-is scenario, además se aporto en el desarrollo del analisis competitivo, donde verificamos las foortalezas y debilidades frente a nuestros competidores. Este primer entregable me ayudo en fortalecer el trabajo en equipo y la colaboración continua.
        <br><b>Coraje Bayona, Jair TP1:</b><br>
        En la entrega TP1, me enfoqué en la implementación de funcionalidades clave del frontend, incluyendo el módulo de registro y autenticación de usuarios. Aporté en el despliegue de la landing page y su conexión con el backend. También participé en el diseño de la experiencia de usuario (UX) en dichas funcionalidades, trabajando en conjunto con el equipo para que los wireflows reflejaran adecuadamente el flujo de acceso del usuario. Finalmente, contribuí en la revisión y corrección de los diagramas C4 en base a los ajustes técnicos aplicados.
+       <br><b>Coraje Bayona, Jair TB2:</b><br>
+       El segundo entregable se caracterizó por un enfoque colaborativo que permitió avanzar en la implementación del sistema IoT, con un fuerte énfasis en la integración entre backend y dispositivos IoT. El trabajo en equipo fue fundamental para completar las tareas de desarrollo de APIs y la creación del prototipo funcional en Wokwi. Las pruebas realizadas aseguraron la fiabilidad del sistema y establecieron un marco sólido para las siguientes fases del proyecto, garantizando la coherencia entre las distintas partes del sistema.
+       <br><b>Coraje Bayona, Jair TF1:</b><br>
+       En este Sprint 3, completé la integración entre los dispositivos IoT y la app móvil, asegurando que la comunicación fuera fluida y eficiente. Realicé pruebas para garantizar que los datos se actualizaran correctamente en tiempo real desde los dispositivos hasta la aplicación móvil, y trabajé en la implementación de las alertas personalizadas que notifican al usuario en caso de cambios críticos en la salud. La finalización de la versión móvil y la estabilización de la comunicación con el dispositivo IoT fueron aspectos clave en la entrega exitosa del proyecto.
        </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
@@ -367,6 +397,10 @@ líneas de código que se han modificado en cada uno de los commits.
         Durante el desarrollo del proyecto en el curso de IoT, trabajé de manera colaborativa con el equipo, proporcionando liderazgo en la elaboración de los diagramas C4 y el diseño de la estrategia de implementación del software. Me encargué de la creación de los diagramas que detallan la arquitectura del sistema y su despliegue, asegurando que todos los componentes estuvieran bien estructurados y fueran fácilmente comprensibles. Además, contribuyó a la arquitectura del software, analizando y proponiendo soluciones que optimizaran la comunicación entre los dispositivos y garantizaran un rendimiento eficiente. Esta experiencia me permitió fortalecer mis habilidades de trabajo en equipo y liderazgo, al coordinar y guiar las decisiones técnicas para lograr una solución IoT robusta y escalable.
         <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TP1:</b><br>
         En TP1, asumí nuevamente un rol técnico principal al liderar el despliegue del frontend en conjunto con la landing page. Coordiné el equipo para asegurar una correcta integración con el backend y validé que todos los wireflows desarrollados respondieran a los escenarios reales de uso definidos en entregables previos. También actualicé los diagramas C4 conforme a los cambios técnicos en la arquitectura, asegurando que se reflejara correctamente la estructura y comunicación entre los componentes. Esta participación consolidó la visión técnica del sistema y la coherencia entre diseño e implementación.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TB2:</b><br>
+        En este segundo entregable, el equipo logró un gran avance al consolidar la comunicación entre los diversos componentes del sistema IoT, centrado en la integración del frontend con los web services y la interacción con los dispositivos IoT. La implementación de los servicios RESTful fue clave para el funcionamiento correcto del sistema y el despliegue en entornos de producción. Además, la colaboración activa y la participación en la validación de los wireflows y diagramas C4 aseguraron una experiencia de usuario óptima y un rendimiento eficiente del sistema, creando una base sólida para las fases posteriores del proyecto.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TF1:</b><br>
+        Durante el Sprint 3, desempeñé un papel crucial en el despliegue final de la aplicación móvil y la integración con los dispositivos IoT. Coordiné el equipo para asegurarme de que los componentes finales estuvieran sincronizados correctamente, tanto en la app como en el backend. Aseguré que el sistema embebido en Wokwi funcionara de manera estable y que los dispositivos se comunicaran de manera eficiente con la app. La entrega final consistió en una solución robusta que permite el monitoreo efectivo de los pacientes, consolidando el proyecto como una plataforma IoT integral, tanto a nivel de hardware como de software.
       </td>   
     </tr>
     <tbody>
@@ -387,13 +421,18 @@ líneas de código que se han modificado en cada uno de los commits.
         Para fomentar un entorno colaborativo, organicé reuniones técnicas donde compartí avances y desafíos relacionados con el backend, asegurando que todos los miembros del equipo comprendieran su funcionamiento y pudieran integrarlo con sus respectivas áreas. Establecí metas claras para el desarrollo de las APIs, dividiendo las tareas en sprints manejables y priorizando funcionalidades críticas como la autenticación de usuarios y la gestión de datos médicos. Gracias a una planificación detallada y comunicación constante, logramos cumplir con los objetivos establecidos dentro del cronograma, asegurando que el backend estuviera listo para las pruebas de integración con el resto del sistema. </br>
         <b>Díaz Villacrez, María Alejandra TB2:</b> 
         Para este segundo sprint, establecí un enfoque colaborativo mediante la creación de documentación detallada y accesible de los web services, lo que permitió a todos los miembros del equipo comprender y utilizar las APIs desarrolladas sin obstáculos. Definí metas claras y específicas para el desarrollo de cada endpoint, organizando el trabajo en módulos funcionales con plazos definidos. Implementé un sistema de pruebas que permitía validar cada servicio antes de su integración, asegurando así la calidad del código. Para el desarrollo del prototipo IoT en Wokwi, planifiqué iteraciones incrementales que fueron compartidas con el equipo para recibir retroalimentación constantemente, lo que generó un ambiente inclusivo donde todos pudieron contribuir con ideas para mejorar la solución.
-        </td>
+        <BR><b>Díaz Villacrez, María Alejandra TF1:</b><BR> 
+        Durante el Sprint 3, asumí la responsabilidad técnica de la integración entre los dispositivos IoT, el backend y la app móvil. Fui clave en la finalización del sistema embebido en Wokwi, donde implementé la funcionalidad necesaria para conectar el hardware con el software de manera eficiente. Además, supervisé el desarrollo final de la aplicación móvil, asegurando que el flujo de datos y las alertas se gestionaran correctamente en tiempo real, lo que permitió completar la versión final de la solución. Este sprint consolidó la visión integral del proyecto, logrando la estabilidad en la conexión entre el hardware, el backend y la app móvil, creando un sistema completamente funcional para monitoreo de pacientes. </br>
         <td rowspan="5"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios. </br>
-        <b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
+        El equipo implementó metodologías efectivas para mantener un entorno colaborativo e inclusivo, caracterizado por reuniones periódicas de alineamiento, comunicación constante y espacios para que cada miembro expresara sus ideas. La planificación se ejecutó mediante el establecimiento de metas claras y la asignación equitativa de tareas específicas con plazos definidos, lo que permitió avanzar de manera organizada y eficiente. Este enfoque metódico en la planificación facilitó el cumplimiento oportuno de los entregables, manteniendo altos estándares de calidad en la documentación y análisis. El compromiso colectivo con la organización y los objetivos compartidos resultó fundamental para completar exitosamente el primer entregable del proyecto, sentando las bases para un desarrollo tecnológico centrado en las necesidades de los usuarios. </br><b>CONCLUSIÓN DEL ENTREGABLE TP1</b><br>
+        El equipo GlucoTeam alcanzó un hito importante con el despliegue final del backend y frontend durante el entregable TP1. El trabajo coordinado entre los miembros del equipo permitió la integración efectiva de la arquitectura backend con el frontend, asegurando una comunicación fluida entre todos los componentes del sistema. El backend se desplegó exitosamente, permitiendo la validación de datos, autenticación de usuarios y sincronización con la base de datos. Por otro lado, el frontend fue implementado y desplegado, brindando una interfaz de usuario intuitiva y funcional. Este esfuerzo conjunto no solo consolidó la infraestructura tecnológica del proyecto, sino que también permitió al equipo avanzar de manera efectiva hacia la creación de una plataforma IoT completamente funcional para el monitoreo de pacientes. 
+       <br> <b>CONCLUSIÓN DEL ENTREGABLE TB2</b><br>
         Durante el segundo sprint, el equipo estableció procesos colaborativos efectivos mediante documentación detallada, comunicación constante y revisiones cruzadas del trabajo. Se implementaron metodologías ágiles para establecer metas específicas, medibles y alcanzables para cada componente del sistema (web services, frontend, prototipo IoT). La planificación se estructuró en ciclos cortos con entregables incrementales, permitiendo validaciones tempranas y ajustes oportunos. Este enfoque favoreció un ambiente donde todos los miembros contribuyeron activamente, compartiendo conocimientos específicos y respetando los tiempos establecidos. 
-      </td>   
+      <br><b>CONCLUSIÓN DEL ENTREGABLE TF1</b><br>
+         El equipo GlucoTeam ha alcanzado importantes logros en el Sprint 3, completando la integración entre el dispositivo IoT, el backend y la app móvil. Esto ha resultado en una solución IoT funcional para el monitoreo de pacientes, capaz de procesar datos en tiempo real y enviar alertas.
+          La colaboración efectiva entre los miembros del equipo permitió superar desafíos técnicos, garantizar la calidad del sistema y asegurar una experiencia de usuario intuitiva. Con la finalización de este sprint, hemos establecido una base sólida para el monitoreo de la salud de los pacientes y futuras expansiones del sistema..
+          </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
@@ -401,6 +440,10 @@ líneas de código que se han modificado en cada uno de los commits.
       <b>Antonio Fretel, Jeremi Jose TB1:</b> <br> 
       Durante el desarrollo del proyecto, fomenté un entorno colaborativo e inclusivo al compartir los hallazgos obtenidos en la entrevista que realicé, lo cual permitió al equipo tener una base sólida para avanzar en los siguientes entregables. Junto a mis compañeros, establecimos metas claras para construir el To-Be Scenario, alineando nuestras ideas sobre la experiencia futura del usuario. A partir de ahí, planificamos las tareas para la elaboración de las User Stories, donde me aseguré de que reflejaran diversas perspectivas y necesidades identificadas. También colaboré activamente en el Impact Mapping, conectando los objetivos del proyecto con acciones concretas, lo que nos ayudó a definir prioridades de forma estratégica. Finalmente, participé en la estructuración del Product Backlog, garantizando una planificación clara que nos permitió cumplir con los objetivos establecidos en tiempo y forma. Esta experiencia reforzó mi capacidad para organizar el trabajo en equipo de manera efectiva y empática.  <br><b>Antonio Fretel, Jeremi Jose TP1:</b> <br> 
       Durante el segundo entregable, Contribuí al diseño y validación de wireflows, integrando elementos UX que faciliten la interacción del usuario final. Asimismo, participé en el despliegue inicial de la solución en entorno de prueba y apoyé en la verificación de la lógica visual del frontend. También propuse mejoras en los diagramas C4, reforzando el cumplimiento de los objetivos planteados por el equipo.
+      <br><b>Antonio Fretel, Jeremi Jose TB2:</b> <br> 
+      En el segundo entregable, el equipo demostró un excelente manejo de la colaboración técnica, enfocándose en el desarrollo e implementación de los web services y la integración entre el frontend y el backend. El liderazgo técnico se distribuyó de manera eficiente, permitiendo avanzar en la integración de los dispositivos IoT. El enfoque en pruebas y documentación mejoró la calidad del código y la interoperabilidad entre los diferentes componentes del sistema, asegurando una solución robusta y bien implementada.
+      <br><b>Antonio Fretel, Jeremi Jose TF1:</b> <br> 
+      En este Sprint 3, me enfoqué en la validación y la integración de los dispositivos IoT con la aplicación móvil y el backend. Participé activamente en la finalización del prototipo en Wokwi, asegurando su correcta interacción con la app y la base de datos. Además, trabajé en la optimización del frontend, brindando una interfaz de usuario más intuitiva para las interacciones con el sistema IoT. La versión final de la app móvil y la estabilidad de la conexión con los dispositivos IoT marcaron un avance significativo en la solución, garantizando que la experiencia del usuario fuera óptima y funcional.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -410,16 +453,23 @@ líneas de código que se han modificado en cada uno de los commits.
         Durante el primer entregable, realicé un trabajo centrado en fomentar un entorno colaborativo e inclusivo dentro del equipo, participando activamente en la definición de metas y la planificación de tareas relacionadas con el Capítulo I del proyecto. Coordiné la elaboración de secciones fundamentales como la descripción de la startup, los perfiles de los integrantes, el perfil de la solución, y los distintos elementos del proceso Lean UX. A través de una comunicación clara y abierta, promoví la participación de todos los miembros, asegurando que cada aporte fuera considerado y valorado. Gracias a una planificación estructurada, logramos cumplir con los objetivos planteados en el cronograma, manteniendo la coherencia y calidad del entregable.
         <BR><b>Calderon Huaman, Jose Daniel Mario TP1:</b><br>
         En el segundo entregable, apoyé de forma activa en la planificación del despliegue del frontend y la validación del diseño de la landing page. Colaboré en la estructuración y revisión de wireflows propuestos por el equipo UX/UI, asegurando la alineación con los objetivos del usuario. Asimismo, contribuí a la revisión y corrección del diagrama C4, ajustando los niveles de detalle técnico necesarios para garantizar su implementación adecuada. Este trabajo consolidó nuestra planificación y permitió cumplir con los entregables en los plazos establecidos.
+        <br><b>Calderon Huaman, Jose Daniel Mario TB2:</b><br>
+        En este segundo entregable, el equipo se concentró en la optimización de la experiencia del usuario y la integración de componentes clave del sistema. El liderazgo técnico en la creación de APIs y su implementación en producción fue fundamental para asegurar que todos los componentes del sistema funcionaran de manera eficiente y sin interrupciones. Además, el prototipo en Wokwi estableció las bases para la comunicación entre hardware y software, consolidando la solución IoT y garantizando su efectividad en el entorno real.   
+      <br><b>Calderon Huaman, Jose Daniel Mario TF1:</b><br>
+        Durante este sprint, contribuí a la finalización del prototipo del dispositivo en Wokwi y a la implementación de las últimas funcionalidades de la app móvil. Fui responsable de asegurarme de que las visualizaciones estadísticas de los pacientes se actualizaran en tiempo real, lo que resultó fundamental para que la app móvil y el backend se conectaran sin problemas. Este sprint consolidó tanto la arquitectura como la funcionalidad del sistema IoT, logrando la sincronización total entre la app, el backend y los dispositivos, lo que permitió la entrega de la versión final.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Coraje Bayona, Jair TB1:</b><br>
-       Durante el desarrollo de este primer entregable, me enfoque en mantener el ambiente colaborativo de cada miembro del equipo, donde cada uno expreso sus aportes de manera verbal, asi como aportar el proyecto por medio de las entrevistas. Estableci metas concisas y tareas para el desarrollo de este entregable, lo que permitio que el equipo avance con tiempo cada parte del proyecto, logrando cumplir las tareas a tiempo y por ende el objetivo principal también.</td>   
+       Durante el desarrollo de este primer entregable, me enfoque en mantener el ambiente colaborativo de cada miembro del equipo, donde cada uno expreso sus aportes de manera verbal, asi como aportar el proyecto por medio de las entrevistas. Estableci metas concisas y tareas para el desarrollo de este entregable, lo que permitio que el equipo avance con tiempo cada parte del proyecto, logrando cumplir las tareas a tiempo y por ende el objetivo principal también.   
        <BR><b>Coraje Bayona, Jair TP1:</b><br>
        Durante el segundo entregable, trabajé colaborativamente en el diseño y validación de la experiencia de usuario en la landing page, centrando mi esfuerzo en los aspectos visuales y de navegación. También contribuí en la diagramación de wireflows, garantizando que las rutas de usuario fueran intuitivas y funcionales. Aporté en la corrección del diagrama C4, especialmente en los componentes de interacción entre usuario y sistema. Este proceso fortaleció la cohesión del equipo y nos permitió cumplir con las metas propuestas.
-    </td>   
+       <br><b>Coraje Bayona, Jair TB2:</b><br>
+       El segundo entregable se destacó por un enfoque altamente colaborativo que facilitó el avance en la implementación del sistema IoT, con un énfasis particular en la integración entre el backend y los dispositivos IoT. La colaboración entre los miembros del equipo fue clave para completar las tareas de desarrollo de las APIs y para la creación del prototipo funcional en Wokwi. Las pruebas exhaustivas realizadas permitieron asegurar la fiabilidad del sistema, estableciendo una base sólida para las etapas siguientes del proyecto y garantizando una integración coherente entre los distintos componentes del sistema.
+       <br><b>Coraje Bayona, Jair TF1:</b><br>
+       En este Sprint 3, me centré en completar la integración entre los dispositivos IoT y la app móvil, asegurando que la comunicación fuera fluida y eficiente. Realicé diversas pruebas para verificar que los datos se actualizaran en tiempo real desde los dispositivos hacia la aplicación móvil y trabajé en la implementación de alertas personalizadas para notificar a los usuarios sobre cambios críticos en la salud. La finalización exitosa de la versión móvil y la estabilización de la comunicación con los dispositivos IoT fueron puntos cruciales para asegurar el éxito de la entrega, destacando un ambiente de trabajo colaborativo, metas bien definidas y cumplimiento de los objetivos establecidos.
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
@@ -428,6 +478,10 @@ líneas de código que se han modificado en cada uno de los commits.
         En el desarrollo del proyecto de IoT, me aseguré de crear un entorno colaborativo e inclusivo, donde todos los miembros del equipo pudieran expresar sus ideas y contribuir de manera activa al proceso. Establecí metas claras y definí tareas específicas, lo que permitió al equipo avanzar de manera organizada y eficiente. A través de una planificación detallada, aseguré que cada etapa del proyecto se cumpliera dentro de los plazos establecidos y que los objetivos se alcanzaran con éxito. Mi enfoque en la colaboración y la inclusión fomentó un ambiente donde todos se sintieron comprometidos con el proyecto, lo que resultó en una ejecución efectiva y en la obtención de los resultados esperados.
         <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TP1</b><br>
         Durante esta fase del proyecto, lideré la implementación del frontend y el despliegue de la landing page, asegurando su correcto funcionamiento en diferentes entornos. Además, coordiné con el equipo de UX/UI para la definición de los wireflows, validando su funcionalidad e integración con la lógica de la solución. También me encargué de la revisión técnica y actualización de los diagramas C4, incorporando mejoras identificadas durante la implementación. Este trabajo consolidó la arquitectura del proyecto, garantizando su alineación con los requerimientos técnicos y de experiencia de usuario.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TB2:</b><br>
+        Durante este segundo entregable, el equipo logró un avance significativo al consolidar la comunicación entre los diferentes componentes del sistema IoT, enfocándose en la integración del frontend con los web services y la interacción con los dispositivos IoT. La implementación de los servicios RESTful fue fundamental para garantizar el correcto funcionamiento del sistema y su despliegue exitoso en entornos de producción. Además, la colaboración activa y la validación de los wireflows y diagramas C4 aseguraron una experiencia de usuario óptima, además de un rendimiento eficiente del sistema, estableciendo una base sólida para las siguientes fases del proyecto.
+        <BR><b>Valenzuela Vallejos, Stefano Alessandro Nombre TF1:</b><br>
+        Durante el Sprint 3, asumí un rol clave en el despliegue final de la aplicación móvil y su integración con los dispositivos IoT. Coordiné al equipo para asegurarme de que los componentes finales estuvieran perfectamente sincronizados, tanto en la app como en el backend. Me aseguré de que el sistema embebido en Wokwi funcionara de manera estable y que los dispositivos se comunicaran eficientemente con la app móvil. La entrega final fue una solución robusta que facilita el monitoreo efectivo de los pacientes, consolidando el proyecto como una plataforma IoT integral, tanto a nivel de hardware como de software.
       </td>   
     </tr>
 </table>
