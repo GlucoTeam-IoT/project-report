@@ -357,17 +357,6 @@ Enlace: https://glucova.netlify.app/
 
 Enlace: https://glucovaapp.netlify.app
 
-**Evidencia de ejecución Mobile:**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="../assets/img/chapter-VI/sprint-2/evidencia-mobile.png" style="height: 400px; object-fit: contain;">
-  <img src="../assets/img/chapter-VI/sprint-2/evidencia2-mobile.png" style="height: 400px; object-fit: contain;">
-  <img src="../assets/img/chapter-VI/sprint-2/evidencia3-mobile.png" style="height: 400px; object-fit: contain;">
-  <img src="../assets/img/chapter-VI/sprint-2/evidencia4-mobile.png" style="height: 400px; object-fit: contain;">
-  <img src="../assets/img/chapter-VI/sprint-2/evidencia5-mobile.png" style="height: 400px; object-fit: contain;">
-</div>
-
-Enlace de ubicacion APK: https://glucovaapp.netlify.app
 
 **Evidencia de ejecución Web Sevices:**
 
@@ -959,7 +948,13 @@ Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 Enlace de ubicación APK: https://glucovaapp.netlify.app
 
 **Evidencia de ejecución Wokwi:**
-<img src="../assets\img\chapter-VI\WokwiProject.png">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia2-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia3-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia4-mobile.png" style="height: 400px; object-fit: contain;">
+  <img src="../assets/img/chapter-VI/sprint-2/evidencia5-mobile.png" style="height: 400px; object-fit: contain;">
+</div>
 
 Enlace: https://wokwi.com/projects/433158632982006785
 
