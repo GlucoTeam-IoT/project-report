@@ -732,7 +732,7 @@ Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 <img src="../assets/img/chapter-VI/sprint-2/insights/backend.png">
 
 - Repositorio del wokwi
-    - Link: https://github.com/GlucoTeam-IoT/glucova-iot
+    - Link: https://github.com/GlucoTeam-IoT/IoT
 
 <img src="../assets/img/chapter-VI/sprint-2/insights/iot.png">
 
@@ -1028,7 +1028,7 @@ Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 <img src="../assets\img\chapter-VI\Sprint 3\Insights-Back.png">
 
 - Repositorio del wokwi
-    - Link: https://github.com/GlucoTeam-IoT/glucova-iot
+    - Link: https://github.com/GlucoTeam-IoT/IoT
 
 <img src="../assets\img\chapter-VI\Sprint 3\Insights-Embebido.png">
 
@@ -1324,6 +1324,14 @@ Captura:
 
 Link: https://shorturl.at/VouAM
 
+
+- Video del prototipo embedded
+
+Captura:
+<img src="../assets/img/chapter-VI/Sprint 3/demo-final.png">
+
+Link: https://shorturl.at/FqB2F
+
 ## 7. Conclusiones
 
 ### 7.1. Conclusiones y recomendaciones
@@ -1353,7 +1361,10 @@ Link: https://shorturl.at/VouAM
 ### 7.2. Video About-the-Team
 
 > Puedes ver nuestro video de presentación del equipo y el proyecto en el siguiente enlace:  
-> [Video About-the-Team]()
+> [https://shorturl.at/qtwuT](https://shorturl.at/qtwuT)
+
+Captura:
+<img src="../assets/img/chapter-VI/Sprint 3/about-the-team.png">
 
 ---
 
@@ -1388,6 +1399,8 @@ Link: https://shorturl.at/VouAM
 - BackEnd Enlace: https://glucova-backend-1c16.onrender.com/api/docs#/
 
 - Enlace del prototipo wokwi: https://wokwi.com/projects/433158632982006785
+
+- Enlace para descargar apk mobile: https://github.com/GlucoTeam-IoT/glucova-mobile-app/releases/download/v1.0.0/glucova.apk
 
 - Enlace del prototipo Figma: https://www.figma.com/proto/UNEzJ9s5wbYGMDJ9zfTBHK/Untitled?node-id=2-461&starting-point-node-id=2%3A461&t=hd6Gpzpw4UIrp1EU-1
 
@@ -1438,6 +1451,24 @@ Link: https://shorturl.at/VouAM
                 </a> 
                 <br><br>
                 <img src="" width="900"> 
+            </td>
+        </tr>
+        <tr>
+            <td>Expo TF</td>
+            <td>
+                Cantidad de videos: 1 <br> 
+                Nomenclatura: upc-pre-202510-1asi0572-2952-glucoteam-expo-tf1 <br>
+                Formato: mp4 <br>
+                Duración: 
+            </td>
+            <td>
+                En este video se consolida la exposicion final.
+            </td>
+            <td>
+                Link: 
+                <a href="https://shorturl.at/6ngWN"> https://shorturl.at/6ngWN
+                <br><br>
+                <img src="../assets/img/chapter-VI/Sprint 3/expo-tf.png" width="1000"> 
             </td>
         </tr>
     </tbody>
